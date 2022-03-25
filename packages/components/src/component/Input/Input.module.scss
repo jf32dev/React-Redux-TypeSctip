@@ -1,0 +1,139 @@
+@import '@redbull/common/style/styles.scss';
+
+.input {
+  width: 100%;
+  label {
+    display: block;
+    font-family: $font-bull-text-bold;
+    font-size: rem(15px);
+    line-height: rem(18px);
+    margin-bottom: rem(5px);
+    &.required:after {
+      color: $c-red;
+      content: '*';
+      padding-left: 3px;
+    }
+  }
+  .message {
+    background: $c-red--lightest;
+    color: $c-grey--8;
+    font-size: rem(14px);
+    padding: rem(6px) rem(10px);
+  }
+  .custominput {
+    display: flex;
+    > * {
+      &:first-child {
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+      }
+      &:last-child:not(:first-child) {
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 0;
+        margin-left: -1px;
+      }
+      &:not(:first-child):not(:last-child) {
+        border-radius: 0;
+        margin-left: -1px;
+      }
+    }
+    input {
+      align-items: center;
+      appearance: none;
+      background: $c-white;
+      border: 1px solid $c-grey--3;
+      border-radius: 2px;
+      color: $c-grey--8;
+      display: flex;
+      flex: 1;
+      font-family: $font-bull-regular;
+      font-size: rem(16px);
+      line-height: rem(18px);
+      margin: 0;
+      min-height: rem(36px);
+      padding: rem(6px) rem(9px);
+      vertical-align: middle;
+      width: 100%;
+      &:disabled {
+        background-color: inherit;
+        border-color: $c-grey--2;
+        box-shadow: inherit;
+        color: rgba(0, 0, 0, 0.38);
+      }
+      &:focus {
+        background: $c-white;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+        outline: none;
+      }
+      &:read-only {
+        border-color: $c-grey--2;
+      }
+      &[type='number'],
+      [type='text'],
+      [type='time'] {
+        appearance: none;
+      }
+      @include media('>=md') {
+        font-size: rem(14px);
+        min-height: rem(32px);
+      }
+    }
+    .btnreset {
+      background: white;
+      position: relative;
+      svg {
+        fill: none;
+        height: 10px !important;
+        stroke: $c-grey--6;
+        stroke-width: 3px;
+        vertical-align: middle;
+        width: 10px !important;
+      }
+      &:after {
+        border-left: 1px solid $c-white;
+        bottom: 0;
+        content: '';
+        left: -1px;
+        position: absolute;
+        top: 0;
+      }
+    }
+    .btnicon {
+      padding: 0 6px;
+      position: relative;
+      svg {
+        height: 20px;
+        vertical-align: middle;
+        width: 20px;
+        path {
+          fill: $c-red;
+        }
+      }
+    }
+    &.disabled,
+    &.readOnly {
+      pointer-events: none;
+      .btnreset,
+      .btnicon {
+        border-color: $c-grey--2;
+        color: rgba(0, 0, 0, 0.38);
+        opacity: 1;
+      }
+      .btnicon {
+        border-left: transparent;
+      }
+    }
+    &.error {
+      input {
+        border-bottom: 2px solid $c-red;
+        color: $c-red;
+      }
+    }
+    &.focused {
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+      input:focus {
+        box-shadow: none;
+      }
+    }
+  }
+}

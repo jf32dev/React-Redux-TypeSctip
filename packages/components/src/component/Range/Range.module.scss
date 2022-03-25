@@ -1,0 +1,112 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-white;
+
+  .range {
+    input {
+      -webkit-appearance: none;
+      height: 1px;
+      margin: 18px 0;
+      width: 100%;
+      &:focus {
+        outline: none;
+      }
+      &::-webkit-slider-runnable-track {
+        background: #979797;
+        border: 0;
+        border-radius: 5px;
+        box-shadow: none;
+        cursor: pointer;
+        height: 1px;
+        width: 100%;
+      }
+      &::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        background: $c-action--lightest;
+        border: 0;
+        border-radius: 50%;
+        box-shadow: none;
+        cursor: pointer;
+        height: 20px;
+        margin-top: -10px;
+        width: 20px;
+      }
+      &:focus::-webkit-slider-runnable-track {
+        background: #979797;
+      }
+      &::-moz-range-track {
+        background: #979797;
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+        cursor: pointer;
+        height: 1px;
+        width: 100%;
+      }
+      &::-moz-range-thumb {
+        background: $c-action--lightest;
+        border: 0;
+        border-radius: 5px;
+        box-shadow: none;
+        cursor: pointer;
+        height: 20px;
+        width: 20px;
+      }
+      &::-ms-track {
+        background: transparent;
+        border-color: transparent;
+        border-width: 0;
+        color: transparent;
+        cursor: pointer;
+        height: 1px;
+        width: 100%;
+      }
+      &::-ms-fill-lower {
+        background: #979797;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+      }
+      &::-ms-fill-upper {
+        background: #979797;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+      }
+      &::-ms-thumb {
+        background: $c-action--lightest;
+        border: 0;
+        border-radius: 50%;
+        box-shadow: none;
+        cursor: pointer;
+        height: 20px;
+        width: 20px;
+      }
+      &:focus::-ms-fill-lower {
+        background: #979797;
+      }
+      &:focus::-ms-fill-upper {
+        background: #979797;
+      }
+    }
+  }
+
+  .input {
+    display: flex;
+    label {
+      align-content: center;
+      display: flex;
+      flex: 2;
+    }
+    .field {
+      flex: 1;
+      input {
+        font-family: $font-bull-bold;
+        font-size: rem(11px);
+        line-height: 14px;
+        text-align: right;
+      }
+    }
+  }
+}

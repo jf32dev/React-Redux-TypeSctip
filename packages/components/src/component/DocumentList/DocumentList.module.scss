@@ -1,0 +1,15 @@
+@import '@redbull/common/style/styles.scss';
+
+.documents {
+  display: flex;
+  &.wrap {
+    flex-wrap: wrap;
+  }
+  figure {
+    margin: rem(9px);
+  }
+}
+
+.no-content {
+  height: 100%;
+}

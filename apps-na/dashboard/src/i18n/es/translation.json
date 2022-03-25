@@ -1,0 +1,74 @@
+{
+  "dashboard": {
+    "welcome": "Hola",
+    "myDocuments": "Mis documentos",
+    "myTools": "Mis herramientas",
+    "documents": {
+      "bookmarks": "Bookmarks",
+      "myFavourites": "Mis Favoritos",
+      "myFiles": "Mis archivos",
+      "popular": "Popular",
+      "latestUpdates": "Últimas actualizaciones"
+    },
+    "tools": {
+      "calculator": "Calculadora",
+      "pitchBuilder": "Construye tus argumentarios",
+      "insights": "Insights",
+      "posCatalogue": "Catálogo de materiales",
+      "accounts": "Cuentas",
+      "objectionHandling": "Manejar objeciones"
+    }
+  },
+  "utils": {
+    "seeMore": "Mas",
+    "search": "Buscar",
+    "clear": "Borrar",
+    "sortResultsBy": "Ordenar resultados por",
+    "mostRecent": "Mas reciente",
+    "recentSearches": "Búsquedas recientes",
+    "filterResults": "Filtrar resultados",
+    "comingSoon": "Próximamente",
+    "resultMatch": "resultados corresponden a",
+    "fileMatch": "archivos corresponden a",
+    "storyMatch": "historias corresponden a",
+    "allResults": "Todos los resultados",
+    "allFiles": "Todos los archivos",
+    "allStories": "Todos los articulos",
+    "stories": "Articulos",
+    "files": "Archivos",
+    "account": "Cuenta",
+    "back": "Volver",
+    "from": "Desde",
+    "to": "Hasta",
+    "select": "Seleccionar...",
+    "dateFormat": "DD/MM/AAAA",
+    "loadingMore": "cargando más..."
+  },
+  "sections": {
+    "sell": "Vende",
+    "learn": "Aprende",
+    "execute": "Ejecuta",
+    "accounts": "Cuentas"
+  },
+  "errorMessages": {
+    "pitchBuilder": "No se puede abrir la app de Construción de argumentarios",
+    "calculator": "No se puede abrir la calculadora",
+    "noContent": "Sin contenido",
+    "noContentFound": "El contenido no está disponible, por favor contacta con el administrador para más información.",
+    "noPopularStories": "Articulos mas vistos no disponibles",
+    "noBookmarks": "Artículos / Archivos en Bookmark no disponibles",
+    "noFeaturedStories": "No se han encontrado artículos destacados",
+    "noResults": "No se encuentran resultados",
+    "noResultsSearch": "Reformula tu búsqueda, prueba una completamente nueva y evita caracteres especiales.",
+    "noShareableFiles": "Error al compartir: no hay archivos a compartir",
+    "sharingError": "Error al compartir:",
+    "personalTabError": "Error al ir a la Pestaña personal",
+    "personalChannelError": "Error al ir al Canal personal",
+    "searchTermTooShort": "El término de búsqueda debe componerse de al menos 2 letras.",
+    "fromNoGreaterThanTo": "Desde no puede ser superior a Hasta",
+    "toNoLessThanFrom": "Hasta no puede ser inferior a Desde"
+  },
+  "infoMessages": {
+    "newContentShared": "Un contenido nuevo te ha llegado"
+  }
+}

@@ -1,0 +1,59 @@
+@import '@redbull/common/style/styles.scss';
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+  thead {
+    tr {
+      height: rem(60px);
+      th {
+        font-family: $font-bull-bold;
+        padding: 0 rem(20px);
+        text-align: left;
+        width: 10%;
+      }
+    }
+  }
+  tbody {
+    tr {
+      height: rem(44px);
+      td {
+        padding: 0 rem(20px);
+        text-align: left;
+        width: 10%;
+        img {
+          height: rem(24px);
+          object-fit: contain;
+        }
+      }
+      &:nth-child(odd) {
+        background: #f7f6f6;
+      }
+      &:hover {
+        background-color: $c-grey--2;
+      }
+    }
+  }
+
+  &.scrollable {
+    display: block;
+    overflow: hidden;
+    thead,
+    tbody {
+      display: block;
+      width: 100%;
+      tr {
+        align-items: center;
+        display: flex;
+        > * {
+          flex: 1;
+        }
+      }
+    }
+    tbody {
+      height: calc(100% - 60px);
+      overflow-y: auto;
+    }
+  }
+}

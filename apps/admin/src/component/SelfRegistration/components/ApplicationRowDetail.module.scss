@@ -1,0 +1,24 @@
+@import '@redbull/common/style/styles';
+
+.application-row-detail {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  height: rem(80px);
+  justify-content: space-between;
+  padding: 0 20px;
+  .column {
+    display: flex;
+    flex-basis: 14%;
+    flex-direction: column;
+    flex-grow: 1;
+    &.wide {
+      flex-basis: 22%;
+    }
+    span {
+      word-break: break-all;
+    }
+  }
+}

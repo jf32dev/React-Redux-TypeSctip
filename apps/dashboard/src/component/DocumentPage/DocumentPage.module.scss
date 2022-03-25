@@ -1,0 +1,61 @@
+@import '@redbull/common/style/styles.scss';
+
+.document-layout {
+  margin-left: 0;
+  .no-margin {
+    margin: 0;
+  }
+  .card {
+    flex: 1;
+    padding: 20px;
+    position: relative;
+    @include media('>=sm') {
+      margin: rem(20px) rem(40px) 0 rem(40px);
+    }
+
+    .primary-control {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      .button {
+        align-items: center;
+        display: inline-flex;
+        text-transform: uppercase;
+        span {
+          font-family: $font-bull-heavy;
+          font-size: rem(18px);
+        }
+        svg {
+          margin-right: 0.5rem;
+          transform: rotate(90deg);
+        }
+      }
+    }
+
+    .list {
+      figure {
+        flex-basis: calc(50% - 1.8rem);
+        flex-grow: 0;
+        flex-shrink: 1;
+        margin: rem(9px);
+      }
+
+      @include media('>=sm') {
+        figure {
+          flex-basis: calc(20% - 1.8rem);
+          margin: rem(9px);
+        }
+      }
+      @include media('>=md') {
+        figure {
+          flex-basis: calc(14% - 1.8rem);
+        }
+      }
+      @include media('>=lg') {
+        figure {
+          flex-basis: calc(10% - 1.8rem);
+        }
+      }
+    }
+  }
+}

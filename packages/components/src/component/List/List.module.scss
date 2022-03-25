@@ -1,0 +1,84 @@
+@import '@redbull/common/style/styles.scss';
+
+.list {
+  list-style: none;
+  padding-left: 0;
+  width: 100%;
+  .item {
+    border-bottom: 1px solid $c-grey--2;
+
+    position: relative;
+    &.link {
+      cursor: pointer;
+      .mask {
+        background: linear-gradient(
+            105deg,
+            transparent,
+            transparent 25%,
+            rgba(0, 0, 0, 0.05) 0,
+            rgba(0, 0, 0, 0.05) 50%,
+            transparent 0,
+            transparent 75%,
+            rgba(0, 0, 0, 0.05) 0,
+            rgba(0, 0, 0, 0.05)
+          )
+          no-repeat -5px -5px;
+        background-size: 600% 600%;
+        height: 100%;
+        max-width: none;
+        position: absolute;
+        transition: background-position 0.3s cubic-bezier(0.35, 0, 0, 1);
+        width: 100%;
+        z-index: 1;
+      }
+      &:hover {
+        .mask {
+          background-position: 20% 20%;
+        }
+      }
+      &:active,
+      &:focus {
+        cursor: default;
+        outline: none;
+        .mask {
+          background-position: 80% 80%;
+        }
+      }
+    }
+    .content {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      padding: 14px;
+      position: relative;
+      width: 100%;
+      z-index: 2;
+      > .itemColumn {
+        flex-basis: 0;
+        flex-grow: 1;
+        &.v {
+          &-top {
+            align-self: flex-start;
+          }
+          &-center {
+            align-self: center;
+          }
+          &-bottom {
+            align-self: flex-end;
+          }
+        }
+        &.h {
+          &-left {
+            text-align: left;
+          }
+          &-center {
+            text-align: center;
+          }
+          &-right {
+            text-align: right;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@import '@redbull/common/style/styles.scss';
+
+.clear {
+  background: transparent;
+  border-bottom: none;
+  border-top: none;
+  outline: none !important;
+  padding: 0.8rem 1.5rem;
+  svg {
+    fill: none;
+    height: 10px;
+    stroke: $c-grey--6;
+    stroke-width: 3px;
+    width: 10px;
+  }
+}

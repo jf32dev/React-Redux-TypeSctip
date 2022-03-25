@@ -1,0 +1,22 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-white;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+
+  .label {
+    color: $c-grey--8;
+    display: block;
+    height: rem(45px);
+    padding: rem(12px) rem(20px);
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+    transition: color 0.3s ease;
+    &:hover {
+      background-color: $c-grey--1;
+      transition: background-color 0.2s ease;
+    }
+  }
+}

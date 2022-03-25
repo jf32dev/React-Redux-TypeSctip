@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    some-label: kubenertes-ci-cd
+spec:
+  serviceAccountName: jenkins-sa
+  containers:
+    - name: node
+      image: node:lts
+      resources:
+        requests:
+          memory: "2048Mi"
+          cpu: "1000m"
+      command:
+        - cat
+      tty: true

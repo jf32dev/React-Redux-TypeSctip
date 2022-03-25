@@ -1,0 +1,41 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  padding-bottom: 2rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-top: 1rem;
+  @include media('<sm') {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .shelf-counts-input {
+    display: flex;
+    @include media('<sm') {
+      display: block;
+    }
+    .input-section {
+      margin-right: 1rem;
+      width: 49%;
+      @include media('<sm') {
+        width: 100%;
+      }
+      .input {
+        border: 1px solid #d2cfd0;
+        height: 30px;
+        margin-bottom: 1rem;
+        margin-top: 0.5rem;
+        width: 98%;
+      }
+      @include media('<sm') {
+        font-size: rem(13px);
+      }
+    }
+  }
+  .total-value {
+    display: flex;
+    justify-content: space-between;
+    margin-top: rem(10px);
+  }
+}

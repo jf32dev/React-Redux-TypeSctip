@@ -1,0 +1,10 @@
+@import '@redbull/common/style/styles.scss';
+
+.primaryMenu {
+  &.unpadded {
+    padding-left: 0;
+  }
+  li {
+    width: rem(140px);
+  }
+}

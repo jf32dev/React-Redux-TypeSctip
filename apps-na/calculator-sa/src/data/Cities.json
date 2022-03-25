@@ -1,0 +1,221 @@
+{
+  "default": [{ "value": "select city", "label": "SELECT CITY" }],
+  "Alabama": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Alabama", "label": "Alabama" },
+    { "value": "Birmingham/Montgomery", "label": "Birmingham/Montgomery" },
+    { "value": "New Orleans/Mobile", "label": "New Orleans/Mobile" }
+  ],
+  "Arizona": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Arizona", "label": "Arizona" }
+  ],
+  "Arkansas": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Arkansas", "label": "Arkansas" }
+  ],
+  "California": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "California", "label": "California" },
+    { "value": "Los Angeles", "label": "Los Angeles" },
+    { "value": "Sacramento", "label": "Sacramento" },
+    { "value": "San Diego", "label": "San Diego" },
+    { "value": "San Francisco/Oakland", "label": "San Francisco/Oakland" }
+  ],
+  "Colorado": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Colorado", "label": "Colorado" },
+    { "value": "Denver", "label": "Denver" }
+  ],
+  "Connecticut": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Connecticut", "label": "Connecticut" }
+  ],
+  "Florida": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Florida", "label": "Florida" },
+    { "value": "Jacksonville", "label": "Jacksonville" },
+    { "value": "Miami/Ft. Lauderdale", "label": "Miami/Ft. Lauderdale" },
+    { "value": "Orlando", "label": "Orlando" },
+    { "value": "Tampa/St. Petersburg", "label": "Tampa/St. Petersburg" }
+  ],
+  "Georgia": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Georgia", "label": "Georgia" },
+    { "value": "Atlanta", "label": "Atlanta" }
+  ],
+  "Illinois": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Illinois", "label": "Illinois" },
+    { "value": "Chicago", "label": "Chicago" },
+    { "value": "Peoria/Springfield", "label": "Peoria/Springfield" }
+  ],
+  "Indiana": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Indiana", "label": "Indiana" }
+  ],
+  "Iowa": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Iowa", "label": "Iowa" }
+  ],
+  "Kentucky": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Kentucky", "label": "Kentucky" },
+    { "value": "Louisville", "label": "Louisville" }
+  ],
+  "Louisiana": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Louisiana", "label": "Louisiana" },
+    { "value": "New Orleans /Mobile", "label": "New Orleans /Mobile" }
+  ],
+  "Maine": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Maine", "label": "Maine" }
+  ],
+  "Maryland": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Maryland", "label": "Maryland" },
+    {
+      "value": "Baltimore/Washington D.C.",
+      "label": "Baltimore/Washington D.C."
+    }
+  ],
+  "Massachusetts": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Massachusetts", "label": "Massachusetts" },
+    { "value": "Boston", "label": "Boston" }
+  ],
+  "Michigan": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Michigan", "label": "Michigan" },
+    { "value": "Detroit", "label": "Detroit" }
+  ],
+  "Minnesota": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Minnesota", "label": "Minnesota" },
+    { "value": "Minneapolis/St. Paul", "label": "Minneapolis/St. Paul" }
+  ],
+  "Missouri": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Missouri", "label": "Missouri" }
+  ],
+  "Nebraska": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Nebraska", "label": "Nebraska" }
+  ],
+  "Nevada": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Nevada", "label": "Nevada" },
+    { "value": "Las Vegas", "label": "Las Vegas" }
+  ],
+  "New Hampshire": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "New Hampshire", "label": "New Hampshire" }
+  ],
+  "New Mexico": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "New Mexico", "label": "New Mexico" },
+    { "value": "West Texas/New Mexico", "label": "West Texas/New Mexico" }
+  ],
+  "New York": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "New York", "label": "New York" },
+    { "value": "Buffalo/Rochester", "label": "Buffalo/Rochester" },
+    { "value": "New York City", "label": "New York City" }
+  ],
+  "North Carolina": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "North Carolina", "label": "North Carolina" },
+    { "value": "Raleigh/Greensboro", "label": "Raleigh/Greensboro" }
+  ],
+  "North Dakota": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "North Dakota", "label": "North Dakota" }
+  ],
+  "Ohio": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Ohio", "label": "Ohio" },
+    { "value": "Cincinnati/Dayton", "label": "Cincinnati/Dayton" },
+    { "value": "Toledo", "label": "Toledo" }
+  ],
+  "Oklahoma": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Oklahoma", "label": "Oklahoma" }
+  ],
+  "Oregon": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Oregon", "label": "Oregon" }
+  ],
+  "Pennsylvania": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Pennsylvania", "label": "Pennsylvania" },
+    { "value": "Harrisburg/Scranton", "label": "Harrisburg/Scranton" }
+  ],
+  "Rhode Island": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Rhode Island", "label": "Rhode Island" }
+  ],
+  "South Carolina": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "South Carolina", "label": "South Carolina" }
+  ],
+  "South Dakota": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "South Dakota", "label": "South Dakota" }
+  ],
+  "Tennessee": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Tennessee", "label": "Tennessee" }
+  ],
+  "Texas": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Texas", "label": "Texas" },
+    { "value": "Dallas/Ft. Worth", "label": "Dallas/Ft. Worth" },
+    { "value": "Houston", "label": "Houston" },
+    {
+      "value": "San Antonio/Corpus Christi",
+      "label": "San Antonio/Corpus Christi"
+    }
+  ],
+  "Utah": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Utah", "label": "Utah" },
+    { "value": "Salt Lake City", "label": "Salt Lake City" }
+  ],
+  "Vermont": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Vermont", "label": "Vermont" }
+  ],
+  "Virginia": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Virginia", "label": "Virginia" },
+    { "value": "Richmond/Norfolk", "label": "Richmond/Norfolk" },
+    { "value": "Roanoke", "label": "Roanoke" }
+  ],
+  "Washington": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Washington", "label": "Washington" },
+    { "value": "Seattle/Tacoma", "label": "Seattle/Tacoma" }
+  ],
+  "West Virginia": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "West Virginia", "label": "West Virginia" }
+  ],
+  "Wisconsin": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Wisconsin", "label": "Wisconsin" },
+    { "value": "Green Bay", "label": "Green Bay" }
+  ],
+  "Wyoming": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Wyoming", "label": "Wyoming" }
+  ],
+  "Mississippi": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "Mississippi", "label": "Mississippi" }
+  ],
+  "New England": [
+    { "value": "select city", "label": "SELECT CITY" },
+    { "value": "New England", "label": "New England" }
+  ]
+}

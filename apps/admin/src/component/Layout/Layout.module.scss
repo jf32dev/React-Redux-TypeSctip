@@ -1,0 +1,11 @@
+@import '@redbull/common/style/styles.scss';
+
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-bottom: rem(20px);
+  margin-top: rem(20px);
+  overflow-x: hidden;
+  overflow-y: auto;
+}

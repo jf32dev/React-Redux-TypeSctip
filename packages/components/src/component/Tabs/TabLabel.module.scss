@@ -1,0 +1,51 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-basis: 50%;
+  height: rem(50px);
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  transition: color 0.2s ease;
+  &:after {
+    background-color: $c-grey--4;
+    bottom: 0;
+    content: '';
+    height: 5px;
+    left: 0;
+    position: absolute;
+    transition: background-color 0.2s ease;
+    width: 100%;
+  }
+  &:hover {
+    background-color: $c-grey--1;
+    color: $c-red;
+    transition: color 0.2s ease;
+  }
+  &.active {
+    color: $c-red;
+    font-family: $font-bull-text-bold;
+    &:after {
+      background-color: $c-red;
+      transition: background-color 0.2s ease;
+    }
+  }
+  &.disabled {
+    color: $c-grey--5;
+    &:after {
+      background-color: $c-grey--2;
+      transition: background-color 0.2s ease;
+    }
+  }
+
+  @include media('<=sm') {
+    &:not(.active) {
+      &:after {
+        height: 0;
+      }
+    }
+  }
+}

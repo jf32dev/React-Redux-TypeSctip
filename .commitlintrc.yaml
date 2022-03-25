@@ -1,0 +1,30 @@
+extends:
+# https://github.com/conventional-changelog/commitlint/blob/master/%40commitlint/config-conventional/index.js
+- "@commitlint/config-conventional"
+rules:
+  header-max-length: [2, always, 72]
+  body-max-line-length: [1, always, 100]
+  footer-max-line-length: [1, always, 72]
+  scope-enum:
+    - 2
+    - always
+    - - admin # Admin Portal (Self Registration, Calculator)
+      - calculator # Calculator BTCA AddOns
+      - dashboard # Dashboard BTCA AddOns
+      - dashboard-na # Dashboard BTCA AddOns for NA
+      - calculator-na # Calculator BTCA AddOns for NA
+      - registration # Self Registration Portal
+      - general # affects whole repo (change in config, etc.)
+  type-enum:
+      - 2
+      - always
+      - - build # affect the build system or external dependencies
+        - ci # CI configuration files and scripts
+        - chore # changes to process e.g. eslint config
+        - docs # documentation only
+        - feat # new feature
+        - fix # bug fix
+        - perf # improves performance
+        - refactor # neither fixes a bug nor adds a feature
+        - style # do not affect the meaning of the code, e.g. formatting
+        - test # add/update/remove tests

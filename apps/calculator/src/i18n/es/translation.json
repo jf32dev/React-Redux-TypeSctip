@@ -1,0 +1,72 @@
+{
+  "general": {
+    "calculator": "Calculadora",
+    "selectCalculator": "Seleccionar Calculadora",
+    "upliftDistribution": "Distribución incremental",
+    "upliftSalesDriver": "Incremento de Sales Driver",
+    "tradeUp": "Trade Up"
+  },
+  "navigation": {
+    "close": "Cerrar",
+    "next": "Siguiente",
+    "back": "Volver",
+    "recalculate": "Re-Calcular",
+    "share": "Compartir",
+    "save": "Guardar",
+    "fullscreen": "Pantalla completa",
+    "saveTo": "Guardar bajo",
+    "cancel": "Cancelar"
+  },
+  "steps": {
+    "enterDetails": "Rellena los detalles",
+    "enterPricing": "Rellena los precios",
+    "summary": "Resumen",
+    "pictureIt": "Ilústralo"
+  },
+  "inputs": {
+    "selectChannel": "Selecciona un canal",
+    "selectVariant": "Selecciona una variable",
+    "selectFillingSize": "Selecciona el tamaño",
+    "selectPack": "Selecciona el formato",
+    "shelfPrice250": "Precio de reposición 250ml",
+    "selectSalesDriver": "Seleccionar Sales Driver",
+    "caseDeal": "Promoción caja",
+    "estUplift": "Venta incremental estimada",
+    "costCase": "Coste / Caja",
+    "customerSellingPrice": "Precio de venta al retailer",
+    "currentWeeklySales": "Ventas semanales",
+    "unitCase": "Unidades / Caja",
+    "newTotalCostCase": "Nuevo Unidades total / Caja",
+    "unitCost": "Unidades unidad",
+    "cashMargin": "Margen",
+    "estWeeklySales": "Venta semanal estimada",
+    "estAnnualValue": "Importe anual estimado",
+    "estAnnualIncrementalValue": "Importe anual incremental estimado",
+    "taxes": "Impuestos",
+    "totalCostCase": "Unidades total / Caja",
+    "title": "Título",
+    "rrp": "PVP"
+  },
+  "inputMessages": {
+    "requiredField": "Este campo es obligatorio",
+    "priceProvidedByCustomer": "Precio indicado por el cliente",
+    "enterValidNumber": "Por favor entra un número válido",
+    "lowestPossibleValue": "El valor mínimo es",
+    "highestPossibleValue": "El valor máximo es",
+    "pleaseSelect": "Selecciona por favor..."
+  },
+  "errorMessages": {
+    "noData": "Disculpa las molestias, el dato no está disponible",
+    "unauthorisedAccess": "La calculadora selecionada no tiene datos disponibles o no tienes aceso a ello. Contacta por favor con el administrador para mas información.",
+    "createdStoryNotFound": "El artículo creado no está disponible",
+    "failedToLoadCalculatorData": "Error al subir datos de calculadora",
+    "failedToLoadDriverImage": "Error al subir la imagen de Sales Driver",
+    "problemLoadingYourChannels": "Ha habido un problema al cargar tus canales.",
+    "failedToLoadProductImage": "Error al subir la imagen del product"
+  },
+  "infoMessages": {
+    "generatingPDF": "Generando PDF",
+    "successfullySaved": "Guardado con éxito, PDF generado",
+    "openChannel": "¿Abrir Canal?"
+  }
+}

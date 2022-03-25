@@ -1,0 +1,46 @@
+{
+  "name": "@redbull/components",
+  "version": "0.1.0",
+  "collaborators": [
+    "Hans C Yustiawan (hans.yustiawan@bigtincan.com)",
+    "Michaela Hercogova (michaela.hercogova@bigtincan.com)"
+  ],
+  "private": true,
+  "main": "src/component/index.ts",
+  "dependencies": {
+    "@redbull/common": "0.1.0",
+    "classnames": "^2.2.6",
+    "flagpack": "^1.0.5",
+    "lodash": "^4.17.19",
+    "react-dates": "^21.8.0",
+    "react-scripts": "^3.4.1",
+    "react-select": "^3.1.0",
+    "react-transition-group": "^4.4.1"
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-links": "^5.3.19",
+    "@storybook/addons": "^5.3.19",
+    "@storybook/preset-create-react-app": "^3.1.4",
+    "@storybook/react": "^5.3.19",
+    "@types/lodash": "^4.14.158",
+    "@types/react-dates": "^17.1.14",
+    "@types/react-select": "^3.0.17",
+    "babel-loader": "8.1.0"
+  },
+  "peerDependencies": {
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "react": "^16.13.1",
+    "react-app-polyfill": "^1.0.6",
+    "react-dev-utils": "^10.2.1",
+    "react-dom": "^16.13.1",
+    "typescript": "~4.0.0"
+  },
+  "scripts": {
+    "build-storybook": "build-storybook",
+    "storybook": "start-storybook -p 6006 -c .storybook",
+    "typecheck": "tsc --noEmit"
+  }
+}

@@ -1,0 +1,132 @@
+@import '@redbull/common/style/styles.scss';
+
+.block {
+  .head {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: rem(15px);
+
+    h3 {
+      padding: 0;
+      text-transform: uppercase;
+    }
+
+    span {
+      cursor: pointer;
+    }
+  }
+
+  .title {
+    font-size: rem(18px);
+    margin: 0;
+    padding: 0 0 rem(15px);
+  }
+
+  @include media('<sm') {
+    .title {
+      padding: rem(5px) 0 rem(25px);
+    }
+  }
+
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin: 0 rem(-10px);
+    position: relative;
+
+    @include media('<sm') {
+      display: block;
+    }
+
+    &.horizontal-scroll {
+      display: flex;
+      flex-wrap: unset;
+      margin: 0;
+      overflow-x: auto;
+
+      > * {
+        flex: none;
+        height: auto;
+        margin: 0 rem(20px) rem(15px) 0;
+        width: rem(260px);
+      }
+    }
+  }
+}
+
+.container {
+  border-radius: 2px;
+  flex-basis: calc(25% - 20px);
+  margin: 0 rem(10px) rem(15px);
+  overflow: hidden;
+  position: relative;
+
+  .story {
+    border: 1px solid $c-grey--2;
+    display: block;
+    height: auto;
+    overflow: hidden;
+    padding-top: 100%;
+    position: relative;
+
+    img {
+      height: 100%;
+      left: 0;
+      object-fit: cover;
+      object-position: center;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 1;
+    }
+
+    .overlay {
+      background: linear-gradient(
+          0deg,
+          rgba(0, 0, 0, 0.8) 0%,
+          rgba(0, 0, 0, 0) 72.78%
+        ),
+        linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 72.78%);
+      background-blend-mode: multiply;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 2;
+    }
+
+    .info {
+      bottom: 0;
+      left: 0;
+      padding: rem(15px) rem(20px);
+      position: absolute;
+
+      z-index: 3;
+
+      .title {
+        color: white;
+        font-size: rem(18px);
+        margin: 0 0 rem(15px);
+        padding: 0;
+        @include maxLine(2);
+      }
+
+      .description {
+        color: white;
+        font-size: rem(14px);
+        margin: 0;
+        @include maxLine(2);
+      }
+    }
+  }
+  @include media('<md') {
+    flex-basis: calc(33.33% - 20px);
+  }
+
+  @include media('<sm') {
+    flex-basis: calc(50% - 20px);
+  }
+}

@@ -1,0 +1,127 @@
+@import '@redbull/common/style/styles.scss';
+
+.flyin {
+  align-items: center;
+  background-color: $c-grey--6;
+  border-radius: 2px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 4px 0px;
+  display: flex;
+  margin-bottom: rem(15px);
+  min-height: rem(38px);
+  overflow: hidden;
+  @include media('>sm') {
+    &.actionable {
+      align-items: flex-start;
+    }
+    border-radius: 2px 0 0 2px;
+    margin-bottom: rem(25px);
+    min-height: rem(64px);
+    padding: rem(10px) 0;
+    width: rem(270px);
+  }
+  .icon {
+    display: inline-flex;
+    margin-left: 10px;
+    svg {
+      fill: $c-white;
+      height: 20px;
+      stroke: $c-white;
+      width: 20px;
+    }
+    @include media('>sm') {
+      svg {
+        height: 35px;
+        width: 35px;
+      }
+    }
+  }
+  .content {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    @include media('>sm') {
+      align-items: flex-start;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .message {
+      color: $c-white;
+      font-size: rem(16px);
+      overflow: hidden;
+      padding: 0 rem(18px);
+      text-overflow: ellipsis;
+      word-break: break-word;
+    }
+    .action {
+      color: $c-white;
+      margin-left: rem(4px);
+    }
+    .close {
+      cursor: pointer;
+      fill: $c-black;
+      height: rem(16px);
+      position: absolute;
+      right: rem(20px);
+      top: rem(20px);
+      width: rem(16px);
+    }
+  }
+  &.success {
+    background-color: $c-green;
+  }
+  &.warning {
+    background-color: $c-yellow;
+    .icon {
+      svg {
+        stroke: unset;
+      }
+    }
+    .content {
+      .message {
+        color: $c-black;
+      }
+      .action {
+        color: $c-action;
+      }
+    }
+  }
+  &.danger {
+    background-color: $c-red;
+  }
+  &.description {
+    background-color: $c-white;
+    @include media('<md') {
+      left: 50%;
+      position: fixed;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 90%;
+    }
+    .content {
+      padding: rem(20px);
+      h2 {
+        margin-top: 0;
+        padding: 0;
+        text-transform: uppercase;
+      }
+      .message {
+        color: $c-black;
+        padding: 0;
+      }
+    }
+  }
+}
+
+.overlay {
+  @include media('<md') {
+    background: rgba($c-black, 0.7);
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+}

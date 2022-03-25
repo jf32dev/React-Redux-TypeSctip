@@ -1,0 +1,32 @@
+@import '@redbull/common/style/styles.scss';
+
+.breadcrumbs-wrapper {
+  display: inline-block;
+
+  .breadcrumbs {
+    margin: 1rem 0;
+    padding-left: 0;
+
+    & > li {
+      display: inline-block;
+      font-family: $font-bull-bold;
+      text-transform: capitalize;
+
+      a {
+        color: $c-grey--8;
+        text-decoration: none;
+      }
+
+      &:last-child {
+        a {
+          color: $c-grey--5;
+          text-decoration: none;
+        }
+      }
+    }
+
+    svg {
+      margin: 0 rem(10px);
+    }
+  }
+}

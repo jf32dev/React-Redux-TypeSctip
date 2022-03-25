@@ -1,0 +1,10 @@
+@import '@redbull/common/style/styles.scss';
+
+.hidden-placeholder {
+  background: transparent;
+  color: hsl(0, 0%, 50%);
+  font-family: $font-bull-regular;
+  font-size: rem(13px);
+  line-height: 18px;
+  margin-left: -4px;
+}

@@ -1,0 +1,25 @@
+@import '@redbull/common/style/styles';
+
+.groups-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  .title {
+    line-height: rem(22px);
+    margin: 20px;
+    text-transform: uppercase;
+  }
+  .actions {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    padding-right: rem(20px);
+
+    .checkbox {
+      width: rem(150px);
+    }
+  }
+}
+.groups-wrapper {
+  display: flex;
+}

@@ -1,0 +1,141 @@
+@import '@redbull/common/style/styles.scss';
+
+.preview {
+  border: 1px solid $c-grey--3;
+  display: flex;
+  flex-direction: row;
+  height: rem(300px);
+  padding: rem(25px);
+  position: relative;
+  width: 100%;
+  &.dark {
+    .title,
+    .value {
+      color: $c-black;
+    }
+  }
+  &.light {
+    .title,
+    .value {
+      color: $c-white;
+    }
+  }
+  @include media('>md') {
+    height: rem(240px);
+  }
+  .closebutton {
+    cursor: pointer;
+    height: 40px;
+    margin-right: 25px;
+    position: absolute;
+    right: 0;
+    z-index: 10;
+    svg {
+      height: 12px;
+      transform: translateY(1px);
+      width: 12px;
+    }
+  }
+  .column {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    padding: rem(10px);
+    text-align: center;
+
+    .fullscreen-button {
+      @include media('>md') {
+        bottom: 15px;
+        left: 35%;
+        position: absolute;
+      }
+    }
+    &.product {
+      align-items: flex-end;
+      width: 30%;
+      .image {
+        height: 215px;
+        min-width: 120px; // this is based on the column with in the actual PdfRenderer
+        object-fit: contain;
+        width: 100%;
+      }
+    }
+    &.result {
+      position: relative;
+      width: 75%;
+      > *:not(button) {
+        flex-basis: calc(100% / 3);
+        flex-shrink: 0;
+      }
+      > button {
+        margin-top: rem(8px);
+      }
+      @include media('>md') {
+        flex-direction: row;
+      }
+      .sales {
+        @include media('>md') {
+          display: flex;
+          flex-direction: column;
+          height: 55%;
+          justify-content: space-between;
+          .title {
+            line-height: 18px;
+            overflow: hidden;
+            word-break: break-word;
+          }
+        }
+        .title {
+          font-family: $font-bull-regular;
+          font-size: rem(14px);
+          line-height: rem(18px);
+        }
+
+        .value {
+          font-family: $font-bull-heavy;
+          font-size: rem(18px);
+          margin-top: rem(6px);
+        }
+      }
+    }
+  }
+  &.fullscreen {
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    .column {
+      height: auto;
+    }
+    .product {
+      width: 35%;
+      .image {
+        @include media('>md') {
+          height: 70%;
+        }
+        height: 35%;
+        width: auto;
+      }
+    }
+    .result {
+      > *:not(button) {
+        flex-basis: unset;
+        max-width: rem(200px);
+      }
+      .sales {
+        .title {
+          font-size: rem(18px);
+          line-height: rem(25px);
+        }
+        .value {
+          font-size: rem(24px);
+          margin-top: rem(10px);
+        }
+      }
+    }
+  }
+}

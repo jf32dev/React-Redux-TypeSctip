@@ -1,0 +1,151 @@
+@font-face {
+  font-family: 'line-32-fitness';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/BullFitness/line-32-fitness.eot?1wxkgh');
+  src: url('../fonts/BullFitness/line-32-fitness.eot?1wxkgh#iefix')
+      format('embedded-opentype'),
+    url('../fonts/BullFitness/line-32-fitness.woff2?1wxkgh') format('woff2'),
+    url('../fonts/BullFitness/line-32-fitness.ttf?1wxkgh') format('truetype'),
+    url('../fonts/BullFitness/line-32-fitness.woff?1wxkgh') format('woff'),
+    url('../fonts/BullFitness/line-32-fitness.svg?1wxkgh#line-32-fitness')
+      format('svg');
+}
+
+[class^='icon-fit-'],
+[class*=' icon-fit-'] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  // stylelint-disable-next-line
+  font-family: 'line-32-fitness' !important;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  speak: none;
+  text-transform: none;
+}
+
+.icon-fit-9-pin-bowling:before {
+  content: '\e900';
+}
+.icon-fit-archery:before {
+  content: '\e901';
+}
+.icon-fit-baseball-player:before {
+  content: '\e902';
+}
+.icon-fit-basketball-player:before {
+  content: '\e903';
+}
+.icon-fit-cross-country-skiing:before {
+  content: '\e904';
+}
+.icon-fit-cycling:before {
+  content: '\e905';
+}
+.icon-fit-exercise:before {
+  content: '\e906';
+}
+.icon-fit-fencing:before {
+  content: '\e907';
+}
+.icon-fit-golf-putt:before {
+  content: '\e908';
+}
+.icon-fit-golf-swing:before {
+  content: '\e909';
+}
+.icon-fit-gymnastics:before {
+  content: '\e90a';
+}
+.icon-fit-hockey:before {
+  content: '\e90b';
+}
+.icon-fit-hurdles:before {
+  content: '\e90c';
+}
+.icon-fit-ice-hockey:before {
+  content: '\e90d';
+}
+.icon-fit-ice-skating:before {
+  content: '\e90e';
+}
+.icon-fit-jogging:before {
+  content: '\e90f';
+}
+.icon-fit-karate:before {
+  content: '\e910';
+}
+.icon-fit-kickboxing:before {
+  content: '\e911';
+}
+.icon-fit-man:before {
+  content: '\e912';
+}
+.icon-fit-pilates:before {
+  content: '\e913';
+}
+.icon-fit-roller-blading:before {
+  content: '\e914';
+}
+.icon-fit-rugby-player:before {
+  content: '\e915';
+}
+.icon-fit-running:before {
+  content: '\e916';
+}
+.icon-fit-skateboarding:before {
+  content: '\e917';
+}
+.icon-fit-skiing:before {
+  content: '\e918';
+}
+.icon-fit-skipping:before {
+  content: '\e919';
+}
+.icon-fit-soccer-player:before {
+  content: '\e91a';
+}
+.icon-fit-sprint-cycling:before {
+  content: '\e91b';
+}
+.icon-fit-sprinting:before {
+  content: '\e91c';
+}
+.icon-fit-star-jumps:before {
+  content: '\e91d';
+}
+.icon-fit-stretching:before {
+  content: '\e91e';
+}
+.icon-fit-surfer:before {
+  content: '\e91f';
+}
+.icon-fit-swimming:before {
+  content: '\e920';
+}
+.icon-fit-tennis:before {
+  content: '\e921';
+}
+.icon-fit-volleyball:before {
+  content: '\e922';
+}
+.icon-fit-walking:before {
+  content: '\e923';
+}
+.icon-fit-water-volleyball:before {
+  content: '\e924';
+}
+.icon-fit-weights:before {
+  content: '\e925';
+}
+.icon-fit-woman:before {
+  content: '\e926';
+}
+.icon-fit-yoga:before {
+  content: '\e927';
+}

@@ -1,0 +1,125 @@
+@import '@redbull/common/style/styles.scss';
+
+$spinner-size: (
+  large: 160px,
+  medium: 60px,
+  small: 30px,
+  xsmall: 20px,
+);
+
+@mixin spinner-size {
+  @each $name, $size in $spinner-size {
+    &.#{$name} {
+      @if $name == small or $name == xsmall {
+        flex-direction: row;
+        .text {
+          margin-left: rem(7px);
+        }
+      }
+      @if $name == large or $name == medium {
+        .text {
+          margin-top: rem(7px);
+          @if $name == large {
+            font-size: rem(20px);
+            &.center {
+              position: absolute;
+            }
+          }
+        }
+      }
+      .spinner {
+        height: $size;
+        width: $size;
+        @if $name == large {
+          &:before,
+          &:after {
+            border-width: 5px;
+          }
+        }
+        @if $name == medium or $name == small {
+          &:before,
+          &:after {
+            border-width: 3px;
+          }
+        }
+        @if $name == xsmall {
+          &:before,
+          &:after {
+            border-width: 2px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.loader {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: rem(14px) auto;
+  width: 100%;
+  @include spinner-size();
+
+  .spinner {
+    animation: 1s linear infinite;
+    animation-name: spinner;
+    position: relative;
+    &:before,
+    &:after {
+      border: 4px solid transparent;
+      border-radius: 50%;
+      bottom: 0;
+      content: '';
+      left: 0;
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    &:before {
+      animation: spinner 3s linear infinite;
+      border-top-color: $c-red--light;
+    }
+    &:after {
+      animation: spinner 1.5s linear infinite;
+      border-top-color: $c-action--light;
+    }
+  }
+  .text {
+    color: $c-grey--5;
+    font-size: rem(14px);
+  }
+  &.red {
+    .spinner {
+      &:before,
+      &:after {
+        border-top-color: $c-white;
+      }
+    }
+  }
+  &.dark,
+  &.red {
+    .text {
+      color: $c-white;
+    }
+  }
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(90deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  75% {
+    transform: rotate(270deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

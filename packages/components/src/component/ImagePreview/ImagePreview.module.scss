@@ -1,0 +1,44 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.preview {
+  align-items: center;
+  background-color: $c-grey--1;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  img {
+    height: 100%;
+    max-height: 150px;
+    max-width: 100%;
+    object-fit: contain;
+    width: auto;
+  }
+}
+
+.label {
+  display: block;
+  font-family: $font-bull-bold;
+  font-size: rem(15px);
+  line-height: rem(18px);
+  margin-bottom: rem(10px);
+
+  &.required {
+    &:before {
+      content: '*';
+    }
+  }
+}
+
+.error {
+  color: $c-red;
+  font-size: rem(12px);
+  margin-top: rem(5px);
+}

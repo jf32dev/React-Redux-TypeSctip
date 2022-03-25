@@ -1,0 +1,43 @@
+@import '@redbull/common/style/styles.scss';
+
+.flyin-container {
+  left: rem(15px);
+  position: fixed;
+  right: rem(15px);
+  z-index: 1500;
+  @include media('<=sm') {
+    bottom: rem(20px);
+  }
+  @include media('>sm') {
+    left: auto;
+    right: rem(15px);
+    top: rem(80px);
+  }
+
+  .flyin {
+    &-enter {
+      opacity: 0;
+      transform: translateY(8px) scale(0.9);
+    }
+    &-enter-active {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      transition: transform 100ms;
+    }
+    &-exit {
+      max-height: rem(64px);
+      min-height: 0;
+      opacity: 1;
+      transform: translateY(0);
+    }
+    &-exit-active {
+      margin: 0;
+      max-height: 0;
+      min-height: 0;
+      opacity: 0;
+      padding: 0;
+      transform: translateY(40px);
+      transition: all 500ms, transform 100ms, opacity 200ms;
+    }
+  }
+}

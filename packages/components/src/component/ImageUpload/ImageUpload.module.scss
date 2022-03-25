@@ -1,0 +1,158 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.input {
+  cursor: pointer;
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.label {
+  display: block;
+  font-family: $font-bull-bold;
+  font-size: rem(15px);
+  line-height: rem(18px);
+  margin-bottom: rem(10px);
+
+  &.required {
+    &:before {
+      content: '*';
+    }
+  }
+}
+
+.active-area {
+  --border-color: #d2cfd0; // this has to be hex value to be carried down
+  --border-weight: 2px;
+  --dash-size: 8px;
+  --gap-size: 8px;
+  align-items: center;
+  background-color: $c-grey--1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  padding: rem(30px);
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+  // dashed border
+  &:after {
+    background: linear-gradient(
+          90deg,
+          var(--border-color) 100%,
+          transparent 100%
+        )
+        top left no-repeat,
+      linear-gradient(
+          90deg,
+          transparent calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2 + var(--dash-size)),
+          transparent calc(var(--gap-size) / 2 + var(--dash-size))
+        )
+        top center repeat-x,
+      linear-gradient(90deg, var(--border-color) 100%, transparent 100%) top
+        right no-repeat,
+      linear-gradient(0deg, var(--border-color) 100%, transparent 100%) top left
+        no-repeat,
+      linear-gradient(
+          0deg,
+          transparent calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2 + var(--dash-size)),
+          transparent calc(var(--gap-size) / 2 + var(--dash-size))
+        )
+        center left repeat-y,
+      linear-gradient(0deg, var(--border-color) 100%, transparent 100%) bottom
+        left no-repeat,
+      linear-gradient(90deg, var(--border-color) 100%, transparent 100%) bottom
+        left no-repeat,
+      linear-gradient(
+          90deg,
+          transparent calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2 + var(--dash-size)),
+          transparent calc(var(--gap-size) / 2 + var(--dash-size))
+        )
+        bottom center repeat-x,
+      linear-gradient(90deg, var(--border-color) 100%, transparent 100%) bottom
+        right no-repeat,
+      linear-gradient(0deg, var(--border-color) 100%, transparent 100%) top
+        right no-repeat,
+      linear-gradient(
+          0deg,
+          transparent calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2),
+          var(--border-color) calc(var(--gap-size) / 2 + var(--dash-size)),
+          transparent calc(var(--gap-size) / 2 + var(--dash-size))
+        )
+        center right repeat-y,
+      linear-gradient(0deg, var(--border-color) 100%, transparent 100%) bottom
+        right no-repeat;
+    background-size: var(--dash-size) var(--border-weight),
+      calc(var(--dash-size) + var(--gap-size)) var(--border-weight),
+      var(--dash-size) var(--border-weight),
+      var(--border-weight) var(--dash-size),
+      var(--border-weight) calc(var(--dash-size) + var(--gap-size)),
+      var(--border-weight) var(--dash-size);
+    border-radius: 2px;
+    bottom: 0;
+    content: '';
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  &.invalid {
+    --border-color: #d2003c; // this has to be hex value to be carried down
+  }
+
+  &.is-active {
+    > * {
+      pointer-events: none;
+    }
+  }
+
+  & > span {
+    font-size: rem(12px);
+  }
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+.upload {
+  font-family: $font-bull-medium;
+  font-size: rem(14px);
+  padding-bottom: rem(6px);
+  padding-top: rem(6px);
+  width: rem(115px);
+}
+
+.error {
+  color: $c-red;
+  font-size: rem(12px);
+  margin-top: rem(5px);
+}

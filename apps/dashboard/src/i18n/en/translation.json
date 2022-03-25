@@ -1,0 +1,74 @@
+{
+  "dashboard": {
+    "welcome": "Welcome",
+    "myDocuments": "My Documents",
+    "myTools": "My Tools",
+    "documents": {
+      "bookmarks": "Bookmarks",
+      "myFavourites": "My Favourites",
+      "myFiles": "My Files",
+      "popular": "Popular",
+      "latestUpdates": "Latest Updates"
+    },
+    "tools": {
+      "calculator": "Calculator",
+      "pitchBuilder": "Pitch Builder",
+      "insights": "Insights",
+      "posCatalogue": "POS Catalogue",
+      "accounts": "Accounts",
+      "objectionHandling": "Objection Handling"
+    }
+  },
+  "utils": {
+    "seeMore": "See More",
+    "search": "Search",
+    "clear": "Clear",
+    "sortResultsBy": "Sort Results By",
+    "mostRecent": "Most Recent",
+    "recentSearches": "Recent searches",
+    "filterResults": "Filter Results",
+    "comingSoon": "Coming Soon!",
+    "resultMatch": "results matching",
+    "fileMatch": "files matching",
+    "storyMatch": "stories matching",
+    "allResults": "All Results",
+    "allFiles": "All Files",
+    "allStories": "All Stories",
+    "stories": "Stories",
+    "files": "Files",
+    "account": "Account",
+    "back": "Back",
+    "from": "From",
+    "to": "To",
+    "select": "Select...",
+    "dateFormat": "DD/MM/YYYY",
+    "loadingMore": "loading more..."
+  },
+  "sections": {
+    "sell": "Sell",
+    "learn": "Learn",
+    "execute": "Execute",
+    "accounts": "Accounts"
+  },
+  "errorMessages": {
+    "pitchBuilder": "Unable to Open Pitch Builder",
+    "calculator": "Unable to Open Calculator",
+    "noContent": "No Content",
+    "noContentFound": "Unfortunately, we could not get the content for you. Please contact the administrator to get further help.",
+    "noPopularStories": "No Popular Stories",
+    "noBookmarks": "No Bookmarked Stories / Files",
+    "noFeaturedStories": "No Featured Stories",
+    "noResults": "Sorry, no results found",
+    "noResultsSearch": "Just rethink your search, try a totally new one and avoid special characters.",
+    "noShareableFiles": "Sharing Error: No shareable files",
+    "sharingError": "Sharing Error:",
+    "personalTabError": "Failed to get personal Tab",
+    "personalChannelError": "Failed to get personal Channel",
+    "searchTermTooShort": "Search term must be 2 letters or more!",
+    "fromNoGreaterThanTo": "From cannot be greater than To",
+    "toNoLessThanFrom": "To cannot be less than From"
+  },
+  "infoMessages": {
+    "newContentShared": "New content has been shared with you"
+  }
+}

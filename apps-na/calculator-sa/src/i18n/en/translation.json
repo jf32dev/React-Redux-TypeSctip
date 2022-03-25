@@ -1,0 +1,72 @@
+{
+  "general": {
+    "calculator": "Calculator",
+    "selectCalculator": "Select Calculator",
+    "upliftDistribution": "Uplift Distribution",
+    "upliftSalesDriver": "Uplift Sales Driver",
+    "tradeUp": "Trade Up"
+  },
+  "navigation": {
+    "close": "Close",
+    "next": "Next",
+    "back": "Back",
+    "recalculate": "Re-Calculate",
+    "share": "Share",
+    "save": "Save",
+    "fullscreen": "Fullscreen",
+    "saveTo": "Save To",
+    "cancel": "Cancel"
+  },
+  "steps": {
+    "enterDetails": "Enter Details",
+    "enterPricing": "Enter Pricing",
+    "summary": "Summary",
+    "pictureIt": "Picture It"
+  },
+  "inputs": {
+    "selectChannel": "Select Channel",
+    "selectVariant": "Select Variant",
+    "selectFillingSize": "Select Filling Size",
+    "selectPack": "Select Pack",
+    "shelfPrice250": "Shelf Price 250ml",
+    "selectSalesDriver": "Select Sales Driver",
+    "caseDeal": "Case Deal",
+    "estUplift": "Est. Uplift",
+    "costCase": "Cost / Case",
+    "customerSellingPrice": "Customer Selling Price",
+    "currentWeeklySales": "Current Weekly Sales",
+    "unitCase": "Unit / Case",
+    "newTotalCostCase": "New Total Cost / Case",
+    "unitCost": "Unit Cost",
+    "cashMargin": "Cash Margin",
+    "estWeeklySales": "Est. Weekly Sales",
+    "estAnnualValue": "Est. Annual Value",
+    "estAnnualIncrementalValue": "Est. Annual Incremental Value",
+    "taxes": "Taxes",
+    "totalCostCase": "Total Cost / Case",
+    "title": "Title",
+    "rrp": "RRP"
+  },
+  "inputMessages": {
+    "requiredField": "This field is required",
+    "priceProvidedByCustomer": "Price provided by customer",
+    "enterValidNumber": "Please enter a valid number.",
+    "lowestPossibleValue": "The lowest possible value is",
+    "highestPossibleValue": "The highest possible value is",
+    "pleaseSelect": "Please select..."
+  },
+  "errorMessages": {
+    "noData": "Sorry, no data available",
+    "unauthorisedAccess": "The calculator you selected either has no data available or you are not authorised to access them. Please contact administrator for more details.",
+    "createdStoryNotFound": "Created Story is not found",
+    "failedToLoadCalculatorData": "Failed to load Calculator Data",
+    "failedToLoadDriverImage": "Failed to load Driver Image",
+    "problemLoadingYourChannels": "There was a problem loading your channels.",
+    "failedToLoadProductImage": "Failed to load Product Image"
+  },
+  "infoMessages": {
+    "generatingPDF": "Generating PDF",
+    "successfullySaved": "Successfully saved, PDF generated",
+    "openChannel": "Open Channel?"
+  }
+}

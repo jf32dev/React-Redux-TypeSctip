@@ -1,0 +1,17 @@
+@import '@redbull/common/style/styles.scss';
+
+.action-group {
+  .button {
+    min-width: rem(100px);
+    + .button {
+      margin-left: rem(10px);
+    }
+    &.share {
+      svg {
+        height: 15px;
+        transform: translateY(2px);
+        width: 15px;
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "general": {
+    "calculator": "Calculator",
+    "selectCalculator": "Sélectionner le type de calcul",
+    "upliftDistribution": "Uplift Distribution",
+    "upliftSalesDriver": "Uplift Sales Driver",
+    "tradeUp": "Trade Up"
+  },
+  "navigation": {
+    "close": "Close",
+    "next": "Suivant",
+    "back": "Retour",
+    "recalculate": "Re-Calculer",
+    "share": "Partager",
+    "save": "Sauvegarder",
+    "fullscreen": "Plein écran"
+  },
+  "steps": {
+    "enterDetails": "Entrez les détails",
+    "enterPricing": "Entrez un prix",
+    "summary": "Sommaire",
+    "pictureIt": "Se projeter"
+  },
+  "inputs": {
+    "selectChannel": "Select Channel",
+    "selectVariant": "Select Variant",
+    "selectFillingSize": "Select Filling Size",
+    "selectPack": "Select Pack",
+    "shelfPrice250": "Shelf Price 250ml",
+    "selectSalesDriver": "Sélectionner un Sales Driver",
+    "caseDeal": "Gratuité produit",
+    "estUplift": "Uplift estimé",
+    "costCase": "Prix / Fardeaux",
+    "customerSellingPrice": "Customer Selling Price",
+    "currentWeeklySales": "Ventes semaine",
+    "unitCase": "Unités / fardeaux",
+    "newTotalCostCase": "New Total Cost / Case",
+    "unitCost": "Coût par unité",
+    "cashMargin": "Marge",
+    "estWeeklySales": "Ventes semaine estimées",
+    "estAnnualValue": "Est. Annual Value",
+    "estAnnualIncrementalValue": "Est. Annual Incremental Value",
+    "taxes": "Taxes",
+    "totalCostCase": "Coût Total par fardeaux"
+  },
+  "inputMessages": {
+    "requiredField": "This field is required",
+    "priceProvidedByCustomer": "Price provided by customer",
+    "enterValidNumber": "Please enter a valid number.",
+    "lowestPossibleValue": "The lowest possible value is",
+    "highestPossibleValue": "The highest possible value is",
+    "pleaseSelect": "Please select..."
+  },
+  "errorMessages": {
+    "noData": "Sorry, no data available",
+    "unauthorisedAccess": "The calculator you selected either has no data available or you are not authorised to access them. Please contact administrator for more details.",
+    "createdStoryNotFound": "Created Story is not found",
+    "failedToLoadCalculatorData": "Failed to load Calculator Data",
+    "failedToLoadDriverImage": "Failed to load Driver Image"
+  },
+  "infoMessages": {
+    "generatingPDF": "Generating PDF",
+    "successfullySaved": "Successfully saved, PDF generated",
+    "openChannel": "Open Channel?"
+  }
+}

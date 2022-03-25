@@ -1,0 +1,9 @@
+{
+  "packages": ["packages/*", "apps/*", "apps-na/*"],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent",
+  "command": {
+    "concurrency": 4
+  }
+}

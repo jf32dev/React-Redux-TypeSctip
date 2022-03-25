@@ -1,0 +1,154 @@
+@import './typography.scss';
+
+// Grid breakpoints
+// Based on Redbull Design System
+
+$xs: 0;
+$sm: 730;
+$md: 965;
+$lg: 1200;
+$xl: 1380;
+
+$grid-breakpoints: (
+  xs: $xs + 0px,
+  sm: $sm + 0px,
+  md: $md + 0px,
+  lg: $lg + 0px,
+  xl: $xl + 0px,
+) !default;
+
+// Max Grid containers
+// Based on Redbull Design System
+
+$container-max-widths: (
+  xs: 600px,
+  sm: 645px,
+  md: 880px,
+  lg: 1115px,
+  xl: 1295px,
+) !default;
+
+// Gutter Width
+$gutter-width: (
+  xs: 15px,
+  sm: 15px,
+  md: 20px,
+  lg: 20px,
+  xl: 25px,
+) !default;
+
+$offset-width: (
+  xs: 0,
+  sm: 30px,
+  md: 30px,
+  lg: 42px,
+  xl: 60px,
+) !default;
+
+// Grid columns
+$grid-columns: 12 !default;
+
+// This always pulls md size as default
+$grid-gutter-width: map-get(
+  $map: $gutter-width,
+  $key: 'md',
+);
+
+$grid-row-columns: 6 !default;
+// enabling this will give capability to use css class directly without providing
+// mixins on the classnames.
+$enable-grid-classes: false !default;
+
+// Brand Colors
+// Red
+$c-red: #d2003c;
+$c-red--light: #ff1054;
+$c-red--lightest: #ffdce6;
+$c-red--dark: #95002b;
+$c-red--darkest: #580019;
+
+// Blue
+$c-blue: #2b4884;
+$c-blue--light: #9bb7f1;
+$c-blue--lightest: #e6edfb;
+$c-blue--dark: #1c2f56;
+$c-blue--darkest: #0d1628;
+
+// Action Blue
+$c-action: #11388d;
+$c-action--light: #1443a8;
+$c-action--lightest: #5685eb;
+$c-action--dark: #0d2d71;
+$c-action--darkest: #07173b;
+
+// Green
+$c-green: #369e36;
+$c-green--light: #84d584;
+$c-green--lightest: #e7f7e7;
+$c-green--dark: #267026;
+$c-green--darkest: #174317;
+
+// Yellow
+$c-yellow: #ffc000;
+$c-yellow--light: #ffe185;
+$c-yellow--lightest: #fff8e3;
+
+// Black, Grey, White
+$c-white: #ffffff;
+$c-grey--1: #f7f6f6;
+$c-grey--2: #e8e7e7;
+$c-grey--3: #d2cfd0;
+$c-grey--4: #b6b2b3;
+$c-grey--5: #938e8f;
+$c-grey--6: #656061;
+$c-grey--7: #464243;
+$c-grey--8: #363334;
+$c-grey--9: #565152;
+$c-black: #000000;
+
+// Exceptional Brand Color
+$c-purple: #722172;
+$c-purple--lightest: #eadeea;
+$c-orange: #e75b1f;
+$c-orange--light: #f6712e;
+$c-orange--lightest: #fce7de;
+$c-aqua: #0fc6c4;
+$c-aqua--lightest: #def5f4;
+$c-bluegreen: #25706f;
+$c-bluegreen--lightest: #dfeaea;
+$c-brown: #90682a;
+$c-brown--lightest: #efe9df;
+$c-rust: #97403f;
+$c-rust--lightest: #f0e3e2;
+
+// Typography
+
+$font-bull-regular: 'Bull Regular', Helvetica, sans-serif;
+$font-bull-medium: 'Bull Medium', Helvetica, sans-serif;
+$font-bull-bold: 'Bull Bold', Helvetica, sans-serif;
+$font-bull-heavy: 'Bull Heavy', Helvetica, sans-serif;
+
+$font-bull-text-regular: 'Bull Text Regular', Helvetica, sans-serif;
+$font-bull-text-medium: 'Bull Text Medium', Helvetica, sans-serif;
+$font-bull-text-bold: 'Bull Text Bold', Helvetica, sans-serif;
+
+// html font size
+$font-size-html: 10px;
+$line-height-base: 1.35;
+
+// general
+$font-size-base: 14px;
+$font-size-lg: 16px;
+$font-size-sm: 12px;
+
+// heading
+$font-size-h1: 30px;
+$font-size-h2: 24px;
+$font-size-h3: 18px;
+$font-size-h4: 16px;
+$font-size-h5: 14px;
+
+$line-height-base: 18px;
+
+$fp-4x3-path: '~flagpack/flags/4x3/' !default;
+$fp-1x1-path: '~flagpack/flags/1x1/' !default;

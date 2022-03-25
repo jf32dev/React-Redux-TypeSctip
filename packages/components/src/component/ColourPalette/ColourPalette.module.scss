@@ -1,0 +1,80 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.palette {
+  border: 1px solid $c-grey--3;
+  border-radius: 4px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.active {
+  align-items: center;
+  border-bottom: 1px solid $c-grey--3;
+  display: flex;
+  height: rem(90px);
+  justify-content: center;
+  text-transform: uppercase;
+  transition: background-color 300ms ease-in, color 300ms ease-in;
+  &.dark {
+    .name {
+      color: $c-black;
+    }
+  }
+  &.light {
+    .name {
+      color: $c-white;
+    }
+  }
+}
+
+.selection {
+  display: flex;
+  flex-wrap: wrap;
+  padding: rem(10px);
+  .swatch {
+    border-radius: 3px;
+    cursor: pointer;
+    flex-shrink: 0;
+    height: rem(20px);
+    margin: rem(6px);
+    width: rem(20px);
+    &:hover {
+      box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.6);
+    }
+  }
+}
+.input {
+  padding: rem(16px);
+  padding-top: 0;
+  .field {
+    text-transform: uppercase;
+  }
+}
+
+.label {
+  display: block;
+  font-family: $font-bull-bold;
+  font-size: rem(15px);
+  line-height: rem(18px);
+  margin-bottom: rem(10px);
+
+  &.required {
+    &:before {
+      content: '*';
+    }
+  }
+}
+
+.error {
+  color: $c-red;
+  font-size: rem(12px);
+  margin-top: rem(5px);
+}

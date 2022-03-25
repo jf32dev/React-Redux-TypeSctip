@@ -1,0 +1,56 @@
+@import '@redbull/common/style/styles.scss';
+
+.no-calculator,
+.loading-calculator {
+  height: 100%;
+  margin: 0 auto;
+}
+.calculator-row {
+  border-bottom: 1px solid $c-grey--2;
+  display: flex;
+  justify-content: space-between;
+  padding: rem(25px) rem(30px);
+
+  .title-wrapper {
+    align-items: center;
+    display: flex;
+
+    .icon {
+      position: relative;
+      & > svg {
+        fill: $c-red;
+        position: relative;
+        z-index: 1;
+      }
+      &:before {
+        background-color: $c-red--lightest;
+        border-radius: 50%;
+        content: '';
+        height: rem(40px);
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: rem(40px);
+        z-index: 0;
+      }
+    }
+
+    .title {
+      font-family: $font-bull-bold;
+      margin-left: rem(30px);
+    }
+  }
+
+  .buttons {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    button {
+      width: rem(100px);
+      + button {
+        margin-left: rem(20px);
+      }
+    }
+  }
+}

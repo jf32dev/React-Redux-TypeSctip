@@ -1,0 +1,74 @@
+{
+  "dashboard": {
+    "welcome": "Witaj",
+    "myDocuments": "Moje dokumenty",
+    "myTools": "Moje narzędzia",
+    "documents": {
+      "bookmarks": "Zakładki",
+      "myFavourites": "Moje ulubione",
+      "myFiles": "Moje pliki",
+      "popular": "Popularne",
+      "latestUpdates": "Ostatatnie aktualizacje"
+    },
+    "tools": {
+      "calculator": "Kalkulator",
+      "pitchBuilder": "Kreator prezentacji",
+      "insights": "Badania i insighty",
+      "posCatalogue": "Katalog posm",
+      "accounts": "Klienci",
+      "objectionHandling": "Zbijanie obiekcji"
+    }
+  },
+  "utils": {
+    "seeMore": "Zobacz więcej",
+    "search": "Wyszukaj",
+    "clear": "Wyczyść",
+    "sortResultsBy": "Sortuj po",
+    "mostRecent": "Najnowsze",
+    "recentSearches": "Ostatnie wyszukiwania",
+    "filterResults": "Wyniki",
+    "comingSoon": "Wkrótce!",
+    "resultMatch": "wyników do zapytania",
+    "fileMatch": "pliki pasujące do",
+    "storyMatch": "pliki pasujące do",
+    "allResults": "Wszytkie wyniki",
+    "allFiles": "Wszystkie pliki",
+    "allStories": "Wszystkie",
+    "stories": "Historia",
+    "files": "Pliki",
+    "account": "Klienci",
+    "back": "Wróć",
+    "from": "Od",
+    "to": "Do",
+    "select": "Wybierz...",
+    "dateFormat": "DD/MM/YYYY",
+    "loadingMore": "ładowanie więcej..."
+  },
+  "sections": {
+    "sell": "Sprzedaż",
+    "learn": "Nauka",
+    "execute": "Egzekucja",
+    "accounts": "Klienci"
+  },
+  "errorMessages": {
+    "pitchBuilder": "Nie można otworzyć kreatora prezentacji",
+    "calculator": "Nie można otworzyć kalkulatora",
+    "noContent": "Brak treści",
+    "noContentFound": "Niestety, nie mogliśmy uzyskać dla Ciebie treści. Skontaktuj się z administratorem, aby uzyskać dalszą pomoc.",
+    "noPopularStories": "Brak popularnych plików",
+    "noBookmarks": "Brak historii",
+    "noFeaturedStories": "Brak polecanych plików",
+    "noResults": "Przepraszamy, nie znaleziono wyników",
+    "noResultsSearch": "Spróbuj innego słowa, wpisz w wyszukiwarkę bez znaków specjalnych.",
+    "noShareableFiles": "Błąd udostępniania: brak plików",
+    "sharingError": "Błąd udostępniania:",
+    "personalTabError": "Nie udało się uzyskać karty",
+    "personalChannelError": "Nie udało się uzyskać kanału",
+    "searchTermTooShort": "Wyszukiwany tekst musim mieć 2 litery lub więcej",
+    "fromNoGreaterThanTo": "Od nie może być późniejsze niż do",
+    "toNoLessThanFrom": "Do nie może być wcześniejsze niż od"
+  },
+  "infoMessages": {
+    "newContentShared": "Udostępniono Ci nowe treści"
+  }
+}

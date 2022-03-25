@@ -1,0 +1,96 @@
+@import '@redbull/common/style/styles.scss';
+@import './UserProfile';
+
+.profile {
+  display: inline-flex;
+  max-width: 100%;
+  vertical-align: middle;
+  @include sizes();
+  @include profile-color();
+  &.border {
+    img {
+      border: 1px solid $c-grey--1;
+    }
+  }
+  .image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    .picture {
+      background-color: $c-grey--1;
+      border-radius: 50%;
+      height: rem(54px);
+      object-fit: cover;
+      object-position: center center;
+      vertical-align: middle;
+      width: rem(54px);
+      .fallback {
+        color: $c-grey--4;
+        font-size: rem(36px);
+        @extend %icon;
+      }
+    }
+    .status {
+      background-color: $c-grey--5;
+      border: 1px solid $c-grey--1;
+      border-radius: 50%;
+      bottom: -4px;
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+      height: rem(24px);
+      position: absolute;
+      right: -4px;
+      width: rem(24px);
+      i {
+        color: $c-grey--1;
+        font-size: rem(16px);
+        @extend %icon;
+      }
+    }
+  }
+
+  .data {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+    max-width: rem(320px);
+    .name {
+      display: block;
+      font-size: rem(16px);
+      font-weight: 700;
+      letter-spacing: 0.08px;
+      line-height: 1.5;
+      @extend %overflow;
+    }
+    .position {
+      display: flex;
+      max-width: 100%;
+      .title {
+        color: $c-grey--5;
+        display: block;
+        font-size: rem(12px);
+        line-height: 1;
+        margin-right: 3px;
+        @extend %overflow;
+      }
+
+      .icon {
+        border: 1px solid #938e8f;
+        border-radius: 50%;
+        display: inline-block;
+        flex: none;
+        height: rem(16px);
+        position: relative;
+        vertical-align: middle;
+        width: rem(16px);
+        i {
+          font-size: rem(10px);
+          @extend %icon;
+        }
+      }
+    }
+  }
+}

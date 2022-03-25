@@ -1,0 +1,46 @@
+@import '@redbull/common/style/variables.scss';
+
+.container {
+  display: block;
+  height: 18px;
+  left: 0;
+  position: relative;
+  top: 0;
+  user-select: none;
+  span {
+    background: $c-white;
+    border-radius: 3px;
+    display: block;
+    height: 2px;
+    margin-bottom: 5px;
+    position: relative;
+    transform-origin: 4px 0px;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+    width: 23px;
+    z-index: 1;
+
+    &:first-child {
+      transform-origin: 0% 0%;
+    }
+
+    &:nth-last-child(2) {
+      transform-origin: 0% 100%;
+    }
+  }
+
+  &.open {
+    span {
+      background: $c-white;
+      opacity: 1;
+      transform: rotate(-45deg) translate(0, -2px);
+
+      &:nth-last-child(2) {
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+      }
+      &:nth-last-child(3) {
+        transform: rotate(45deg) translate(0, -1px);
+      }
+    }
+  }
+}

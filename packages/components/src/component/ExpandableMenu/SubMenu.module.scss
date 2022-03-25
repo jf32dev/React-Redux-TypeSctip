@@ -1,0 +1,54 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  li {
+    a {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+  &.level-1 {
+    li {
+      span[class*='label'],
+      a[class*='label'] {
+        padding-left: rem(30px);
+      }
+      a[class*='active'] {
+        background-color: $c-grey--1;
+        color: $c-red;
+        font-family: $font-bull-bold;
+      }
+    }
+  }
+
+  &.level-2 {
+    li {
+      a[class*='label'] {
+        padding-left: rem(46px);
+        position: relative;
+        &:before {
+          background-color: $c-grey--2;
+          content: '';
+          display: block;
+          height: 100%;
+          left: rem(30px);
+          position: absolute;
+          top: 0;
+          width: 4px;
+        }
+      }
+      a[class*='active'] {
+        background-color: $c-grey--1;
+        color: $c-red;
+        font-family: $font-bull-bold;
+        &:before {
+          background-color: $c-red;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+@import '@redbull/common/style/styles';
+
+.group {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: rem(20px);
+  opacity: 0.5;
+
+  &.selected {
+    opacity: 1;
+  }
+  &.disabled {
+    cursor: not-allowed;
+  }
+  .icon {
+    align-items: center;
+    display: flex;
+    height: rem(60px);
+    justify-content: center;
+    position: relative;
+    width: rem(60px);
+
+    svg {
+      position: relative;
+      z-index: 1;
+    }
+
+    &:before {
+      background: $c-red--lightest;
+      border-radius: 50%;
+      content: '';
+      height: rem(60px);
+      left: 50%;
+      position: absolute;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: rem(60px);
+      z-index: 0;
+    }
+  }
+}

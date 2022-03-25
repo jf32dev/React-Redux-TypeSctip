@@ -1,0 +1,122 @@
+@import '@redbull/common/style/styles.scss';
+
+.accordion {
+  background-color: $c-white;
+  border: 1px solid $c-grey--2;
+  border-radius: 2px;
+  overflow: hidden;
+  width: 100%;
+  > .heading {
+    &.grey {
+      background: linear-gradient(
+          105deg,
+          $c-grey--1,
+          $c-grey--1 25%,
+          #f0efef 0,
+          #f0efef 50%,
+          $c-grey--1 0,
+          $c-grey--1 75%,
+          #f0efef 0,
+          #f0efef
+        )
+        no-repeat;
+    }
+    align-items: center;
+    background: linear-gradient(
+        105deg,
+        $c-white,
+        $c-white 25%,
+        #fafafa 0,
+        #fafafa 50%,
+        $c-white 0,
+        $c-white 75%,
+        #fafafa 0,
+        #fafafa
+      )
+      no-repeat;
+    background-size: 600% 600% !important;
+    border-bottom: 1px solid $c-grey--2;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -1px;
+    padding-bottom: 13px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 13px;
+    position: relative;
+    transition: background-position 0.2s cubic-bezier(0.35, 0, 0, 1);
+    svg {
+      height: rem(14px);
+      left: 9px;
+      position: absolute;
+      transform: rotate(-90deg);
+      transition: transform 0.2s cubic-bezier(0.35, 0, 0, 1);
+      width: rem(14px);
+      path {
+        fill: $c-red;
+      }
+    }
+    &:hover {
+      background-position: 20% 20%;
+    }
+    @include media('<md') {
+      flex-wrap: wrap;
+    }
+
+    h3,
+    .title {
+      color: $c-red;
+      font-weight: 800;
+      letter-spacing: 0.09px;
+      line-height: 1.25;
+      margin: 0;
+      text-transform: uppercase;
+    }
+    &.focused {
+      &::before {
+        color: $c-red;
+      }
+      * {
+        &:nth-child(1) {
+          fill: $c-red;
+        }
+        &:nth-child(2) {
+          color: $c-red;
+        }
+      }
+    }
+  }
+  .content {
+    display: block;
+    overflow: hidden;
+    transition: height ease 150ms;
+    visibility: hidden;
+  }
+  &.level-2 {
+    > .heading {
+      h3,
+      .title {
+        font-family: $font-bull-regular;
+        font-size: rem(16px);
+        font-weight: 500;
+        letter-spacing: 0.08px;
+        line-height: 1.385;
+        margin-bottom: 0;
+        text-transform: none;
+      }
+    }
+  }
+  &.expanded {
+    > .heading {
+      svg {
+        transform: rotate(0deg);
+      }
+    }
+    .content {
+      height: auto;
+      overflow: auto;
+      visibility: visible;
+    }
+  }
+}

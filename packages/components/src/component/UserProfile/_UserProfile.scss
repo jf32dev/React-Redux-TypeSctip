@@ -1,0 +1,105 @@
+// image-size, circle-size, icon-size, fallback-icon
+$sizes: (
+  'small': (
+    34px,
+    18px,
+    11px,
+    22px,
+  ),
+  'medium': (
+    42px,
+    21px,
+    14px,
+    28px,
+  ),
+  'large': (
+    54px,
+    24px,
+    16px,
+    36px,
+  ),
+);
+
+$profile-color: (
+  'red': $c-red,
+  'yellow': $c-yellow,
+  'green': $c-green,
+  'grey': $c-grey--5,
+);
+
+%overflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+%icon {
+  display: block;
+  left: 50%;
+  line-height: 1;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin sizes {
+  @each $name, $size in $sizes {
+    &.#{$name} {
+      $img-size: nth(
+        map-get(
+          $map: $sizes,
+          $key: $name,
+        ),
+        1
+      );
+      $status-size: nth(
+        map-get(
+          $map: $sizes,
+          $key: $name,
+        ),
+        2
+      );
+      $icon-size: nth(
+        map-get(
+          $map: $sizes,
+          $key: $name,
+        ),
+        3
+      );
+      $fallback-size: nth(
+        map-get(
+          $map: $sizes,
+          $key: $name,
+        ),
+        4
+      );
+      .image {
+        .picture {
+          height: rem($img-size);
+          width: rem($img-size);
+          .fallback {
+            font-size: rem($fallback-size);
+          }
+        }
+        .status {
+          height: rem($status-size);
+          width: rem($status-size);
+          i {
+            font-size: rem($icon-size);
+          }
+        }
+      }
+    }
+  }
+}
+
+@mixin profile-color {
+  @each $color, $hex in $profile-color {
+    &.#{$color} {
+      .image {
+        .status {
+          background-color: $hex;
+        }
+      }
+    }
+  }
+}

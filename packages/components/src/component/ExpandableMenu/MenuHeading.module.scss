@@ -1,0 +1,52 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-white;
+  margin: 0;
+  padding: 0;
+
+  .link {
+    text-decoration: none;
+  }
+
+  .label {
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: rem(14px) rem(20px);
+    text-transform: capitalize;
+    transition: background-color 0.2s ease;
+    &:hover {
+      background-color: $c-grey--1;
+      transition: background-color 0.2s ease;
+    }
+    .icon {
+      transition: transform 0.2s ease;
+    }
+    &.open {
+      font-family: $font-bull-bold;
+      .icon {
+        transform: rotate(180deg);
+        transition: transform 0.2s ease;
+      }
+    }
+  }
+  .content {
+    display: block;
+    overflow: hidden;
+    transition: height 0.2s ease;
+    visibility: hidden;
+
+    &::-webkit-scrollbar {
+      background: transparent; /* make scrollbar transparent */
+      width: 0px;
+    }
+
+    &.open {
+      height: auto;
+      overflow: auto;
+      visibility: visible;
+    }
+  }
+}

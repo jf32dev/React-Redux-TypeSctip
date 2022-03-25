@@ -1,0 +1,21 @@
+@import '@redbull/common/style/styles.scss';
+
+.tag {
+  background-color: $c-blue--lightest;
+  border-radius: rem(12px);
+  span {
+    color: $c-action--lightest;
+    display: block;
+    padding: rem(3px) rem(15px);
+  }
+
+  &.categorised {
+    background-color: $c-action--lightest;
+    span {
+      color: $c-white;
+      text-transform: uppercase;
+    }
+  }
+
+  @include fileColour;
+}

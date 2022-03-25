@@ -1,0 +1,100 @@
+---
+root: true
+parser: '@typescript-eslint/parser'
+plugins:
+  - react
+  - '@typescript-eslint'
+extends:
+  - airbnb-typescript
+  - plugin:prettier/recommended
+  - plugin:react/recommended
+  - prettier/@typescript-eslint
+  - prettier/react
+  - react-app
+parserOptions:
+  ecmaVersion: 6
+  sourceType: module
+  project:
+    - './tsconfig.json'
+    - './packages/*/tsconfig.json'
+    - './apps/*/tsconfig.json'
+env:
+  browser: true
+  es6: true
+settings:
+  import/resolver:
+    node:
+      extensions:
+        - '.js'
+        - '.jsx'
+        - '.ts'
+        - '.tsx'
+rules:
+  camelcase: 1
+  no-debugger: 1
+  no-unused-expressions:
+    - 2
+    - allowShortCircuit: true
+      allowTernary: true
+  no-var: 1
+  no-unreachable: 1
+  no-console:
+    - 1
+    - allow:
+        - warn
+        - error
+        - table
+        - info
+  no-underscore-dangle:
+    - error
+    - allow:
+        - __REDUX_DEVTOOLS_EXTENSION__
+  quote-props: 1
+  prefer-arrow-callback: 1
+  spaced-comment: 1
+  no-multi-spaces: 1
+  no-param-reassign: 1
+  lines-between-class-members:
+    - warn
+    - always
+  '@typescript-eslint/no-explicit-any': 0
+  '@typescript-eslint/explicit-function-return-type': 0
+  '@typescript-eslint/camelcase': 'off'
+  '@typescript-eslint/no-unused-vars':
+    - 1
+    - ignoreRestSiblings: true
+      argsIgnorePattern: '^_'
+      varsIgnorePattern: '^_'
+  import/extensions:
+    - error
+    - ignorePackages
+    - js: never
+      mjs: never
+      jsx: never
+      ts: never
+      tsx: never
+  import/prefer-default-export: 0
+  import/no-extraneous-dependencies: 0
+  react/prop-types: 0
+  react/jsx-filename-extension:
+    - 2
+    - extensions:
+        - '.js'
+        - '.jsx'
+        - '.ts'
+        - '.tsx'
+  react/jsx-props-no-spreading: 0
+  react/no-array-index-key: 1
+  react/jsx-sort-props:
+    - 1
+    - callbacksLast: true
+      shorthandLast: true
+      reservedFirst: true
+  jsx-a11y/click-events-have-key-events: 0
+  jsx-a11y/no-static-element-interactions: 0
+  jsx-a11y/label-has-associated-control:
+    - error
+    - required:
+        some:
+          - nesting
+          - id

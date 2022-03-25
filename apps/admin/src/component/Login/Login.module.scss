@@ -1,0 +1,68 @@
+@import '@redbull/common/style/styles';
+
+.container {
+  align-items: center;
+  background-color: $c-action--darkest;
+  border: none;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+  .content {
+    background-color: $c-white;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: row;
+    height: rem(330px);
+    width: rem(620px);
+
+    @include media('<sm') {
+      flex-direction: column;
+      height: rem(620px);
+      max-width: rem(330px);
+      width: 100%;
+    }
+    .banner {
+      background-color: black;
+      background-color: $c-black;
+      background-image: url('../../images/login.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-bottom-left-radius: 7px;
+      border-top-left-radius: 7px;
+      flex: 1 1 50%;
+    }
+
+    .welcome {
+      flex: 1 1 50%;
+      article {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: rem(60px) rem(32px);
+        text-align: center;
+        img {
+          height: rem(40px);
+          margin: 0 auto;
+          width: auto;
+        }
+        h1 {
+          font-family: $font-bull-heavy;
+          font-size: rem(18px);
+          margin: rem(28px) 0 rem(10px);
+          text-transform: uppercase;
+        }
+        p {
+          font-size: rem(13px);
+          line-height: rem(18px);
+          margin-bottom: rem(28px);
+        }
+        .login {
+          align-self: center;
+          width: rem(120px);
+        }
+      }
+    }
+  }
+}

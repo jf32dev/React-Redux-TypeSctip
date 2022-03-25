@@ -1,0 +1,65 @@
+@import '@redbull/common/style/styles.scss';
+
+.select-container {
+  .rb-select {
+    &__control {
+      border: 1px solid $c-grey--3;
+      border-radius: 2px;
+      color: $c-grey--8;
+      cursor: pointer;
+      font-family: $font-bull-regular;
+      font-size: rem(16px);
+      height: rem(36px);
+      line-height: rem(18px);
+
+      &:hover {
+        border-color: $c-grey--3;
+      }
+      &--is-focused {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+      }
+    }
+    &__menu {
+      &-list {
+        max-height: 150px;
+        padding-bottom: 0;
+        padding-top: 0;
+      }
+      border: 1px solid $c-grey--3;
+      border-radius: 2px;
+      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+      margin-bottom: 0;
+      margin-top: 0;
+      z-index: 10;
+    }
+
+    &__option {
+      cursor: pointer;
+      &:active {
+        background-color: $c-grey--1;
+      }
+      &--is-focused {
+        &:hover {
+          background-color: $c-white;
+          color: $c-red;
+        }
+        background-color: $c-grey--1;
+      }
+
+      &--is-selected {
+        background-color: $c-grey--1 !important;
+        color: $c-red;
+      }
+    }
+  }
+
+  &.invalid {
+    .rb-select {
+      &__control {
+        border-bottom: 2px solid $c-red;
+      }
+    }
+  }
+}

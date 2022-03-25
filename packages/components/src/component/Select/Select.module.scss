@@ -1,0 +1,23 @@
+@import '@redbull/common/style/styles.scss';
+
+.select {
+  width: 100%;
+  > label {
+    display: block;
+    font-family: $font-bull-text-bold;
+    font-size: rem(15px);
+    line-height: rem(18px);
+    margin-bottom: rem(5px);
+    &.required:after {
+      color: $c-red;
+      content: '*';
+      padding-left: 3px;
+    }
+  }
+  .message {
+    background: $c-red--lightest;
+    color: $c-grey--8;
+    font-size: rem(14px);
+    padding: rem(6px) rem(10px);
+  }
+}

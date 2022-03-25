@@ -1,0 +1,39 @@
+@import './variables';
+@import './includemedia';
+@import './grid/mixins';
+
+@function rem($size) {
+  $remSize: $size / $font-size-html;
+  //Default font size on html element is 100%, equivalent to 16px;
+  @return #{$remSize}rem;
+}
+
+@mixin maxLine($line) {
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  height: auto;
+  -webkit-line-clamp: $line;
+  overflow: hidden;
+}
+
+@mixin fileColour {
+  &.pdf {
+    background-color: $c-red;
+  }
+  &.ppt {
+    background-color: $c-red--dark;
+  }
+  &.xls {
+    background-color: $c-green;
+  }
+  &.word {
+    background-color: $c-action--lightest;
+  }
+  &.txt {
+    background-color: $c-grey--6;
+  }
+  &.app {
+    background-color: $c-yellow;
+    color: $c-black;
+  }
+}

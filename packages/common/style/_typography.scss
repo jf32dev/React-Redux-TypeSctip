@@ -1,0 +1,72 @@
+/* BULL - title font */
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~@redbull/common/fonts/Bull/BullLatin-Regular.woff2')
+      format('woff2'),
+    url('~@redbull/common/fonts/Bull/BullLatin-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Medium';
+  font-style: normal;
+  font-weight: 500;
+  src: url('~@redbull/common/fonts/Bull/BullLatin-Medium.woff2') format('woff2'),
+    url('~@redbull/common/fonts/Bull/BullLatin-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('~@redbull/common/fonts/Bull/BullLatin-Bold.woff2') format('woff2'),
+    url('~@redbull/common/fonts/Bull/BullLatin-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Heavy';
+  font-style: normal;
+  font-weight: 800;
+  src: url('~@redbull/common/fonts/Bull/BullLatin-Heavy1.woff2') format('woff2'),
+    url('~@redbull/common/fonts/Bull/BullLatin-Heavy1.woff') format('woff');
+}
+
+/* BULL TEXT - body font */
+
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Text Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~@redbull/common/fonts/BullText/BullTextLatin-Regular.woff2')
+      format('woff2'),
+    url('~@redbull/common/fonts/BullText/BullTextLatin-Regular.woff')
+      format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Text Medium';
+  font-style: normal;
+  font-weight: 500;
+  src: url('~@redbull/common/fonts/BullText/BullTextLatin-Medium.woff2')
+      format('woff2'),
+    url('~@redbull/common/fonts/BullText/BullTextLatin-Medium.woff')
+      format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Bull Text Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('~@redbull/common/fonts/BullText/BullTextLatin-Bold.woff2')
+      format('woff2'),
+    url('~@redbull/common/fonts/BullText/BullTextLatin-Bold.woff')
+      format('woff');
+}

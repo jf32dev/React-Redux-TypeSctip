@@ -1,0 +1,116 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  @include make-responsive-container();
+}
+
+.row {
+  @include make-responsive-row();
+  height: 100%;
+  padding-bottom: rem(20px);
+
+  .col {
+    @include make-responsive-col();
+  }
+  .col12 {
+    @include make-responsive-col();
+    @include make-col(12);
+  }
+  .col8 {
+    @include make-responsive-col();
+    @include make-col(8);
+  }
+  .col4 {
+    @include make-responsive-col();
+    @include make-col(4);
+  }
+}
+
+.title {
+  margin: 0 rem(18px);
+  padding-bottom: 0;
+  padding-top: rem(16px);
+}
+
+.banner-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+
+  .welcome {
+    h2 {
+      color: $c-white;
+      font-size: rem(30px);
+      margin: 0;
+      padding-left: rem(12px);
+      @include media('<=sm') {
+        font-size: rem(24px);
+      }
+    }
+
+    h3 {
+      color: $c-white;
+      font-size: rem(16px);
+      margin: rem(10px) 0 0 0;
+      padding-left: rem(12px);
+      @include media('<=sm') {
+        font-size: rem(14px);
+      }
+    }
+  }
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.bottom-gap {
+  margin-bottom: rem(20px);
+}
+
+.no-gap {
+  margin-bottom: 0 !important;
+}
+
+.accordion-item {
+  padding-left: rem(8px);
+}
+
+.wrapper {
+  background-color: $c-grey--1;
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 60px);
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  .banner {
+    flex: 1 0 100px;
+
+    div:last-child {
+      padding-bottom: 0;
+    }
+  }
+  .featured {
+    flex: 2 0 175px;
+  }
+  .docs-tools {
+    flex: 2;
+  }
+  @include media('<=sm') {
+    overflow-y: auto;
+    .banner {
+      flex: 0 0 75px;
+    }
+    .featured {
+      flex: 0 0 260px;
+    }
+    .docs-tools {
+      .row {
+        padding-bottom: 0;
+      }
+    }
+  }
+}

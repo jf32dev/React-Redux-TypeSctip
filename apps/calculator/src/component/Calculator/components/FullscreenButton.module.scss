@@ -1,0 +1,10 @@
+.fullscreen {
+  span[class*='icon'] {
+    margin-left: 0;
+  }
+  svg {
+    height: 12px;
+    transform: translateY(2px);
+    width: 12px;
+  }
+}

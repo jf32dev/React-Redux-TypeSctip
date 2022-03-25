@@ -1,0 +1,62 @@
+@import '@redbull/common/style/styles.scss';
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+
+  .toggle {
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .wrapper {
+    border-radius: 0 0 2px 2px;
+    position: absolute;
+    top: calc(100% + 10px); // extra space for the arrow
+    z-index: 3;
+
+    .menu {
+      border-radius: 0 0 2px 2px;
+      box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.24);
+      left: 50%;
+      list-style: none;
+      margin: 0;
+      overflow: hidden;
+      padding-left: 0;
+      top: 100%;
+      width: 100%;
+    }
+
+    &:after {
+      border-bottom: 8px solid $c-white;
+      border-left: 9px solid transparent;
+      border-right: 9px solid transparent;
+      content: '';
+      display: block;
+      height: 0;
+      left: calc(50% - 5px);
+      position: absolute;
+      right: auto;
+      top: -8px;
+      width: 0;
+    }
+
+    &.left {
+      left: auto;
+      right: 0;
+
+      &:after {
+        left: calc(85% - 9px); // arrow width
+      }
+    }
+
+    &.right {
+      left: 0;
+      right: auto;
+
+      &:after {
+        left: calc(5% + 9px); // arrow width
+      }
+    }
+  }
+}

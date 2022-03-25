@@ -1,0 +1,58 @@
+@import '@redbull/common/style/styles.scss';
+
+.filter-toogle {
+  cursor: pointer;
+  height: 20px;
+  position: absolute;
+  right: 20px;
+  top: 25px;
+  width: 20px;
+  path {
+    fill: $c-red;
+  }
+}
+.control-group {
+  opacity: 0;
+  transition: height ease 150ms;
+  visibility: hidden;
+  &.expanded {
+    opacity: 1;
+    visibility: visible;
+  }
+  @include media('>=md') {
+    height: auto;
+    opacity: 1;
+    visibility: visible;
+  }
+}
+.controls {
+  align-items: flex-end;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: rem(10px) rem(14px) rem(20px);
+  > * {
+    flex-basis: 100%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    padding-top: rem(20px);
+  }
+  @include media('>sm') {
+    > * {
+      flex-basis: calc(50% - 8px);
+      padding-top: 0;
+    }
+  }
+  @include media('>=md') {
+    .filter-input {
+      flex-basis: calc(30%);
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+    > *:not(.filter-input) {
+      flex-basis: calc(25% - 48px);
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+  }
+}

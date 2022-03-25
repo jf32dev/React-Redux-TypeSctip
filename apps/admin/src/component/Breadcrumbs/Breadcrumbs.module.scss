@@ -1,0 +1,39 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: flex;
+  .item {
+    align-items: center;
+    display: flex;
+    div {
+      color: $c-grey--8;
+      cursor: pointer;
+      display: flex;
+      font-size: rem(12px);
+      line-height: rem(16px);
+      text-decoration: none;
+      &:hover {
+        color: $c-red;
+      }
+    }
+    .icon {
+      display: none;
+    }
+    + .item {
+      .icon {
+        display: inline;
+        transform: rotate(-90deg);
+        height: 5px;
+      }
+    }
+    &:last-child {
+      a {
+        color: $c-grey--6;
+      }
+      pointer-events: none;
+    }
+    &.disabled {
+      pointer-events: none;
+    }
+  }
+}

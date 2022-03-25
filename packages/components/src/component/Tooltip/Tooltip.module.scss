@@ -1,0 +1,75 @@
+@import '@redbull/common/style/styles.scss';
+
+$arrow-size: rem(6px);
+
+.container {
+  cursor: pointer;
+  display: inline-block;
+}
+.tooltip-container {
+  position: fixed;
+  z-index: 1003;
+  .tooltip {
+    background-color: $c-grey--7;
+    border-radius: 4px;
+    color: $c-white;
+    display: block;
+    max-width: rem(300px);
+    padding: rem(10px);
+
+    &:before {
+      content: '';
+      height: 0;
+      position: absolute;
+      width: 0;
+    }
+    &.right {
+      &:before {
+        border-bottom: $arrow-size solid transparent;
+        border-right: $arrow-size solid $c-grey--7;
+        border-top: $arrow-size solid transparent;
+        left: -$arrow-size;
+        top: calc(50% - #{$arrow-size});
+      }
+    }
+    &.left {
+      &:before {
+        border-bottom: $arrow-size solid transparent;
+        border-left: $arrow-size solid $c-grey--7;
+        border-top: $arrow-size solid transparent;
+        right: -$arrow-size;
+        top: calc(50% - #{$arrow-size});
+      }
+    }
+    &.top {
+      &:before {
+        border-left: $arrow-size solid transparent;
+        border-right: $arrow-size solid transparent;
+        border-top: $arrow-size solid $c-grey--7;
+        bottom: -$arrow-size;
+        left: calc(50% - #{$arrow-size});
+      }
+    }
+    &.bottom {
+      &:before {
+        border-bottom: $arrow-size solid $c-grey--7;
+        border-left: $arrow-size solid transparent;
+        border-right: $arrow-size solid transparent;
+        left: calc(50% - #{$arrow-size});
+        top: -$arrow-size;
+      }
+    }
+  }
+}
+
+.transition {
+  &-enter {
+    opacity: 0.6;
+    transform: scale(0.8);
+  }
+  &-enter-active {
+    opacity: 1;
+    transform: scale(1);
+    transition: transform 200ms, opacity 200ms;
+  }
+}

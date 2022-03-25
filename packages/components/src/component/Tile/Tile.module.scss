@@ -1,0 +1,89 @@
+@import '@redbull/common/style/styles.scss';
+
+.tile {
+  align-items: center;
+  background-color: $c-white;
+  border-radius: 2px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  .mask {
+    background: linear-gradient(
+        105deg,
+        transparent,
+        transparent 25%,
+        rgba(0, 0, 0, 0.05) 0,
+        rgba(0, 0, 0, 0.05) 50%,
+        transparent 0,
+        transparent 75%,
+        rgba(0, 0, 0, 0.05) 0,
+        rgba(0, 0, 0, 0.05)
+      )
+      no-repeat -5px -5px;
+    background-size: 600% 600%;
+    height: 100%;
+    max-width: none;
+    position: absolute;
+    transition: background-position 0.3s cubic-bezier(0.35, 0, 0, 1);
+    width: 100%;
+    z-index: 0;
+  }
+  &:hover {
+    .mask {
+      background-position: 20% 20%;
+    }
+  }
+  &:active,
+  &:focus {
+    cursor: default;
+    outline: none;
+    .mask {
+      background-position: 80% 80%;
+    }
+  }
+  &.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+  .container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    padding: rem(20px) rem(5px);
+    position: relative;
+    text-decoration: none;
+    width: 100%;
+    z-index: 0;
+    .icon {
+      display: block;
+      margin-bottom: rem(5px);
+    }
+
+    .title {
+      display: block;
+      font-family: $font-bull-heavy;
+      font-size: rem(12px);
+      height: rem(24px);
+      line-height: rem(12px);
+      text-align: center;
+      text-transform: uppercase;
+      transform: translateY(4px);
+      width: 80%;
+    }
+    .note {
+      bottom: 5%;
+      color: $c-red;
+      font-family: $font-bull-regular;
+      font-size: rem(10px);
+      line-height: rem(12px);
+      position: absolute;
+      @include media('>sm') {
+        bottom: 10%;
+      }
+    }
+  }
+}

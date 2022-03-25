@@ -1,0 +1,5250 @@
+[
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "CSD",
+    "MarketSalesPercent": "36.55",
+    "YearGrowthPercent": "-2.7"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.64",
+    "YearGrowthPercent": "13.3"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.67",
+    "YearGrowthPercent": "-6.4"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.83",
+    "YearGrowthPercent": "0.7"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.88",
+    "YearGrowthPercent": "14.0"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.68",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.75",
+    "YearGrowthPercent": "-2.1"
+  },
+  {
+    "State": "Alabama",
+    "City": "Alabama",
+    "Helper": "Alabama Alabama",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "CSD",
+    "MarketSalesPercent": "19.57",
+    "YearGrowthPercent": "12.8"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.57",
+    "YearGrowthPercent": "5.1"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "WATER",
+    "MarketSalesPercent": "17.44",
+    "YearGrowthPercent": "5.7"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "12.08",
+    "YearGrowthPercent": "14.6"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.45",
+    "YearGrowthPercent": "3.6"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.02",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "JUICE",
+    "MarketSalesPercent": "5.86",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "Arizona",
+    "City": "Arizona",
+    "Helper": "Arizona Arizona",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "7.1"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.34",
+    "YearGrowthPercent": "-3.2"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.97",
+    "YearGrowthPercent": "8.6"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.41",
+    "YearGrowthPercent": "-4.9"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.47",
+    "YearGrowthPercent": "5.0"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.33",
+    "YearGrowthPercent": "13.3"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.31",
+    "YearGrowthPercent": "-2.9"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.17",
+    "YearGrowthPercent": "-3.3"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Arkansas",
+    "Helper": "Arkansas Arkansas",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "CSD",
+    "MarketSalesPercent": "18.10",
+    "YearGrowthPercent": "14.0"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.87",
+    "YearGrowthPercent": "1.1"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "WATER",
+    "MarketSalesPercent": "18.05",
+    "YearGrowthPercent": "-1.1"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.18",
+    "YearGrowthPercent": "17.1"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.22",
+    "YearGrowthPercent": "12.9"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.30",
+    "YearGrowthPercent": "0.7"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.27",
+    "YearGrowthPercent": "-0.3"
+  },
+  {
+    "State": "California",
+    "City": "California",
+    "Helper": "California California",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.0"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.24",
+    "YearGrowthPercent": "4.1"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.13",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "WATER",
+    "MarketSalesPercent": "13.03",
+    "YearGrowthPercent": "-4.0"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.93",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.23",
+    "YearGrowthPercent": "2.0"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.75",
+    "YearGrowthPercent": "-8.4"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.69",
+    "YearGrowthPercent": "-4.1"
+  },
+  {
+    "State": "Colorado",
+    "City": "Colorado",
+    "Helper": "Colorado Colorado",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.9"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "CSD",
+    "MarketSalesPercent": "21.37",
+    "YearGrowthPercent": "-1.2"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.65",
+    "YearGrowthPercent": "6.8"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "WATER",
+    "MarketSalesPercent": "18.38",
+    "YearGrowthPercent": "-13.3"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.70",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.89",
+    "YearGrowthPercent": "12.2"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.58",
+    "YearGrowthPercent": "-5.9"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.43",
+    "YearGrowthPercent": "-4.3"
+  },
+  {
+    "State": "Connecticut",
+    "City": "Connecticut",
+    "Helper": "Connecticut Connecticut",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.6"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.96",
+    "YearGrowthPercent": "3.2"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.58",
+    "YearGrowthPercent": "4.2"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "WATER",
+    "MarketSalesPercent": "16.15",
+    "YearGrowthPercent": "-1.9"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.27",
+    "YearGrowthPercent": "6.0"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.34",
+    "YearGrowthPercent": "0.1"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.22",
+    "YearGrowthPercent": "-9.1"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "JUICE",
+    "MarketSalesPercent": "10.48",
+    "YearGrowthPercent": "3.5"
+  },
+  {
+    "State": "Florida",
+    "City": "Florida",
+    "Helper": "Florida Florida",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.2"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "CSD",
+    "MarketSalesPercent": "30.02",
+    "YearGrowthPercent": "-5.0"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.87",
+    "YearGrowthPercent": "5.9"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.27",
+    "YearGrowthPercent": "-3.4"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.44",
+    "YearGrowthPercent": "1.2"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.59",
+    "YearGrowthPercent": "7.2"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "TEA",
+    "MarketSalesPercent": "2.88",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.94",
+    "YearGrowthPercent": "-0.3"
+  },
+  {
+    "State": "Georgia",
+    "City": "Georgia",
+    "Helper": "Georgia Georgia",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.1"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "CSD",
+    "MarketSalesPercent": "26.47",
+    "YearGrowthPercent": "1.2"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.85",
+    "YearGrowthPercent": "-1.8"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "WATER",
+    "MarketSalesPercent": "12.34",
+    "YearGrowthPercent": "-10.4"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.88",
+    "YearGrowthPercent": "1.3"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.62",
+    "YearGrowthPercent": "3.0"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.66",
+    "YearGrowthPercent": "-10.7"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.19",
+    "YearGrowthPercent": "-5.6"
+  },
+  {
+    "State": "Illinois",
+    "City": "Illinois",
+    "Helper": "Illinois Illinois",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.3"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "CSD",
+    "MarketSalesPercent": "28.66",
+    "YearGrowthPercent": "3.4"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.79",
+    "YearGrowthPercent": "9.7"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.67",
+    "YearGrowthPercent": "-3.5"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.83",
+    "YearGrowthPercent": "7.5"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "8.96",
+    "YearGrowthPercent": "9.1"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.98",
+    "YearGrowthPercent": "-3.7"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.11",
+    "YearGrowthPercent": "-4.6"
+  },
+  {
+    "State": "Indiana",
+    "City": "Indiana",
+    "Helper": "Indiana Indiana",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.6"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "CSD",
+    "MarketSalesPercent": "34.89",
+    "YearGrowthPercent": "-3.2"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "27.24",
+    "YearGrowthPercent": "7.3"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.20",
+    "YearGrowthPercent": "-3.6"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.68",
+    "YearGrowthPercent": "-1.0"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.81",
+    "YearGrowthPercent": "10.8"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.86",
+    "YearGrowthPercent": "-14.0"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.32",
+    "YearGrowthPercent": "-7.1"
+  },
+  {
+    "State": "Iowa",
+    "City": "Iowa",
+    "Helper": "Iowa Iowa",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.5"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "CSD",
+    "MarketSalesPercent": "37.08",
+    "YearGrowthPercent": "-4.1"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.55",
+    "YearGrowthPercent": "6.3"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "WATER",
+    "MarketSalesPercent": "8.41",
+    "YearGrowthPercent": "-14.7"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.37",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.43",
+    "YearGrowthPercent": "12.5"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.27",
+    "YearGrowthPercent": "-4.2"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "JUICE",
+    "MarketSalesPercent": "4.89",
+    "YearGrowthPercent": "-8.7"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Kentucky",
+    "Helper": "Kentucky Kentucky",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.1"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "CSD",
+    "MarketSalesPercent": "27.86",
+    "YearGrowthPercent": "0.4"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "34.96",
+    "YearGrowthPercent": "5.8"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.86",
+    "YearGrowthPercent": "-5.5"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.16",
+    "YearGrowthPercent": "11.6"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.54",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.69",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.93",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "Louisiana",
+    "City": "Louisiana",
+    "Helper": "Louisiana Louisiana",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.9"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "CSD",
+    "MarketSalesPercent": "29.85",
+    "YearGrowthPercent": "-5.3"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.30",
+    "YearGrowthPercent": "4.4"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "WATER",
+    "MarketSalesPercent": "12.95",
+    "YearGrowthPercent": "-12.9"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.26",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.87",
+    "YearGrowthPercent": "8.8"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.79",
+    "YearGrowthPercent": "-15.7"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.98",
+    "YearGrowthPercent": "-10.4"
+  },
+  {
+    "State": "Maine",
+    "City": "Maine",
+    "Helper": "Maine Maine",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-3.7"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "CSD",
+    "MarketSalesPercent": "24.63",
+    "YearGrowthPercent": "-4.6"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "24.96",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.86",
+    "YearGrowthPercent": "-15.3"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.78",
+    "YearGrowthPercent": "-2.0"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.31",
+    "YearGrowthPercent": "-8.2"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "TEA",
+    "MarketSalesPercent": "7.61",
+    "YearGrowthPercent": "-15.3"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "JUICE",
+    "MarketSalesPercent": "13.85",
+    "YearGrowthPercent": "-4.9"
+  },
+  {
+    "State": "Maryland",
+    "City": "Maryland",
+    "Helper": "Maryland Maryland",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-5.7"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.50",
+    "YearGrowthPercent": "5.6"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.00",
+    "YearGrowthPercent": "2.8"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "WATER",
+    "MarketSalesPercent": "17.50",
+    "YearGrowthPercent": "-12.5"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.02",
+    "YearGrowthPercent": "-0.3"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.43",
+    "YearGrowthPercent": "3.7"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.31",
+    "YearGrowthPercent": "-15.3"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.24",
+    "YearGrowthPercent": "-3.4"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Massachusetts",
+    "Helper": "Massachusetts Massachusetts",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "CSD",
+    "MarketSalesPercent": "29.97",
+    "YearGrowthPercent": "-1.7"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "34.04",
+    "YearGrowthPercent": "2.0"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.62",
+    "YearGrowthPercent": "-5.3"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.52",
+    "YearGrowthPercent": "5.6"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.35",
+    "YearGrowthPercent": "6.2"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.52",
+    "YearGrowthPercent": "-12.1"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "JUICE",
+    "MarketSalesPercent": "5.98",
+    "YearGrowthPercent": "-8.1"
+  },
+  {
+    "State": "Michigan",
+    "City": "Michigan",
+    "Helper": "Michigan Michigan",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.9"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "CSD",
+    "MarketSalesPercent": "32.65",
+    "YearGrowthPercent": "-1.8"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.14",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.98",
+    "YearGrowthPercent": "-6.4"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.85",
+    "YearGrowthPercent": "0.6"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.20",
+    "YearGrowthPercent": "0.3"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.28",
+    "YearGrowthPercent": "-13.6"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.91",
+    "YearGrowthPercent": "-8.2"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minnesota",
+    "Helper": "Minnesota Minnesota",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.8"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "CSD",
+    "MarketSalesPercent": "31.07",
+    "YearGrowthPercent": "10.7"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.74",
+    "YearGrowthPercent": "7.7"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.45",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.10",
+    "YearGrowthPercent": "10.0"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.99",
+    "YearGrowthPercent": "11.4"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.29",
+    "YearGrowthPercent": "3.3"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.37",
+    "YearGrowthPercent": "3.9"
+  },
+  {
+    "State": "Missouri",
+    "City": "Missouri",
+    "Helper": "Missouri Missouri",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "7.6"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "CSD",
+    "MarketSalesPercent": "31.05",
+    "YearGrowthPercent": "0.4"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.65",
+    "YearGrowthPercent": "0.4"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.60",
+    "YearGrowthPercent": "0.7"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.68",
+    "YearGrowthPercent": "5.4"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.91",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.30",
+    "YearGrowthPercent": "-6.4"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.80",
+    "YearGrowthPercent": "-2.2"
+  },
+  {
+    "State": "Nebraska",
+    "City": "Nebraska",
+    "Helper": "Nebraska Nebraska",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.6"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "CSD",
+    "MarketSalesPercent": "21.82",
+    "YearGrowthPercent": "10.4"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.85",
+    "YearGrowthPercent": "-6.3"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.31",
+    "YearGrowthPercent": "-3.4"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.98",
+    "YearGrowthPercent": "11.5"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.59",
+    "YearGrowthPercent": "-0.9"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.34",
+    "YearGrowthPercent": "-12.2"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.11",
+    "YearGrowthPercent": "3.3"
+  },
+  {
+    "State": "Nevada",
+    "City": "Nevada",
+    "Helper": "Nevada Nevada",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.3"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "CSD",
+    "MarketSalesPercent": "25.50",
+    "YearGrowthPercent": "0.2"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.36",
+    "YearGrowthPercent": "11.1"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.19",
+    "YearGrowthPercent": "-5.0"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.90",
+    "YearGrowthPercent": "11.5"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.72",
+    "YearGrowthPercent": "18.9"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.21",
+    "YearGrowthPercent": "-4.2"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.11",
+    "YearGrowthPercent": "-4.8"
+  },
+  {
+    "State": "New Hampshire",
+    "City": "New Hampshire",
+    "Helper": "New Hampshire New Hampshire",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.7"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.81",
+    "YearGrowthPercent": "5.7"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "34.00",
+    "YearGrowthPercent": "-1.6"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "WATER",
+    "MarketSalesPercent": "13.82",
+    "YearGrowthPercent": "4.0"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "12.16",
+    "YearGrowthPercent": "7.7"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.92",
+    "YearGrowthPercent": "2.7"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.00",
+    "YearGrowthPercent": "-7.7"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.29",
+    "YearGrowthPercent": "-6.0"
+  },
+  {
+    "State": "New Mexico",
+    "City": "New Mexico",
+    "Helper": "New Mexico New Mexico",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.4"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.19",
+    "YearGrowthPercent": "-2.5"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.32",
+    "YearGrowthPercent": "2.3"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "WATER",
+    "MarketSalesPercent": "17.30",
+    "YearGrowthPercent": "-8.2"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.80",
+    "YearGrowthPercent": "2.5"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.29",
+    "YearGrowthPercent": "1.9"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "TEA",
+    "MarketSalesPercent": "7.29",
+    "YearGrowthPercent": "-12.9"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.82",
+    "YearGrowthPercent": "-6.4"
+  },
+  {
+    "State": "New York",
+    "City": "New York",
+    "Helper": "New York New York",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.7"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "CSD",
+    "MarketSalesPercent": "34.13",
+    "YearGrowthPercent": "-3.7"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.54",
+    "YearGrowthPercent": "4.2"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.58",
+    "YearGrowthPercent": "-5.5"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.79",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.98",
+    "YearGrowthPercent": "7.3"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "TEA",
+    "MarketSalesPercent": "2.59",
+    "YearGrowthPercent": "-4.5"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.39",
+    "YearGrowthPercent": "-5.0"
+  },
+  {
+    "State": "North Carolina",
+    "City": "North Carolina",
+    "Helper": "North Carolina North Carolina",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "CSD",
+    "MarketSalesPercent": "31.45",
+    "YearGrowthPercent": "-2.9"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.20",
+    "YearGrowthPercent": "0.6"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.56",
+    "YearGrowthPercent": "-2.6"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.45",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.26",
+    "YearGrowthPercent": "-1.6"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.05",
+    "YearGrowthPercent": "-2.8"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.03",
+    "YearGrowthPercent": "-5.5"
+  },
+  {
+    "State": "North Dakota",
+    "City": "North Dakota",
+    "Helper": "North Dakota North Dakota",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "CSD",
+    "MarketSalesPercent": "29.50",
+    "YearGrowthPercent": "-0.2"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.37",
+    "YearGrowthPercent": "4.8"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.84",
+    "YearGrowthPercent": "-4.2"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.41",
+    "YearGrowthPercent": "3.6"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.67",
+    "YearGrowthPercent": "10.6"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.51",
+    "YearGrowthPercent": "-7.2"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "JUICE",
+    "MarketSalesPercent": "5.70",
+    "YearGrowthPercent": "-5.1"
+  },
+  {
+    "State": "Ohio",
+    "City": "Ohio",
+    "Helper": "Ohio Ohio",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.3"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "CSD",
+    "MarketSalesPercent": "30.90",
+    "YearGrowthPercent": "4.1"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.15",
+    "YearGrowthPercent": "3.9"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.14",
+    "YearGrowthPercent": "-1.1"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.24",
+    "YearGrowthPercent": "5.3"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.75",
+    "YearGrowthPercent": "11.7"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.91",
+    "YearGrowthPercent": "4.8"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "JUICE",
+    "MarketSalesPercent": "5.91",
+    "YearGrowthPercent": "1.1"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma",
+    "Helper": "Oklahoma Oklahoma",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.8"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.01",
+    "YearGrowthPercent": "3.6"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "36.02",
+    "YearGrowthPercent": "4.6"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.82",
+    "YearGrowthPercent": "1.8"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.46",
+    "YearGrowthPercent": "9.0"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.05",
+    "YearGrowthPercent": "13.0"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.84",
+    "YearGrowthPercent": "-2.2"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.79",
+    "YearGrowthPercent": "1.5"
+  },
+  {
+    "State": "Oregon",
+    "City": "Oregon",
+    "Helper": "Oregon Oregon",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.2"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.48",
+    "YearGrowthPercent": "-3.6"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.49",
+    "YearGrowthPercent": "4.4"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.62",
+    "YearGrowthPercent": "-13.1"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.43",
+    "YearGrowthPercent": "-3.9"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.71",
+    "YearGrowthPercent": "3.1"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "TEA",
+    "MarketSalesPercent": "15.58",
+    "YearGrowthPercent": "-10.3"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.69",
+    "YearGrowthPercent": "-5.7"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Pennsylvania",
+    "Helper": "Pennsylvania Pennsylvania",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-3.8"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.89",
+    "YearGrowthPercent": "8.1"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.88",
+    "YearGrowthPercent": "12.2"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "WATER",
+    "MarketSalesPercent": "17.96",
+    "YearGrowthPercent": "-5.2"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.82",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.15",
+    "YearGrowthPercent": "24.3"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.96",
+    "YearGrowthPercent": "1.0"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "JUICE",
+    "MarketSalesPercent": "10.34",
+    "YearGrowthPercent": "2.2"
+  },
+  {
+    "State": "Rhode Island",
+    "City": "Rhode Island",
+    "Helper": "Rhode Island Rhode Island",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.4"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "CSD",
+    "MarketSalesPercent": "32.91",
+    "YearGrowthPercent": "-1.8"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "27.39",
+    "YearGrowthPercent": "5.8"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.81",
+    "YearGrowthPercent": "0.5"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.73",
+    "YearGrowthPercent": "6.5"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.70",
+    "YearGrowthPercent": "9.6"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "TEA",
+    "MarketSalesPercent": "2.81",
+    "YearGrowthPercent": "-2.5"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.65",
+    "YearGrowthPercent": "-4.7"
+  },
+  {
+    "State": "South Carolina",
+    "City": "South Carolina",
+    "Helper": "South Carolina South Carolina",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.14",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.62",
+    "YearGrowthPercent": "14.9"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.24",
+    "YearGrowthPercent": "8.9"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.60",
+    "YearGrowthPercent": "18.7"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.67",
+    "YearGrowthPercent": "11.7"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.48",
+    "YearGrowthPercent": "7.3"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.24",
+    "YearGrowthPercent": "3.3"
+  },
+  {
+    "State": "South Dakota",
+    "City": "South Dakota",
+    "Helper": "South Dakota South Dakota",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "8.4"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.97",
+    "YearGrowthPercent": "0.7"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.17",
+    "YearGrowthPercent": "6.7"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.99",
+    "YearGrowthPercent": "-4.2"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.58",
+    "YearGrowthPercent": "2.7"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.29",
+    "YearGrowthPercent": "7.9"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.24",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.77",
+    "YearGrowthPercent": "-2.3"
+  },
+  {
+    "State": "Tennessee",
+    "City": "Tennessee",
+    "Helper": "Tennessee Tennessee",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.3"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "CSD",
+    "MarketSalesPercent": "28.26",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.81",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.79",
+    "YearGrowthPercent": "-6.1"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.60",
+    "YearGrowthPercent": "4.6"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.53",
+    "YearGrowthPercent": "-1.7"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.40",
+    "YearGrowthPercent": "-6.0"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.61",
+    "YearGrowthPercent": "-2.7"
+  },
+  {
+    "State": "Texas",
+    "City": "Texas",
+    "Helper": "Texas Texas",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.9"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "CSD",
+    "MarketSalesPercent": "27.15",
+    "YearGrowthPercent": "8.1"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.80",
+    "YearGrowthPercent": "1.2"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.54",
+    "YearGrowthPercent": "2.3"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.94",
+    "YearGrowthPercent": "12.8"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.15",
+    "YearGrowthPercent": "14.4"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.15",
+    "YearGrowthPercent": "-3.6"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.26",
+    "YearGrowthPercent": "-5.5"
+  },
+  {
+    "State": "Utah",
+    "City": "Utah",
+    "Helper": "Utah Utah",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.1"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "CSD",
+    "MarketSalesPercent": "29.97",
+    "YearGrowthPercent": "-4.0"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "22.50",
+    "YearGrowthPercent": "3.5"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.48",
+    "YearGrowthPercent": "-7.8"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.46",
+    "YearGrowthPercent": "7.0"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.64",
+    "YearGrowthPercent": "8.0"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "TEA",
+    "MarketSalesPercent": "8.36",
+    "YearGrowthPercent": "-10.9"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.60",
+    "YearGrowthPercent": "-5.5"
+  },
+  {
+    "State": "Vermont",
+    "City": "Vermont",
+    "Helper": "Vermont Vermont",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.2"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "CSD",
+    "MarketSalesPercent": "30.35",
+    "YearGrowthPercent": "-0.5"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "27.85",
+    "YearGrowthPercent": "5.1"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.40",
+    "YearGrowthPercent": "-11.0"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.07",
+    "YearGrowthPercent": "2.0"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.12",
+    "YearGrowthPercent": "5.0"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.22",
+    "YearGrowthPercent": "-9.4"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "JUICE",
+    "MarketSalesPercent": "10.00",
+    "YearGrowthPercent": "-2.9"
+  },
+  {
+    "State": "Virginia",
+    "City": "Virginia",
+    "Helper": "Virginia Virginia",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.57",
+    "YearGrowthPercent": "2.5"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "38.56",
+    "YearGrowthPercent": "1.2"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.23",
+    "YearGrowthPercent": "-6.1"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.04",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.45",
+    "YearGrowthPercent": "2.9"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.40",
+    "YearGrowthPercent": "-3.7"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.75",
+    "YearGrowthPercent": "-7.6"
+  },
+  {
+    "State": "Washington",
+    "City": "Washington",
+    "Helper": "Washington Washington",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.2"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "CSD",
+    "MarketSalesPercent": "38.67",
+    "YearGrowthPercent": "3.8"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.60",
+    "YearGrowthPercent": "9.8"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "WATER",
+    "MarketSalesPercent": "8.13",
+    "YearGrowthPercent": "1.1"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "7.98",
+    "YearGrowthPercent": "4.2"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.37",
+    "YearGrowthPercent": "20.9"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.39",
+    "YearGrowthPercent": "-1.6"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "JUICE",
+    "MarketSalesPercent": "4.85",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "West Virginia",
+    "City": "West Virginia",
+    "Helper": "West Virginia West Virginia",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.8"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.30",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.37",
+    "YearGrowthPercent": "1.4"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.51",
+    "YearGrowthPercent": "-3.8"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.83",
+    "YearGrowthPercent": "4.4"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.30",
+    "YearGrowthPercent": "8.8"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.89",
+    "YearGrowthPercent": "-7.1"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.79",
+    "YearGrowthPercent": "-4.3"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Wisconsin",
+    "Helper": "Wisconsin Wisconsin",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.2"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "CSD",
+    "MarketSalesPercent": "28.17",
+    "YearGrowthPercent": "6.1"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.10",
+    "YearGrowthPercent": "0.2"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "WATER",
+    "MarketSalesPercent": "13.42",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.22",
+    "YearGrowthPercent": "9.5"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.52",
+    "YearGrowthPercent": "3.3"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.82",
+    "YearGrowthPercent": "0.2"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.75",
+    "YearGrowthPercent": "-6.4"
+  },
+  {
+    "State": "Wyoming",
+    "City": "Wyoming",
+    "Helper": "Wyoming Wyoming",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "CSD",
+    "MarketSalesPercent": "27.02",
+    "YearGrowthPercent": "-7.6"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.73",
+    "YearGrowthPercent": "3.7"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "WATER",
+    "MarketSalesPercent": "12.06",
+    "YearGrowthPercent": "-4.9"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.49",
+    "YearGrowthPercent": "-3.2"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.45",
+    "YearGrowthPercent": "3.7"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.14",
+    "YearGrowthPercent": "2.3"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "JUICE",
+    "MarketSalesPercent": "11.12",
+    "YearGrowthPercent": "-1.7"
+  },
+  {
+    "State": "Georgia",
+    "City": "Atlanta",
+    "Helper": "Georgia Atlanta",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.0"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.24",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.78",
+    "YearGrowthPercent": "-0.8"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.53",
+    "YearGrowthPercent": "-15.7"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.05",
+    "YearGrowthPercent": "-2.6"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.48",
+    "YearGrowthPercent": "-4.6"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.32",
+    "YearGrowthPercent": "-16.6"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "JUICE",
+    "MarketSalesPercent": "13.60",
+    "YearGrowthPercent": "-8.1"
+  },
+  {
+    "State": "Maryland",
+    "City": "Baltimore/Washington D.C.",
+    "Helper": "Maryland Baltimore/Washington D.C.",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-6.0"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "CSD",
+    "MarketSalesPercent": "37.02",
+    "YearGrowthPercent": "-5.3"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.13",
+    "YearGrowthPercent": "12.9"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.86",
+    "YearGrowthPercent": "-6.1"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.67",
+    "YearGrowthPercent": "-1.0"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.76",
+    "YearGrowthPercent": "13.5"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.00",
+    "YearGrowthPercent": "-1.8"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.55",
+    "YearGrowthPercent": "-4.0"
+  },
+  {
+    "State": "Alabama",
+    "City": "Birmingham/Montgomery",
+    "Helper": "Alabama Birmingham/Montgomery",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.5"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.51",
+    "YearGrowthPercent": "5.7"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.01",
+    "YearGrowthPercent": "2.6"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "WATER",
+    "MarketSalesPercent": "17.45",
+    "YearGrowthPercent": "-12.7"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.07",
+    "YearGrowthPercent": "-0.4"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.40",
+    "YearGrowthPercent": "3.0"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.28",
+    "YearGrowthPercent": "-15.9"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.28",
+    "YearGrowthPercent": "-3.1"
+  },
+  {
+    "State": "Massachusetts",
+    "City": "Boston",
+    "Helper": "Massachusetts Boston",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.90",
+    "YearGrowthPercent": "3.8"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.86",
+    "YearGrowthPercent": "7.9"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "WATER",
+    "MarketSalesPercent": "12.37",
+    "YearGrowthPercent": "0.0"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.94",
+    "YearGrowthPercent": "13.5"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.55",
+    "YearGrowthPercent": "9.2"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.42",
+    "YearGrowthPercent": "-7.4"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.97",
+    "YearGrowthPercent": "-2.5"
+  },
+  {
+    "State": "New York",
+    "City": "Buffalo/Rochester",
+    "Helper": "New York Buffalo/Rochester",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.7"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "CSD",
+    "MarketSalesPercent": "21.14",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "37.03",
+    "YearGrowthPercent": "-2.1"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "WATER",
+    "MarketSalesPercent": "13.33",
+    "YearGrowthPercent": "-10.0"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.24",
+    "YearGrowthPercent": "2.0"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.32",
+    "YearGrowthPercent": "2.2"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.25",
+    "YearGrowthPercent": "-12.5"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.69",
+    "YearGrowthPercent": "-6.1"
+  },
+  {
+    "State": "Illinois",
+    "City": "Chicago",
+    "Helper": "Illinois Chicago",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-3.3"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "CSD",
+    "MarketSalesPercent": "29.65",
+    "YearGrowthPercent": "0.7"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.99",
+    "YearGrowthPercent": "5.1"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.92",
+    "YearGrowthPercent": "-3.5"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.75",
+    "YearGrowthPercent": "3.7"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.88",
+    "YearGrowthPercent": "9.8"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.14",
+    "YearGrowthPercent": "-6.4"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "JUICE",
+    "MarketSalesPercent": "5.67",
+    "YearGrowthPercent": "-2.9"
+  },
+  {
+    "State": "Ohio",
+    "City": "Cincinnati/Dayton",
+    "Helper": "Ohio Cincinnati/Dayton",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "CSD",
+    "MarketSalesPercent": "28.85",
+    "YearGrowthPercent": "1.4"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.16",
+    "YearGrowthPercent": "0.9"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.07",
+    "YearGrowthPercent": "-5.5"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.44",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.31",
+    "YearGrowthPercent": "-0.8"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "TEA",
+    "MarketSalesPercent": "2.68",
+    "YearGrowthPercent": "-8.2"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.49",
+    "YearGrowthPercent": "-2.2"
+  },
+  {
+    "State": "Texas",
+    "City": "Dallas/Ft. Worth",
+    "Helper": "Texas Dallas/Ft. Worth",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.3"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.63",
+    "YearGrowthPercent": "5.2"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.77",
+    "YearGrowthPercent": "2.9"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "WATER",
+    "MarketSalesPercent": "12.86",
+    "YearGrowthPercent": "-4.0"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.10",
+    "YearGrowthPercent": "6.7"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.14",
+    "YearGrowthPercent": "1.9"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.51",
+    "YearGrowthPercent": "-8.9"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.99",
+    "YearGrowthPercent": "-3.3"
+  },
+  {
+    "State": "Colorado",
+    "City": "Denver",
+    "Helper": "Colorado Denver",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "CSD",
+    "MarketSalesPercent": "27.63",
+    "YearGrowthPercent": "-3.9"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.54",
+    "YearGrowthPercent": "-2.4"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "WATER",
+    "MarketSalesPercent": "12.28",
+    "YearGrowthPercent": "-9.2"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.27",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.11",
+    "YearGrowthPercent": "2.3"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.77",
+    "YearGrowthPercent": "-16.2"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.40",
+    "YearGrowthPercent": "-10.0"
+  },
+  {
+    "State": "Michigan",
+    "City": "Detroit",
+    "Helper": "Michigan Detroit",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-4.4"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.53",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.71",
+    "YearGrowthPercent": "1.9"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.89",
+    "YearGrowthPercent": "3.0"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "8.69",
+    "YearGrowthPercent": "9.8"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.36",
+    "YearGrowthPercent": "14.3"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.75",
+    "YearGrowthPercent": "-2.1"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.07",
+    "YearGrowthPercent": "-2.3"
+  },
+  {
+    "State": "Wisconsin",
+    "City": "Green Bay",
+    "Helper": "Wisconsin Green Bay",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.2"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "CSD",
+    "MarketSalesPercent": "24.83",
+    "YearGrowthPercent": "-2.1"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "25.99",
+    "YearGrowthPercent": "7.1"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.84",
+    "YearGrowthPercent": "-10.3"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "7.67",
+    "YearGrowthPercent": "-2.6"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.27",
+    "YearGrowthPercent": "5.9"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "TEA",
+    "MarketSalesPercent": "17.30",
+    "YearGrowthPercent": "-7.1"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.10",
+    "YearGrowthPercent": "-5.0"
+  },
+  {
+    "State": "Pennsylvania",
+    "City": "Harrisburg/Scranton",
+    "Helper": "Pennsylvania Harrisburg/Scranton",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "CSD",
+    "MarketSalesPercent": "26.47",
+    "YearGrowthPercent": "7.8"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.07",
+    "YearGrowthPercent": "8.7"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.22",
+    "YearGrowthPercent": "-3.2"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.55",
+    "YearGrowthPercent": "12.3"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.50",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.16",
+    "YearGrowthPercent": "-2.2"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.03",
+    "YearGrowthPercent": "7.0"
+  },
+  {
+    "State": "Texas",
+    "City": "Houston",
+    "Helper": "Texas Houston",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "6.2"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "CSD",
+    "MarketSalesPercent": "24.43",
+    "YearGrowthPercent": "7.8"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.27",
+    "YearGrowthPercent": "7.1"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.09",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.40",
+    "YearGrowthPercent": "8.4"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.83",
+    "YearGrowthPercent": "12.8"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.61",
+    "YearGrowthPercent": "-3.3"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.38",
+    "YearGrowthPercent": "6.9"
+  },
+  {
+    "State": "Florida",
+    "City": "Jacksonville",
+    "Helper": "Florida Jacksonville",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "6.6"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.05",
+    "YearGrowthPercent": "12.3"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.67",
+    "YearGrowthPercent": "-5.7"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.63",
+    "YearGrowthPercent": "-3.7"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "12.59",
+    "YearGrowthPercent": "13.9"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.36",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.19",
+    "YearGrowthPercent": "-12.9"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.52",
+    "YearGrowthPercent": "4.5"
+  },
+  {
+    "State": "Nevada",
+    "City": "Las Vegas",
+    "Helper": "Nevada Las Vegas",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.2"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.26",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.94",
+    "YearGrowthPercent": "9.4"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.35",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.91",
+    "YearGrowthPercent": "10.0"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.25",
+    "YearGrowthPercent": "18.0"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.25",
+    "YearGrowthPercent": "2.3"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.03",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "Arkansas",
+    "City": "Little Rock",
+    "Helper": "Arkansas Little Rock",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.4"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "CSD",
+    "MarketSalesPercent": "17.76",
+    "YearGrowthPercent": "17.6"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.68",
+    "YearGrowthPercent": "1.0"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "WATER",
+    "MarketSalesPercent": "19.96",
+    "YearGrowthPercent": "0.5"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.89",
+    "YearGrowthPercent": "20.8"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.04",
+    "YearGrowthPercent": "15.3"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.90",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "JUICE",
+    "MarketSalesPercent": "8.78",
+    "YearGrowthPercent": "0.4"
+  },
+  {
+    "State": "California",
+    "City": "Los Angeles",
+    "Helper": "California Los Angeles",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "6.3"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.26",
+    "YearGrowthPercent": "-3.3"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.43",
+    "YearGrowthPercent": "0.4"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.13",
+    "YearGrowthPercent": "-7.7"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.11",
+    "YearGrowthPercent": "-3.9"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.46",
+    "YearGrowthPercent": "5.5"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.19",
+    "YearGrowthPercent": "-9.2"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.42",
+    "YearGrowthPercent": "-6.5"
+  },
+  {
+    "State": "Kentucky",
+    "City": "Louisville",
+    "Helper": "Kentucky Louisville",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.5"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "CSD",
+    "MarketSalesPercent": "19.74",
+    "YearGrowthPercent": "1.4"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.52",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "WATER",
+    "MarketSalesPercent": "19.27",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.34",
+    "YearGrowthPercent": "1.0"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.24",
+    "YearGrowthPercent": "-9.3"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.26",
+    "YearGrowthPercent": "-13.3"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "JUICE",
+    "MarketSalesPercent": "12.63",
+    "YearGrowthPercent": "1.1"
+  },
+  {
+    "State": "Florida",
+    "City": "Miami/Ft. Lauderdale",
+    "Helper": "Florida Miami/Ft. Lauderdale",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "CSD",
+    "MarketSalesPercent": "30.71",
+    "YearGrowthPercent": "-3.0"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.52",
+    "YearGrowthPercent": "-3.4"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.26",
+    "YearGrowthPercent": "-6.9"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.20",
+    "YearGrowthPercent": "1.3"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.24",
+    "YearGrowthPercent": "-2.8"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.17",
+    "YearGrowthPercent": "-13.0"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.90",
+    "YearGrowthPercent": "-10.7"
+  },
+  {
+    "State": "Minnesota",
+    "City": "Minneapolis/St. Paul",
+    "Helper": "Minnesota Minneapolis/St. Paul",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-4.1"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "CSD",
+    "MarketSalesPercent": "39.52",
+    "YearGrowthPercent": "-17.0"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "24.52",
+    "YearGrowthPercent": "-6.3"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.34",
+    "YearGrowthPercent": "-16.7"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.16",
+    "YearGrowthPercent": "-10.3"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.06",
+    "YearGrowthPercent": "-7.1"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "TEA",
+    "MarketSalesPercent": "2.50",
+    "YearGrowthPercent": "-11.2"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.90",
+    "YearGrowthPercent": "-15.5"
+  },
+  {
+    "State": "Mississippi",
+    "City": "Mississippi",
+    "Helper": "Mississippi Mississippi",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-13.2"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "CSD",
+    "MarketSalesPercent": "27.88",
+    "YearGrowthPercent": "-2.9"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.16",
+    "YearGrowthPercent": "6.1"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.45",
+    "YearGrowthPercent": "-9.0"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.96",
+    "YearGrowthPercent": "4.7"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.66",
+    "YearGrowthPercent": "12.8"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.43",
+    "YearGrowthPercent": "-9.0"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.46",
+    "YearGrowthPercent": "-6.5"
+  },
+  {
+    "State": "New England",
+    "City": "New England",
+    "Helper": "New England New England",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "CSD",
+    "MarketSalesPercent": "26.41",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.49",
+    "YearGrowthPercent": "8.2"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.45",
+    "YearGrowthPercent": "-5.3"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.26",
+    "YearGrowthPercent": "10.0"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.21",
+    "YearGrowthPercent": "5.1"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.42",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.76",
+    "YearGrowthPercent": "1.5"
+  },
+  {
+    "State": "Louisiana",
+    "City": "New Orleans /Mobile",
+    "Helper": "Louisiana New Orleans /Mobile",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.4"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "CSD",
+    "MarketSalesPercent": "18.82",
+    "YearGrowthPercent": "-2.7"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.61",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "WATER",
+    "MarketSalesPercent": "22.26",
+    "YearGrowthPercent": "-14.5"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.70",
+    "YearGrowthPercent": "-1.6"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.18",
+    "YearGrowthPercent": "2.1"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "TEA",
+    "MarketSalesPercent": "7.96",
+    "YearGrowthPercent": "-14.1"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "JUICE",
+    "MarketSalesPercent": "10.47",
+    "YearGrowthPercent": "-6.3"
+  },
+  {
+    "State": "New York",
+    "City": "New York City",
+    "Helper": "New York New York City",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-6.2"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.33",
+    "YearGrowthPercent": "1.9"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.63",
+    "YearGrowthPercent": "3.2"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "WATER",
+    "MarketSalesPercent": "14.84",
+    "YearGrowthPercent": "-7.8"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.07",
+    "YearGrowthPercent": "8.6"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.20",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.39",
+    "YearGrowthPercent": "-9.7"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "JUICE",
+    "MarketSalesPercent": "11.53",
+    "YearGrowthPercent": "9.8"
+  },
+  {
+    "State": "Florida",
+    "City": "Orlando",
+    "Helper": "Florida Orlando",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.5"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.10",
+    "YearGrowthPercent": "4.4"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.93",
+    "YearGrowthPercent": "0.2"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.01",
+    "YearGrowthPercent": "-10.5"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.48",
+    "YearGrowthPercent": "2.8"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.14",
+    "YearGrowthPercent": "4.0"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.65",
+    "YearGrowthPercent": "-8.5"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.68",
+    "YearGrowthPercent": "-4.0"
+  },
+  {
+    "State": "Illinois",
+    "City": "Peoria/Springfield",
+    "Helper": "Illinois Peoria/Springfield",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.1"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "CSD",
+    "MarketSalesPercent": "33.25",
+    "YearGrowthPercent": "-3.0"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "28.35",
+    "YearGrowthPercent": "2.4"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.06",
+    "YearGrowthPercent": "-8.1"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.07",
+    "YearGrowthPercent": "2.6"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.67",
+    "YearGrowthPercent": "7.2"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "TEA",
+    "MarketSalesPercent": "2.44",
+    "YearGrowthPercent": "-2.7"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.16",
+    "YearGrowthPercent": "-5.7"
+  },
+  {
+    "State": "North Carolina",
+    "City": "Raleigh/Greensboro",
+    "Helper": "North Carolina Raleigh/Greensboro",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.2"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "CSD",
+    "MarketSalesPercent": "26.38",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "29.22",
+    "YearGrowthPercent": "4.7"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.63",
+    "YearGrowthPercent": "-12.4"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.60",
+    "YearGrowthPercent": "2.9"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.78",
+    "YearGrowthPercent": "1.7"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.77",
+    "YearGrowthPercent": "-9.2"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "JUICE",
+    "MarketSalesPercent": "11.64",
+    "YearGrowthPercent": "0.3"
+  },
+  {
+    "State": "Virginia",
+    "City": "Richmond/Norfolk",
+    "Helper": "Virginia Richmond/Norfolk",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.9"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "CSD",
+    "MarketSalesPercent": "40.53",
+    "YearGrowthPercent": "3.3"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.14",
+    "YearGrowthPercent": "13.4"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "WATER",
+    "MarketSalesPercent": "8.22",
+    "YearGrowthPercent": "-3.0"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "7.71",
+    "YearGrowthPercent": "5.2"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "7.38",
+    "YearGrowthPercent": "16.3"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.97",
+    "YearGrowthPercent": "-1.4"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.05",
+    "YearGrowthPercent": "-5.7"
+  },
+  {
+    "State": "Virginia",
+    "City": "Roanoke",
+    "Helper": "Virginia Roanoke",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.4"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "CSD",
+    "MarketSalesPercent": "17.67",
+    "YearGrowthPercent": "12.7"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "38.94",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.09",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.51",
+    "YearGrowthPercent": "18.4"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.19",
+    "YearGrowthPercent": "10.6"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.50",
+    "YearGrowthPercent": "0.0"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.10",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "State": "California",
+    "City": "Sacramento",
+    "Helper": "California Sacramento",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.7"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "CSD",
+    "MarketSalesPercent": "27.39",
+    "YearGrowthPercent": "6.0"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.97",
+    "YearGrowthPercent": "-1.7"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.01",
+    "YearGrowthPercent": "-1.9"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.07",
+    "YearGrowthPercent": "9.2"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.15",
+    "YearGrowthPercent": "11.7"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.06",
+    "YearGrowthPercent": "-6.6"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.35",
+    "YearGrowthPercent": "-7.9"
+  },
+  {
+    "State": "Utah",
+    "City": "Salt Lake City",
+    "Helper": "Utah Salt Lake City",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.3"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "CSD",
+    "MarketSalesPercent": "29.87",
+    "YearGrowthPercent": "5.8"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "26.92",
+    "YearGrowthPercent": "-2.0"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.83",
+    "YearGrowthPercent": "-11.4"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.96",
+    "YearGrowthPercent": "1.0"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.25",
+    "YearGrowthPercent": "-8.0"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.92",
+    "YearGrowthPercent": "-7.7"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.25",
+    "YearGrowthPercent": "-8.6"
+  },
+  {
+    "State": "Texas",
+    "City": "San Antonio/Corpus Christi",
+    "Helper": "Texas San Antonio/Corpus Christi",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.2"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "CSD",
+    "MarketSalesPercent": "17.89",
+    "YearGrowthPercent": "14.8"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.08",
+    "YearGrowthPercent": "1.5"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "WATER",
+    "MarketSalesPercent": "18.23",
+    "YearGrowthPercent": "-1.5"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "12.41",
+    "YearGrowthPercent": "15.7"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.10",
+    "YearGrowthPercent": "16.2"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "TEA",
+    "MarketSalesPercent": "6.33",
+    "YearGrowthPercent": "0.3"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.94",
+    "YearGrowthPercent": "0.2"
+  },
+  {
+    "State": "California",
+    "City": "San Diego",
+    "Helper": "California San Diego",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.3"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "CSD",
+    "MarketSalesPercent": "19.46",
+    "YearGrowthPercent": "11.3"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.89",
+    "YearGrowthPercent": "1.6"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "WATER",
+    "MarketSalesPercent": "17.23",
+    "YearGrowthPercent": "-6.5"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "10.08",
+    "YearGrowthPercent": "9.3"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.59",
+    "YearGrowthPercent": "9.5"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.64",
+    "YearGrowthPercent": "3.2"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.12",
+    "YearGrowthPercent": "-3.8"
+  },
+  {
+    "State": "California",
+    "City": "San Francisco/Oakland",
+    "Helper": "California San Francisco/Oakland",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.6"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.33",
+    "YearGrowthPercent": "1.0"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "38.22",
+    "YearGrowthPercent": "-2.6"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "WATER",
+    "MarketSalesPercent": "11.43",
+    "YearGrowthPercent": "-10.7"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.31",
+    "YearGrowthPercent": "-0.9"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.75",
+    "YearGrowthPercent": "-2.3"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.04",
+    "YearGrowthPercent": "-9.7"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "JUICE",
+    "MarketSalesPercent": "7.92",
+    "YearGrowthPercent": "-12.3"
+  },
+  {
+    "State": "Washington",
+    "City": "Seattle/Tacoma",
+    "Helper": "Washington Seattle/Tacoma",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-3.8"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "CSD",
+    "MarketSalesPercent": "23.42",
+    "YearGrowthPercent": "1.3"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "30.24",
+    "YearGrowthPercent": "8.9"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.86",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.01",
+    "YearGrowthPercent": "9.2"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "5.70",
+    "YearGrowthPercent": "-2.1"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.55",
+    "YearGrowthPercent": "-9.5"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "JUICE",
+    "MarketSalesPercent": "9.22",
+    "YearGrowthPercent": "-0.4"
+  },
+  {
+    "State": "Florida",
+    "City": "Tampa/St. Petersburg",
+    "Helper": "Florida Tampa/St. Petersburg",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.9"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "CSD",
+    "MarketSalesPercent": "30.14",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "31.24",
+    "YearGrowthPercent": "3.4"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "WATER",
+    "MarketSalesPercent": "9.69",
+    "YearGrowthPercent": "-4.6"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "9.57",
+    "YearGrowthPercent": "3.1"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "8.08",
+    "YearGrowthPercent": "11.3"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "TEA",
+    "MarketSalesPercent": "5.78",
+    "YearGrowthPercent": "-9.0"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "JUICE",
+    "MarketSalesPercent": "5.51",
+    "YearGrowthPercent": "-7.2"
+  },
+  {
+    "State": "Ohio",
+    "City": "Toledo",
+    "Helper": "Ohio Toledo",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.4"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.92",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.93",
+    "YearGrowthPercent": "-0.4"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.84",
+    "YearGrowthPercent": "4.0"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "12.42",
+    "YearGrowthPercent": "9.6"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.77",
+    "YearGrowthPercent": "1.8"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.75",
+    "YearGrowthPercent": "-7.2"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.37",
+    "YearGrowthPercent": "-6.8"
+  },
+  {
+    "State": "New Mexico",
+    "City": "West Texas/New Mexico",
+    "Helper": "New Mexico West Texas/New Mexico",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.8"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "CSD",
+    "MarketSalesPercent": "26.41",
+    "YearGrowthPercent": "-0.7"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "35.49",
+    "YearGrowthPercent": "8.2"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "WATER",
+    "MarketSalesPercent": "10.45",
+    "YearGrowthPercent": "-5.3"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "11.26",
+    "YearGrowthPercent": "10.0"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "6.21",
+    "YearGrowthPercent": "5.1"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "TEA",
+    "MarketSalesPercent": "3.42",
+    "YearGrowthPercent": "-0.6"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.76",
+    "YearGrowthPercent": "1.5"
+  },
+  {
+    "State": "Alabama",
+    "City": "New Orleans /Mobile",
+    "Helper": "Alabama New Orleans /Mobile",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.4"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "CSD",
+    "MarketSalesPercent": "22.92",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "ENERGY",
+    "MarketSalesPercent": "32.93",
+    "YearGrowthPercent": "-0.4"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "WATER",
+    "MarketSalesPercent": "15.84",
+    "YearGrowthPercent": "4.0"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "ISOTONICS",
+    "MarketSalesPercent": "12.42",
+    "YearGrowthPercent": "9.6"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "COFFEE",
+    "MarketSalesPercent": "4.77",
+    "YearGrowthPercent": "1.8"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "TEA",
+    "MarketSalesPercent": "4.75",
+    "YearGrowthPercent": "-7.2"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "JUICE",
+    "MarketSalesPercent": "6.37",
+    "YearGrowthPercent": "-6.8"
+  },
+  {
+    "State": "Texas",
+    "City": "West Texas/New Mexico",
+    "Helper": "Texas West Texas/New Mexico",
+    "Category": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.8"
+  }
+]

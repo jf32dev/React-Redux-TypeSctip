@@ -1,0 +1,24 @@
+@import '@redbull/common/style/styles';
+
+.content {
+  height: 100%;
+  .heading {
+    display: flex;
+    justify-content: space-between;
+    .title {
+      line-height: rem(22px);
+      margin: 20px;
+      text-transform: uppercase;
+    }
+    .filter {
+      margin: 20px;
+      width: rem(200px);
+    }
+  }
+  .loader {
+    height: 100%;
+  }
+  .nodata {
+    height: calc(100% - 80px); //minus heading
+  }
+}

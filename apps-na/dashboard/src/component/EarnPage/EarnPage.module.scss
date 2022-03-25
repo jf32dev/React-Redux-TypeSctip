@@ -1,0 +1,51 @@
+@import '@redbull/common/style/styles.scss';
+
+$head-height: rem(80px);
+
+.container {
+  height: 100%;
+  position: relative;
+  width: 100%;
+
+  .head {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+    padding: rem(10px) rem(40px);
+
+    .left {
+      height: $head-height;
+
+      h2 {
+        margin: 0;
+      }
+
+      h3 {
+        margin: rem(8px) 0 0 0;
+      }
+
+      .breadcrumbs {
+        margin: 0 0 rem(12px) 0;
+      }
+    }
+  }
+
+  .frameContainer {
+    height: calc(100% - #{$head-height});
+
+    .frame {
+      border: none;
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  .loader {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}

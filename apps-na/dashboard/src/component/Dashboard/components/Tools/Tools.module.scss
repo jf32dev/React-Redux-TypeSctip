@@ -1,0 +1,66 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-white;
+  display: flex;
+  flex-wrap: wrap;
+  height: calc(100% - 36px);
+  padding: rem(16px) rem(20px);
+  & > div {
+    flex-basis: calc(50% - 8px);
+    margin: 4px;
+    span[class*='icon'] {
+      align-items: center;
+      display: flex !important;
+      justify-content: center;
+      position: relative;
+      & > svg {
+        height: 25px;
+        position: relative;
+        width: 25px;
+        z-index: 1;
+      }
+    }
+  }
+  @include media('>=xs', '<=md') {
+    & > div {
+      max-width: 45%;
+      span {
+        font-size: rem(10px) !important;
+      }
+    }
+  }
+  @include media('<=sm') {
+    & > div {
+      height: 100px;
+      max-width: 50%;
+      span[class*='icon'] {
+        & > svg {
+          height: 50px;
+          width: 50px;
+        }
+        &:before {
+          height: 50px;
+          width: 50px;
+        }
+      }
+    }
+  }
+  @include media('>sm', 'portrait') {
+    & > div {
+      flex-basis: calc(33% - 20px);
+      height: 100px;
+      margin: 10px;
+      span[class*='icon'] {
+        & > svg {
+          height: 30px;
+          width: 30px;
+        }
+        &:before {
+          height: 28.5px;
+          width: 28.5px;
+        }
+      }
+    }
+  }
+}

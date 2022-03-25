@@ -1,0 +1,219 @@
+@import '@redbull/common/style/styles.scss';
+
+.calculator {
+  margin: 0;
+  > * {
+    margin: 0 !important;
+  }
+  .container {
+    @include make-responsive-container();
+
+    .row {
+      @include make-responsive-row();
+      height: 100%;
+      padding-bottom: rem(20px);
+
+      .col {
+        @include make-responsive-col();
+      }
+      .col12 {
+        @include make-responsive-col();
+        @include make-col(12);
+      }
+      .col8 {
+        @include make-responsive-col();
+        @include make-col(8);
+        @include media('<md') {
+          @include make-col(12);
+          margin-bottom: rem(20px);
+        }
+      }
+      .col6 {
+        @include make-responsive-col();
+        @include make-col(6);
+        @include media('<sm') {
+          @include make-col(12);
+          margin-bottom: rem(20px);
+        }
+      }
+      .col4 {
+        @include make-responsive-col();
+        @include make-col(4);
+        @include media('<md') {
+          @include make-col(12);
+          margin-bottom: rem(20px);
+        }
+      }
+    }
+  }
+
+  .title {
+    font-family: $font-bull-heavy;
+    font-size: rem(20px);
+    padding-bottom: rem(20px);
+    padding-left: rem(5px);
+    text-transform: uppercase;
+  }
+
+  .steps {
+    @include media('<sm') {
+      margin-left: rem(-20px);
+      width: calc(100% + 20px);
+    }
+  }
+
+  // Calculator Content Heading with calculator name
+  .heading-wrapper {
+    align-items: center;
+    border-bottom: 1px solid $c-grey--2;
+    display: flex;
+    justify-content: space-between;
+    @include media('<sm') {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+    // Right hand side content with thumbnail and Re-calculate btn
+    .content-wrapper {
+      display: flex;
+      @include media('<sm') {
+        justify-content: space-between;
+        width: 100%;
+      }
+
+      // Re-calculate button
+      .recalculate {
+        margin-bottom: rem(20px);
+      }
+    }
+  }
+
+  // Form buttons (next / back / save)
+  .buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: rem(-20px);
+    &.multiple {
+      justify-content: space-between;
+    }
+    & > button {
+      width: rem(100px);
+    }
+  }
+
+  // Content card
+  .card {
+    height: 100%;
+    padding: rem(30px);
+
+    @include media('<md') {
+      padding: rem(20px);
+    }
+
+    // Select calculator content
+    .select-calculator {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      justify-content: space-between;
+      @include media('sm<md') {
+        flex-direction: row;
+      }
+      .tiles {
+        .tile {
+          border: 2px solid transparent;
+          display: inline-flex;
+          margin: 5px;
+          width: calc(50% - 10px);
+
+          @include media('sm<md') {
+            margin-right: rem(15px);
+            width: rem(125px);
+          }
+
+          span[class*='icon'] {
+            position: relative;
+            & > svg {
+              fill: $c-red;
+              position: relative;
+              z-index: 1;
+            }
+            &:before {
+              background-color: $c-red--lightest;
+              border-radius: 50%;
+              content: '';
+              height: rem(40px);
+              left: 50%;
+              position: absolute;
+              top: 50%;
+              transform: translate(-50%, -50%);
+              width: rem(40px);
+              z-index: 0;
+            }
+          }
+
+          &.active {
+            border: 2px solid $c-action--lightest;
+            span[class*='title'] {
+              color: $c-action--lightest;
+            }
+            span[class*='icon'] {
+              & > svg {
+                fill: $c-action--lightest;
+              }
+              &:before {
+                background-color: $c-blue--lightest;
+              }
+            }
+          }
+        }
+      }
+      & > a {
+        margin-top: rem(20px);
+        text-align: center;
+        @include media('sm<md') {
+          align-self: flex-end;
+        }
+      }
+    }
+  }
+
+  // Summary page in the calculator
+  .summary-row {
+    display: flex;
+    justify-content: space-between;
+    &.bold {
+      span {
+        font-family: $font-bull-bold;
+      }
+    }
+  }
+  .left {
+    .summary-row {
+      padding-right: rem(10px);
+      @include media('<md') {
+        padding-right: 0;
+      }
+    }
+  }
+  .right {
+    .summary-row {
+      padding-left: rem(10px);
+      @include media('<md') {
+        padding-left: 0;
+      }
+    }
+  }
+  // Form components
+  .select {
+    & > label {
+      font-family: $font-bull-text-bold;
+      font-size: rem(15px);
+      line-height: rem(18px);
+    }
+  }
+  .note {
+    &:before {
+      content: '* ';
+    }
+  }
+}

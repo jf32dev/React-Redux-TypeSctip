@@ -1,0 +1,28 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  align-items: center;
+  background-color: $c-white;
+  border: 1px solid $c-action--lightest;
+  border-radius: 0.2rem;
+  display: inline-flex;
+  font-size: rem(14px);
+  line-height: 1;
+  margin-left: 3px;
+  margin-right: 5px;
+  padding: rem(5px) rem(6px);
+  text-align: center;
+  vertical-align: baseline;
+  white-space: nowrap;
+  span {
+    color: $c-action--lightest;
+    margin-right: rem(5px);
+  }
+  svg {
+    fill: none;
+    height: rem(14px);
+    stroke: $c-action--lightest;
+    stroke-width: 3px;
+    width: rem(14px);
+  }
+}

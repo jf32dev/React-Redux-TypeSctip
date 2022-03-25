@@ -1,0 +1,98 @@
+@import '@redbull/common/style/styles.scss';
+
+.wrapper {
+  align-items: center;
+  background: rgba($c-black, 0.6);
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  overflow-y: auto;
+  padding: rem(20px);
+  width: 100%;
+
+  @include media('<sm') {
+    align-items: flex-start;
+  }
+
+  .container {
+    background: $c-white;
+    margin: auto;
+    max-width: rem(820px);
+    width: 80%;
+
+    @include media('<sm') {
+      width: 100%;
+    }
+
+    .header {
+      border-bottom: 1px solid $c-grey--3;
+      padding: rem(25px) rem(20px);
+
+      h1 {
+        font-family: $font-bull-heavy;
+        font-size: rem(30px);
+        line-height: rem(36px);
+        margin: 0;
+      }
+    }
+
+    .content {
+      display: flex;
+
+      @include media('<sm') {
+        flex-direction: column;
+      }
+
+      .row {
+        padding: rem(8px) 0;
+      }
+
+      h2 {
+        font-family: $font-bull-heavy;
+        font-size: rem(18px);
+        margin: 0;
+      }
+
+      .personal {
+        flex: 1 1 50%;
+        padding: rem(20px);
+
+        @include media('<sm') {
+          flex: 1 1 100%;
+        }
+      }
+
+      .account {
+        flex: 1 1 50%;
+        padding: rem(20px);
+
+        @include media('<sm') {
+          flex: 1 1 100%;
+        }
+      }
+    }
+
+    .terms {
+      padding: rem(20px);
+
+      .termsCopy {
+        a {
+          color: $c-action--dark;
+          font-family: $font-bull-text-bold;
+          text-decoration: none;
+        }
+      }
+    }
+
+    .footer {
+      border-top: 1px solid $c-grey--3;
+      display: flex;
+      justify-content: space-between;
+      padding: rem(20px);
+      .button {
+        text-align: center;
+        width: rem(115px);
+      }
+    }
+  }
+}

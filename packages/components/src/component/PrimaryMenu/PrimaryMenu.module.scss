@@ -1,0 +1,44 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: rem(40px);
+  li {
+    align-items: stretch;
+    display: flex;
+    font-family: $font-bull-bold;
+    position: relative;
+    text-align: center;
+    width: rem(110px);
+    a {
+      align-items: center;
+      color: $c-white;
+      display: flex;
+      justify-content: center;
+      text-decoration: none;
+      width: 100%;
+
+      &:after {
+        background-color: transparent;
+        bottom: 0;
+        content: '';
+        height: 4px;
+        left: 0;
+        position: absolute;
+        transition: background-color 0.2s ease;
+        width: 100%;
+      }
+      &.active,
+      &:hover {
+        &:after {
+          background-color: $c-white;
+          transition: background-color 0.2s ease;
+        }
+      }
+    }
+  }
+}

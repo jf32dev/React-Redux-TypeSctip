@@ -1,0 +1,26 @@
+@import '@redbull/common/style/styles.scss';
+
+.primarynav {
+  .burger {
+    align-self: center;
+    @include media('>md') {
+      display: none;
+    }
+  }
+  .overlay {
+    @include media('<=md') {
+      background-color: rgba($c-black, 0.3);
+      height: 100%;
+      left: 0;
+      position: fixed;
+      top: rem(60px);
+      width: 100%;
+      z-index: 3;
+    }
+  }
+  .primaryMenu {
+    @include media('<=md') {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,10 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  margin-bottom: 10px;
+  width: 100%;
+  &.expanded {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+}

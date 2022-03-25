@@ -1,0 +1,93 @@
+@import '@redbull/common/style/styles.scss';
+
+.search {
+  background: $c-grey--1;
+  height: 100%;
+  overflow-y: auto;
+  padding: 0 rem(42px);
+  @include media('<sm') {
+    padding: 0;
+  }
+
+  .content {
+    background: $c-grey--1;
+    height: 100%;
+
+    .inputContainer {
+      background-color: $c-white;
+      padding-top: rem(40px);
+      .searchInput {
+        padding: 0 rem(30px) rem(25px);
+        width: rem(440px);
+
+        @include media('<sm') {
+          width: 100%;
+        }
+      }
+    }
+
+    .results {
+      .tabContent {
+        background: $c-grey--1;
+
+        .tab {
+          background: transparent;
+
+          .loading {
+            display: flex;
+            min-height: rem(200px);
+          }
+
+          .tips {
+            margin: 0;
+            padding: rem(20px) 0;
+
+            @include media('<sm') {
+              padding-left: rem(20px);
+            }
+          }
+
+          .section {
+            background: transparent;
+
+            .action {
+              display: flex;
+              justify-content: flex-end;
+
+              button {
+                margin-top: rem(15px);
+              }
+            }
+
+            &.section-story {
+              margin-top: rem(40px);
+
+              @include media('>sm') {
+                margin-bottom: rem(40px);
+              }
+
+              @include media('<sm') {
+                h3 {
+                  padding-left: rem(20px);
+                  padding-top: rem(25px);
+                }
+              }
+            }
+
+            @include media('<sm') {
+              .stories {
+                padding: rem(20px);
+              }
+
+              .action {
+                button {
+                  margin: rem(18px) rem(20px);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: block;
+  left: 0;
+  position: relative;
+  top: 0;
+  user-select: none;
+  z-index: 3;
+
+  .menu {
+    background-color: $c-white;
+    border-right: 1px solid $c-grey--2;
+    /* to stop flickering of text in safari */
+    -webkit-font-smoothing: antialiased;
+    height: calc(100vh - 60px);
+    list-style-type: none;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    position: absolute;
+    width: rem(300px);
+    @include media('<=md') {
+      transform: translate(-100%, 0);
+      transform-origin: 0% 0%;
+      transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+    }
+  }
+  &.open {
+    .menu {
+      transform: none;
+    }
+  }
+  .no-content {
+    display: block;
+    padding: rem(12px) rem(30px);
+  }
+}

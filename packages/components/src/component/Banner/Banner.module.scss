@@ -1,0 +1,62 @@
+@import '@redbull/common/style/styles.scss';
+
+.banner {
+  background-color: $c-grey--6;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  height: rem(100px);
+  position: relative;
+
+  &.noBackground {
+    background-color: $c-white;
+    border: 1px solid $c-grey--2;
+    border-top: 0;
+  }
+
+  .overlay {
+    background: linear-gradient(
+        270deg,
+        rgba(0, 0, 0, 0.0001) 37.17%,
+        rgba(0, 0, 0, 0.7) 100%
+      ),
+      linear-gradient(0deg, rgba(51, 51, 51, 0.1), rgba(51, 51, 51, 0.1));
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .content {
+    @include make-responsive-container(true);
+    display: flex;
+    padding-bottom: rem(18px);
+    z-index: 1;
+    &.bottom {
+      align-items: flex-end;
+    }
+    &.top {
+      align-items: flex-start;
+    }
+    &.center {
+      align-items: center;
+    }
+    &.between {
+      justify-content: space-between;
+    }
+    &.around {
+      justify-content: space-around;
+    }
+    &.evenly {
+      justify-content: space-evenly;
+    }
+  }
+  @include media('<=md') {
+    height: rem(70px);
+    .content {
+      padding-bottom: rem(10px);
+    }
+  }
+}

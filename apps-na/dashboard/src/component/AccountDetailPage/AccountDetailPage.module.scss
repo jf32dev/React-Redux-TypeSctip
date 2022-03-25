@@ -1,0 +1,85 @@
+@import '@redbull/common/style/styles.scss';
+
+.file-card {
+  flex: 1;
+  margin-left: rem(20px);
+  margin-right: rem(20px);
+  margin-top: rem(20px);
+  padding: rem(25px);
+  @include media('>=md') {
+    margin-left: 0;
+  }
+  h2 {
+    font-size: rem(18px);
+    text-transform: uppercase;
+  }
+  .content {
+    figure {
+      flex-basis: calc(50% - 1.8rem);
+      margin: rem(9px);
+    }
+    @include media('>=sm') {
+      figure {
+        flex-basis: calc(20% - 1.8rem);
+      }
+    }
+    @include media('>=lg') {
+      figure {
+        flex-basis: calc(14% - 1.8rem);
+      }
+    }
+    @include media('>=xl') {
+      figure {
+        flex-basis: calc(12% - 1.8rem);
+      }
+    }
+  }
+}
+.no-content {
+  flex: 1;
+  padding: rem(25px);
+  @include media('>=sm') {
+    margin-left: rem(20px);
+    margin-right: rem(20px);
+    margin-top: rem(20px);
+  }
+}
+
+.tiles {
+  @include make-responsive-row();
+  padding-left: rem(20px);
+  padding-right: rem(20px);
+  @include media('>=md') {
+    padding-left: 0;
+  }
+  .tile {
+    flex-basis: calc(50% - 1.8rem);
+    margin: rem(9px);
+    overflow: hidden;
+    position: relative;
+
+    @include media('>=sm') {
+      flex-basis: calc(33% - 1.8rem);
+    }
+    @include media('>=lg') {
+      flex-basis: calc(25% - 1.8rem);
+    }
+    @include media('>=xl') {
+      flex-basis: calc(20% - 1.8rem);
+      max-width: 250px;
+    }
+    .type {
+      height: auto;
+      overflow: hidden;
+      padding-top: 100%;
+      position: relative;
+      > * {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+      }
+    }
+  }
+}

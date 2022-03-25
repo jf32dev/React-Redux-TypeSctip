@@ -1,0 +1,39 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  align-items: center;
+  background: $c-white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: rem(32px) rem(20px);
+  @include media('>sm') {
+    border-radius: 2px;
+  }
+
+  img {
+    height: rem(50px);
+    width: rem(130px);
+  }
+
+  .title {
+    font-size: rem(30px);
+    line-height: rem(35px);
+    margin-bottom: rem(15px);
+    text-align: center;
+    text-transform: uppercase;
+    @include media('<sm') {
+      font-size: rem(20px);
+      line-height: rem(25px);
+    }
+  }
+
+  .description {
+    color: $c-grey--6;
+    font-size: rem(18px);
+    font-weight: bolder;
+    line-height: rem(22px);
+    margin-top: 0;
+    text-align: center;
+  }
+}

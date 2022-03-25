@@ -1,0 +1,74 @@
+{
+  "dashboard": {
+    "welcome": "Bienvenu",
+    "myDocuments": "Mes Documents",
+    "myTools": "Mes Outils",
+    "documents": {
+      "bookmarks": "Bookmarks",
+      "myFavourites": "Mes Favoris",
+      "myFiles": "Mes Fichiers",
+      "popular": "Populaire",
+      "latestUpdates": "Dernière mise à jour"
+    },
+    "tools": {
+      "calculator": "Calculator",
+      "pitchBuilder": "Pitch Builder",
+      "insights": "Insights",
+      "posCatalogue": "Catalogue POS",
+      "accounts": "Enseignes",
+      "objectionHandling": "Gérer les objections"
+    }
+  },
+  "utils": {
+    "seeMore": "Voir plus",
+    "search": "Recherche",
+    "clear": "Effacer",
+    "sortResultsBy": "Trier les résultats par",
+    "mostRecent": "Le plus récent",
+    "recentSearches": "Recherches récentes",
+    "filterResults": "Filtrer les résulats",
+    "comingSoon": "Bientôt",
+    "resultMatch": "résultat correspondent",
+    "fileMatch": "fichiers correspondent",
+    "storyMatch": "histoires correspondent",
+    "allResults": "Tous les résultats",
+    "allFiles": "Tous les fichiers",
+    "allStories": "Toutes les histoires",
+    "files": "Fichiers",
+    "stories": "Histoires",
+    "account": "Compte",
+    "back": "Retour",
+    "from": "Du",
+    "to": "Au",
+    "select": "Sélectionner...",
+    "dateFormat": "JJ/MM/AAAA",
+    "loadingMore": "loading more..."
+  },
+  "sections": {
+    "sell": "Argumentaires",
+    "learn": "Apprendre",
+    "execute": "Exécution",
+    "accounts": "Enseignes"
+  },
+  "errorMessages": {
+    "pitchBuilder": "Impossible d'ouvrir le Pitch Builder",
+    "calculator": "Impossible d'ouvrir L'outil Calculator",
+    "noContent": "Pas de contenu",
+    "noContentFound": "Malheureusement le contenu n'est pas disponible. Merci de contacter votre Administrateur pour obtenir de l'aide.",
+    "noPopularStories": "Aucune histoire populaire",
+    "noBookmarks": "Aucune histoire ou fichier disponible",
+    "noFeaturedStories": "Pas d'histoire partagée",
+    "noResults": "Désolé, aucun résultat",
+    "noResultsSearch": "Essayez une nouvelle recherche avec un vocabulaire différent et sans caractères spéciaux.",
+    "noShareableFiles": "Erreur de partage: pas de fichier partageable",
+    "sharingError": "Erreur de partage:",
+    "personalTabError": "Impossible de chager votre onglet personalisé",
+    "personalChannelError": "Impossible d'obtenir votre chaine personnelle",
+    "searchTermTooShort": "Vous devez entrer au moins deux lettres pour effectuer une recherche.",
+    "fromNoGreaterThanTo": "La date d’entrée ne peut pas être supérieur à la date d’arrivée",
+    "toNoLessThanFrom": "La date d’arrivée ne peut pas être inférieur à la date d’entrée"
+  },
+  "infoMessages": {
+    "newContentShared": "Aucun contenu n'a été paratgé avec vous"
+  }
+}

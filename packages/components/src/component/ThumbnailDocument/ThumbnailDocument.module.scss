@@ -1,0 +1,91 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-white;
+  position: relative;
+  width: rem(110px);
+  &.clickable {
+    cursor: pointer;
+  }
+  .thumbnail {
+    display: block;
+    height: auto;
+    overflow: hidden;
+    padding-top: 100%;
+    position: relative;
+
+    .tag {
+      background-color: $c-action--light;
+      border-radius: 3px;
+      color: $c-white;
+      font-family: $font-bull-regular;
+      font-size: rem(10px);
+      left: 9px;
+      padding: 0 7px;
+      position: absolute;
+      top: 13px;
+      z-index: 1;
+      @include fileColour;
+    }
+    .mask {
+      background: linear-gradient(
+          105deg,
+          transparent,
+          transparent 25%,
+          hsla(0, 0%, 100%, 0.1) 0,
+          hsla(0, 0%, 100%, 0.1) 50%,
+          transparent 0,
+          transparent 75%,
+          hsla(0, 0%, 100%, 0.1) 0,
+          hsla(0, 0%, 100%, 0.1)
+        )
+        no-repeat -5px -5px;
+      background-size: 600% 600%;
+      height: 100%;
+      max-width: none;
+      position: absolute;
+      top: 0;
+      transition: background-position 0.3s cubic-bezier(0.35, 0, 0, 1);
+      width: 100%;
+      z-index: 1;
+    }
+    .picture {
+      border: 1px solid $c-grey--2;
+      border-radius: rem(5px);
+      bottom: 0;
+      display: block;
+      height: 100%;
+      left: 0;
+      object-fit: cover;
+      object-position: center;
+      overflow: hidden;
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 100%;
+    }
+  }
+
+  .description {
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-family: $font-bull-medium;
+    font-size: $font-size-h5;
+    height: (2 * 18px);
+    -webkit-line-clamp: 2;
+    line-height: 18px;
+    overflow: hidden;
+    word-break: break-word;
+  }
+  &:hover {
+    .thumbnail .mask {
+      background-position: 20% 20%;
+    }
+  }
+  &:active {
+    cursor: default;
+    .thumbnail .mask {
+      background-position: 80% 80%;
+    }
+  }
+}

@@ -1,0 +1,99 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-white;
+
+  .labels {
+    display: flex;
+    justify-content: space-evenly;
+    &.mobile {
+      display: none;
+    }
+    @include media('<=sm') {
+      border-bottom: 1px solid $c-grey--2;
+      &.desktop {
+        display: none;
+      }
+      &.mobile {
+        display: flex;
+      }
+    }
+  }
+
+  .toggle {
+    display: none;
+    @include media('<=sm') {
+      align-items: center;
+      border: 1px solid $c-grey--2;
+      border-bottom: 0;
+      display: flex;
+      flex-grow: 0;
+      flex-shrink: 0;
+      height: rem(50px);
+      justify-content: center;
+      margin-left: rem(50px);
+      position: relative;
+      transition: background-color 0.2s ease;
+      width: rem(50px);
+      &:hover {
+        background-color: $c-grey--1;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+      }
+      &.active {
+        background-color: $c-grey--1;
+      }
+
+      .dots {
+        position: absolute;
+        transform: rotate(90deg);
+        &:after {
+          color: $c-grey--8;
+          content: '\2807';
+          display: block;
+          font-size: rem(32px);
+          height: 18px;
+          width: 15px;
+        }
+      }
+    }
+  }
+
+  .dropdown {
+    display: none;
+    @include media('<=sm') {
+      &.open {
+        background: $c-white;
+        border: 1px solid $c-grey--3;
+        border-radius: 2px;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        right: 0;
+        top: calc(100% + 1px);
+        width: rem(250px);
+        z-index: 3;
+
+        & > div[class*='label'] {
+          justify-content: flex-start;
+          padding: rem(8px) rem(10px);
+          transition: background-color 0.2s ease;
+
+          &:hover {
+            background-color: $c-grey--1;
+            transition: background-color 0.2s ease;
+          }
+          &:after {
+            content: none;
+          }
+        }
+      }
+    }
+  }
+
+  .content {
+    display: block;
+    height: 100%;
+  }
+}

@@ -1,0 +1,154 @@
+@import '@redbull/common/style/styles.scss';
+
+// Will edit everything selected including everything between a range of dates
+.CalendarDay__selected_span {
+  background: #d8d8d8;
+  color: $c-white;
+}
+
+// Will edit selected date or the endpoints of a range of dates
+.CalendarDay__selected {
+  background: $c-red;
+  border-radius: 50%;
+  color: white;
+}
+
+// Will edit when hovered over. _span style also has this property
+.CalendarDay__selected:hover {
+  background: #d8d8d8;
+  border-radius: 50%;
+  color: $c-grey--8;
+}
+
+// Will edit when the second date (end date) in a range of dates
+// is not yet selected. Edits the dates between your mouse and said date
+// .CalendarDay__hovered_span:hover,
+.CalendarDay__hovered_span {
+  background: #d8d8d8;
+  border-radius: 50%;
+  color: $c-grey--8;
+}
+
+// Generic styles for all date pickers
+.CalendarDay {
+  border: 0;
+  font-family: $font-bull-text-regular;
+  &__today {
+    background: $c-action--lightest;
+    border-radius: 50%;
+    color: $c-white;
+  }
+
+  &__default:hover {
+    background: #d8d8d8;
+    border: none;
+    border-radius: 50%;
+  }
+}
+
+.DateInput {
+  width: 100%;
+  &_input,
+  &_input__focused {
+    border-bottom: 0;
+    font-family: $font-bull-text-regular;
+    font-size: rem(14px);
+    line-height: rem(18px);
+    padding: rem(6px) rem(10px);
+  }
+}
+
+.CalendarMonth {
+  padding: 0 rem(4px) !important;
+  &_caption {
+    font-family: $font-bull-heavy;
+    padding-bottom: rem(65px);
+    padding-top: rem(18px);
+    text-transform: uppercase;
+  }
+}
+
+.DayPickerNavigation__horizontal {
+  display: flex;
+  justify-content: space-between;
+  top: 21px;
+  width: 100%;
+  .DayPickerNavigation_button {
+    margin: 0 rem(8px);
+  }
+}
+
+.DayPicker_weekHeaders__horizontal {
+  margin-left: 0;
+  .DayPicker_weekHeader {
+    background: $c-blue;
+    color: $c-white;
+    font-family: $font-bull-medium;
+    padding: rem(6px) rem(4px) !important;
+    top: 55px;
+  }
+  &_li {
+    small {
+      font-size: rem(14px);
+      line-height: rem(18px);
+    }
+  }
+}
+
+.DayPicker_transitionContainer,
+.DayPicker_focusRegion,
+.CalendarMonthGrid__horizontal,
+.DayPicker__horizontal {
+  width: 280px !important;
+}
+
+.CalendarMonthGrid__horizontal {
+  left: 0;
+}
+
+.SingleDatePickerInput_calendarIcon {
+  border-left: 1px solid $c-grey--3;
+  margin: 0;
+  padding: 0;
+  button {
+    padding: rem(5px) rem(5px) rem(3px) rem(5px);
+  }
+}
+
+.SingleDatePickerInput__withBorder {
+  border-color: $c-grey--3;
+}
+
+.SingleDatePickerInput__showClearDate {
+  padding-right: 0;
+}
+
+.SingleDatePicker {
+  width: 100%;
+}
+
+.SingleDatePickerInput,
+.DateRangePickerInput {
+  display: flex;
+  &_clearDate {
+    right: 20px;
+    top: -3px;
+    transform: none;
+    &:hover {
+      background: none;
+    }
+  }
+}
+
+.SingleDatePicker_picker {
+  margin-top: rem(-15px);
+  z-index: 10;
+}
+
+// pointing up arrow on open calendar
+.DateInput_fang {
+  left: auto;
+  margin-top: rem(-15px);
+  right: rem(-25px);
+  z-index: 11;
+}

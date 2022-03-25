@@ -1,0 +1,19 @@
+@import '@redbull/common/style/styles.scss';
+
+.documents {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  .horizontal-scroll {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    overflow: auto;
+    position: relative;
+    width: 100%;
+    @include media('portrait') {
+      min-height: rem(210px);
+    }
+  }
+}

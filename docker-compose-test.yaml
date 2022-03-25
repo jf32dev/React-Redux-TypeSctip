@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+    redbull-fronted-test:
+        image: node:lts
+        user: ${userid}:${groupid}
+        working_dir: /app
+        volumes:
+            - ${PWD}:/app
+        command: ./cicd-scripts/test.sh
+

@@ -1,0 +1,80 @@
+[
+  { "value": "Select distributor", "label": "SELECT DISTRIBUTOR" },
+  { "value": "Balkan Beverage, LLC", "label": "Balkan Beverage, LLC" },
+  { "value": "BDT Beverage, LLC", "label": "BDT Beverage, LLC" },
+  {
+    "value": "Blue Ridge Beverage - Salem",
+    "label": "Blue Ridge Beverage - Salem"
+  },
+  { "value": "Champion Brands", "label": "Champion Brands" },
+  {
+    "value": "Columbia Distributing of Oregon",
+    "label": "Columbia Distributing of Oregon"
+  },
+  {
+    "value": "Columbia Distributing of Washington",
+    "label": "Columbia Distributing of Washington"
+  },
+  {
+    "value": "Crescent Crown Distributing",
+    "label": "Crescent Crown Distributing"
+  },
+  { "value": "Dixie Beverage West", "label": "Dixie Beverage West" },
+  {
+    "value": "Farrell Distributing Corp",
+    "label": "Farrell Distributing Corp"
+  },
+  { "value": "Griffin Beverage Co", "label": "Griffin Beverage Co" },
+  { "value": "Gulf Distributing", "label": "Gulf Distributing" },
+  {
+    "value": "Hartman Distributing Company",
+    "label": "Hartman Distributing Company"
+  },
+  { "value": "Hay Distributing, Inc.", "label": "Hay Distributing, Inc." },
+  { "value": "Hayden Beverage Company", "label": "Hayden Beverage Company" },
+  {
+    "value": "Johnson Brothers of South Dakota, Inc.",
+    "label": "Johnson Brothers of South Dakota, Inc."
+  },
+  { "value": "Kristen Distributing", "label": "Kristen Distributing" },
+  { "value": "Lift Off Distributing", "label": "Lift Off Distributing" },
+  {
+    "value": "Matador Distributing, LLC",
+    "label": "Matador Distributing, LLC"
+  },
+  { "value": "Power Distributing", "label": "Power Distributing" },
+  { "value": "RBDC Arizona", "label": "RBDC Arizona" },
+  { "value": "RBDC Arkansas", "label": "RBDC Arkansas" },
+  { "value": "RBDC Central CA", "label": "RBDC Central CA" },
+  { "value": "RBDC Central Florida", "label": "RBDC Central Florida" },
+  { "value": "RBDC Central Ohio", "label": "RBDC Central Ohio" },
+  { "value": "RBDC Central PA", "label": "RBDC Central PA" },
+  { "value": "RBDC Colorado", "label": "RBDC Colorado" },
+  { "value": "RBDC Connecticut", "label": "RBDC Connecticut" },
+  { "value": "RBDC East Bay", "label": "RBDC East Bay" },
+  { "value": "RBDC East PA", "label": "RBDC East PA" },
+  { "value": "RBDC East Texas", "label": "RBDC East Texas" },
+  { "value": "RBDC Greater LA", "label": "RBDC Greater LA" },
+  { "value": "RBDC Indiana", "label": "RBDC Indiana" },
+  { "value": "RBDC Kentucky", "label": "RBDC Kentucky" },
+  { "value": "RBDC Minnesota", "label": "RBDC Minnesota" },
+  { "value": "RBDC North Carolina", "label": "RBDC North Carolina" },
+  { "value": "RBDC North LA", "label": "RBDC North LA" },
+  { "value": "RBDC North Ohio", "label": "RBDC North Ohio" },
+  { "value": "RBDC Oklahoma", "label": "RBDC Oklahoma" },
+  { "value": "RBDC Sierras", "label": "RBDC Sierras" },
+  { "value": "Distributor", "label": "Distributor" },
+  { "value": "RBDC South Bay", "label": "RBDC South Bay" },
+  { "value": "RBDC South Ohio", "label": "RBDC South Ohio" },
+  { "value": "RBDC Southwest Florida", "label": "RBDC Southwest Florida" },
+  { "value": "RBDC Utah", "label": "RBDC Utah" },
+  { "value": "RBDC West Florida", "label": "RBDC West Florida" },
+  { "value": "RBDC West Michigan", "label": "RBDC West Michigan" },
+  { "value": "RBDC Wisconsin", "label": "RBDC Wisconsin" },
+  { "value": "Redding Distributing", "label": "Redding Distributing" },
+  {
+    "value": "Royal Crown Bottling Corp.",
+    "label": "Royal Crown Bottling Corp."
+  },
+  { "value": "The Beverage Works", "label": "The Beverage Works" }
+]

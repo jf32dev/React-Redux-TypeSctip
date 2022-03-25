@@ -1,0 +1,34 @@
+{
+  "name": "@redbull/services",
+  "version": "0.1.0",
+  "collaborators": [
+    "Hans C Yustiawan (hans.yustiawan@bigtincan.com)",
+    "Michaela Hercogova (michaela.hercogova@bigtincan.com)"
+  ],
+  "private": true,
+  "main": "index.ts",
+  "dependencies": {
+    "btca-client": "^2.0.4",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.158",
+    "babel-loader": "8.1.0"
+  },
+  "peerDependencies": {
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "axios": "^0.20.0",
+    "react": "^16.13.1",
+    "react-app-polyfill": "^1.0.6",
+    "react-dates": "^21.8.0",
+    "react-dev-utils": "^10.2.1",
+    "react-dom": "^16.13.1",
+    "typescript": "~4.0.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "typecheck": "tsc --noEmit"
+  }
+}

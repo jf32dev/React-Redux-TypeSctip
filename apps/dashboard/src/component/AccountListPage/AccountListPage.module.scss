@@ -1,0 +1,42 @@
+@import '@redbull/common/style/styles.scss';
+
+.card {
+  margin-left: rem(20px);
+  margin-right: rem(20px);
+  margin-top: rem(20px);
+  padding: 0 rem(25px);
+  @include media('>=md') {
+    margin-left: 0;
+  }
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    .list {
+      margin-top: -0.5rem;
+      .list-heading {
+        font-family: $font-bull-bold;
+        font-size: rem(18px);
+        line-height: 1.2;
+        text-transform: uppercase;
+        .headingContent {
+          align-items: center;
+          display: flex;
+          justify-content: space-between;
+
+          @include media('<sm') {
+            align-items: stretch;
+            flex-direction: column;
+          }
+        }
+      }
+      .item {
+        &-title {
+          strong {
+            font-family: $font-bull-bold;
+            font-size: rem(14px);
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+FROM node:lts as builder
+ARG BUILD_SCRIPT=build
+COPY . /app
+
+WORKDIR /app
+RUN yarn install
+RUN yarn bootstrap
+RUN yarn $BUILD_SCRIPT @redbull/registration-portal
+
+FROM nginx:alpine
+
+ADD cicd-scripts/nginx.conf /etc/nginx/nginx.conf
+COPY --from=builder /app/apps/registrationPortal/build /usr/share/nginx/html
+
+EXPOSE 80

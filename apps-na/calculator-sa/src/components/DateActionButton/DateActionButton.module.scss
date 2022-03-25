@@ -1,0 +1,91 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  .today-date {
+    background: #ffffff;
+    border-top: 4px solid #656061;
+    display: flex;
+    margin-bottom: 6rem;
+    .gen-icon {
+      background: #656061;
+      height: 80px;
+      width: 80px;
+      @include media('<sm') {
+        height: 50px;
+        width: 60px;
+      }
+      .genInfo {
+        height: 40px;
+        transform: translate(50%, 50%);
+        width: 40px;
+        @include media('<sm') {
+          height: 25px;
+          width: 25px;
+        }
+        path {
+          fill: #fff;
+        }
+      }
+    }
+    .date {
+      p {
+        padding-left: 2rem;
+        padding-top: 1rem;
+        @include media('<sm') {
+          font-size: 0.8rem;
+          margin-bottom: 0;
+          margin-top: 2px;
+          padding-left: 15px;
+          padding-top: 0.5rem;
+        }
+      }
+    }
+  }
+
+  .action-btns {
+    background: #e8e7e7;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    margin-left: rem(30px);
+    margin-right: rem(30px);
+    margin-top: rem(10px);
+    padding-bottom: rem(10px);
+    padding-top: rem(10px);
+    position: fixed;
+    right: 0;
+    @include media('<sm') {
+      margin-left: rem(4px);
+      margin-right: rem(4px);
+    }
+    .back-btn {
+      margin-left: 2rem;
+      @include media('<sm') {
+        margin-left: 0.5rem;
+      }
+    }
+
+    .button-actions {
+      margin-right: 2rem;
+      @include media('<sm') {
+        margin-right: 0.5rem;
+      }
+      .buttons-group {
+        margin-left: 1.2rem;
+      }
+    }
+
+    .icon {
+      .info-icon {
+        width: 18px;
+      }
+    }
+
+    .tick-icon {
+      .tick {
+        width: 18px;
+      }
+    }
+  }
+}

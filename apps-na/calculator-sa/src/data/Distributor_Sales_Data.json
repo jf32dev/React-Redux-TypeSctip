@@ -1,0 +1,2402 @@
+[
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "CSD",
+    "MarketSalesPercent": "24.65",
+    "YearGrowthPercent": "2.23"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "34.63",
+    "YearGrowthPercent": "7.08"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "WATER",
+    "MarketSalesPercent": "12.01",
+    "YearGrowthPercent": "-1.60"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.39",
+    "YearGrowthPercent": "10.78"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.57",
+    "YearGrowthPercent": "7.72"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "TEA",
+    "MarketSalesPercent": "6.70",
+    "YearGrowthPercent": "-8.55"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.06",
+    "YearGrowthPercent": "-4.51"
+  },
+  {
+    "Distributor": "Balkan Beverage, LLC",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.11"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "CSD",
+    "MarketSalesPercent": "35.17",
+    "YearGrowthPercent": "0.89"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.30",
+    "YearGrowthPercent": "7.09"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.95",
+    "YearGrowthPercent": "-3.93"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.40",
+    "YearGrowthPercent": "4.29"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.81",
+    "YearGrowthPercent": "7.58"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.23",
+    "YearGrowthPercent": "-0.04"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.14",
+    "YearGrowthPercent": "-0.62"
+  },
+  {
+    "Distributor": "BDT Beverage, LLC",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.66"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "CSD",
+    "MarketSalesPercent": "40.20",
+    "YearGrowthPercent": "1.73"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "23.79",
+    "YearGrowthPercent": "13.41"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "WATER",
+    "MarketSalesPercent": "8.69",
+    "YearGrowthPercent": "-3.62"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "7.74",
+    "YearGrowthPercent": "5.16"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.10",
+    "YearGrowthPercent": "13.87"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.81",
+    "YearGrowthPercent": "-2.50"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.68",
+    "YearGrowthPercent": "-1.92"
+  },
+  {
+    "Distributor": "Blue Ridge Beverage - Salem",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.32"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "CSD",
+    "MarketSalesPercent": "27.12",
+    "YearGrowthPercent": "6.95"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "29.28",
+    "YearGrowthPercent": "4.55"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "WATER",
+    "MarketSalesPercent": "13.66",
+    "YearGrowthPercent": "1.62"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.33",
+    "YearGrowthPercent": "5.84"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.33",
+    "YearGrowthPercent": "10.76"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.33",
+    "YearGrowthPercent": "-4.65"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.97",
+    "YearGrowthPercent": "11.00"
+  },
+  {
+    "Distributor": "Champion Brands",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.51"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "CSD",
+    "MarketSalesPercent": "22.80",
+    "YearGrowthPercent": "4.10"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "36.40",
+    "YearGrowthPercent": "6.69"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.88",
+    "YearGrowthPercent": "3.76"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.39",
+    "YearGrowthPercent": "9.65"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.03",
+    "YearGrowthPercent": "13.91"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "TEA",
+    "MarketSalesPercent": "6.77",
+    "YearGrowthPercent": "-1.28"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "JUICE",
+    "MarketSalesPercent": "6.74",
+    "YearGrowthPercent": "2.32"
+  },
+  {
+    "Distributor": "Columbia Distributing of Oregon",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.53"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "CSD",
+    "MarketSalesPercent": "22.70",
+    "YearGrowthPercent": "1.61"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "37.94",
+    "YearGrowthPercent": "-1.03"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.44",
+    "YearGrowthPercent": "-8.40"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.05",
+    "YearGrowthPercent": "0.21"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.49",
+    "YearGrowthPercent": "-0.45"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.36",
+    "YearGrowthPercent": "-5.43"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.03",
+    "YearGrowthPercent": "-8.61"
+  },
+  {
+    "Distributor": "Columbia Distributing of Washington",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.06"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "CSD",
+    "MarketSalesPercent": "26.43",
+    "YearGrowthPercent": "0.23"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "35.84",
+    "YearGrowthPercent": "5.09"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.84",
+    "YearGrowthPercent": "-5.69"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.30",
+    "YearGrowthPercent": "11.41"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.62",
+    "YearGrowthPercent": "1.69"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.80",
+    "YearGrowthPercent": "-2.78"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.17",
+    "YearGrowthPercent": "2.28"
+  },
+  {
+    "Distributor": "Crescent Crown Distributing",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.57"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "CSD",
+    "MarketSalesPercent": "38.12",
+    "YearGrowthPercent": "0.94"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.01",
+    "YearGrowthPercent": "10.07"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "WATER",
+    "MarketSalesPercent": "8.22",
+    "YearGrowthPercent": "-5.87"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "8.24",
+    "YearGrowthPercent": "4.84"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.39",
+    "YearGrowthPercent": "17.00"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.83",
+    "YearGrowthPercent": "-8.71"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.17",
+    "YearGrowthPercent": "-3.19"
+  },
+  {
+    "Distributor": "Dixie Beverage West",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.34"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "CSD",
+    "MarketSalesPercent": "29.97",
+    "YearGrowthPercent": "-4.04"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "22.50",
+    "YearGrowthPercent": "3.47"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "WATER",
+    "MarketSalesPercent": "15.48",
+    "YearGrowthPercent": "-7.76"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.46",
+    "YearGrowthPercent": "7.03"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.64",
+    "YearGrowthPercent": "7.99"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "TEA",
+    "MarketSalesPercent": "8.36",
+    "YearGrowthPercent": "-10.87"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.60",
+    "YearGrowthPercent": "-5.52"
+  },
+  {
+    "Distributor": "Farrell Distributing Corp",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.24"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "CSD",
+    "MarketSalesPercent": "32.66",
+    "YearGrowthPercent": "-2.57"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "32.14",
+    "YearGrowthPercent": "7.99"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.17",
+    "YearGrowthPercent": "-1.82"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.04",
+    "YearGrowthPercent": "10.03"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.50",
+    "YearGrowthPercent": "12.64"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.12",
+    "YearGrowthPercent": "-11.78"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.36",
+    "YearGrowthPercent": "-7.29"
+  },
+  {
+    "Distributor": "Griffin Beverage Co",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.81"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "CSD",
+    "MarketSalesPercent": "31.00",
+    "YearGrowthPercent": "5.66"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "30.57",
+    "YearGrowthPercent": "12.75"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "WATER",
+    "MarketSalesPercent": "10.06",
+    "YearGrowthPercent": "-3.36"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.93",
+    "YearGrowthPercent": "7.73"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.31",
+    "YearGrowthPercent": "12.14"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "TEA",
+    "MarketSalesPercent": "2.71",
+    "YearGrowthPercent": "10.12"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.43",
+    "YearGrowthPercent": "6.13"
+  },
+  {
+    "Distributor": "Gulf Distributing",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "7.51"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "CSD",
+    "MarketSalesPercent": "33.02",
+    "YearGrowthPercent": "1.21"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "26.25",
+    "YearGrowthPercent": "-4.32"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "WATER",
+    "MarketSalesPercent": "13.28",
+    "YearGrowthPercent": "-15.70"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "12.73",
+    "YearGrowthPercent": "9.60"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "3.62",
+    "YearGrowthPercent": "-14.97"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.95",
+    "YearGrowthPercent": "-11.25"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.14",
+    "YearGrowthPercent": "-8.13"
+  },
+  {
+    "Distributor": "Hartman Distributing Company",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-3.77"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "CSD",
+    "MarketSalesPercent": "35.96",
+    "YearGrowthPercent": "-2.88"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "27.91",
+    "YearGrowthPercent": "4.77"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "WATER",
+    "MarketSalesPercent": "8.83",
+    "YearGrowthPercent": "-1.38"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.97",
+    "YearGrowthPercent": "4.20"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.78",
+    "YearGrowthPercent": "4.77"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "TEA",
+    "MarketSalesPercent": "2.39",
+    "YearGrowthPercent": "-4.40"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.17",
+    "YearGrowthPercent": "-0.96"
+  },
+  {
+    "Distributor": "Hay Distributing, Inc.",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.60"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "CSD",
+    "MarketSalesPercent": "23.36",
+    "YearGrowthPercent": "0.66"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "38.51",
+    "YearGrowthPercent": "4.59"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.64",
+    "YearGrowthPercent": "1.55"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.43",
+    "YearGrowthPercent": "6.49"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.13",
+    "YearGrowthPercent": "11.96"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.77",
+    "YearGrowthPercent": "-0.14"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "JUICE",
+    "MarketSalesPercent": "6.16",
+    "YearGrowthPercent": "-9.15"
+  },
+  {
+    "Distributor": "Hayden Beverage Company",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.69"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "CSD",
+    "MarketSalesPercent": "33.14",
+    "YearGrowthPercent": "1.81"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.62",
+    "YearGrowthPercent": "15.10"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.24",
+    "YearGrowthPercent": "9.12"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.60",
+    "YearGrowthPercent": "18.92"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.67",
+    "YearGrowthPercent": "11.92"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.48",
+    "YearGrowthPercent": "7.48"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.24",
+    "YearGrowthPercent": "3.55"
+  },
+  {
+    "Distributor": "Johnson Brothers of South Dakota, Inc.",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "8.67"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "CSD",
+    "MarketSalesPercent": "31.63",
+    "YearGrowthPercent": "2.30"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "25.81",
+    "YearGrowthPercent": "3.58"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "WATER",
+    "MarketSalesPercent": "14.50",
+    "YearGrowthPercent": "-12.09"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.07",
+    "YearGrowthPercent": "2.82"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.02",
+    "YearGrowthPercent": "2.41"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.24",
+    "YearGrowthPercent": "-10.25"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.73",
+    "YearGrowthPercent": "-3.98"
+  },
+  {
+    "Distributor": "Kristen Distributing",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.77"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "CSD",
+    "MarketSalesPercent": "24.88",
+    "YearGrowthPercent": "-1.92"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "27.69",
+    "YearGrowthPercent": "1.61"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "WATER",
+    "MarketSalesPercent": "13.83",
+    "YearGrowthPercent": "-14.77"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.83",
+    "YearGrowthPercent": "-0.67"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.05",
+    "YearGrowthPercent": "-1.47"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "TEA",
+    "MarketSalesPercent": "6.08",
+    "YearGrowthPercent": "-14.05"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "JUICE",
+    "MarketSalesPercent": "12.64",
+    "YearGrowthPercent": "-5.15"
+  },
+  {
+    "Distributor": "Lift Off Distributing",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-4.09"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "CSD",
+    "MarketSalesPercent": "29.41",
+    "YearGrowthPercent": "-5.60"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "29.71",
+    "YearGrowthPercent": "6.06"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.16",
+    "YearGrowthPercent": "-3.31"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.08",
+    "YearGrowthPercent": "-0.83"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.02",
+    "YearGrowthPercent": "8.53"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "TEA",
+    "MarketSalesPercent": "2.94",
+    "YearGrowthPercent": "1.69"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "JUICE",
+    "MarketSalesPercent": "9.69",
+    "YearGrowthPercent": "-1.49"
+  },
+  {
+    "Distributor": "Matador Distributing, LLC",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.14"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "CSD",
+    "MarketSalesPercent": "25.49",
+    "YearGrowthPercent": "0.70"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "34.21",
+    "YearGrowthPercent": "0.40"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "WATER",
+    "MarketSalesPercent": "12.14",
+    "YearGrowthPercent": "-9.05"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.61",
+    "YearGrowthPercent": "3.01"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.79",
+    "YearGrowthPercent": "4.26"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.62",
+    "YearGrowthPercent": "-10.64"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.13",
+    "YearGrowthPercent": "-4.78"
+  },
+  {
+    "Distributor": "Power Distributing",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.23"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "CSD",
+    "MarketSalesPercent": "19.60",
+    "YearGrowthPercent": "12.91"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "35.57",
+    "YearGrowthPercent": "5.20"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "WATER",
+    "MarketSalesPercent": "17.44",
+    "YearGrowthPercent": "5.78"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "12.12",
+    "YearGrowthPercent": "14.66"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.42",
+    "YearGrowthPercent": "3.67"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.99",
+    "YearGrowthPercent": "-1.40"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.86",
+    "YearGrowthPercent": "1.65"
+  },
+  {
+    "Distributor": "RBDC Arizona",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "7.22"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "CSD",
+    "MarketSalesPercent": "32.36",
+    "YearGrowthPercent": "-5.23"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "31.45",
+    "YearGrowthPercent": "6.79"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.47",
+    "YearGrowthPercent": "-6.88"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.73",
+    "YearGrowthPercent": "4.16"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.52",
+    "YearGrowthPercent": "12.47"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.29",
+    "YearGrowthPercent": "-4.99"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.18",
+    "YearGrowthPercent": "-5.95"
+  },
+  {
+    "Distributor": "RBDC Arkansas",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.00"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "CSD",
+    "MarketSalesPercent": "19.72",
+    "YearGrowthPercent": "13.70"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "34.80",
+    "YearGrowthPercent": "0.01"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "WATER",
+    "MarketSalesPercent": "15.45",
+    "YearGrowthPercent": "-1.46"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.12",
+    "YearGrowthPercent": "17.14"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.96",
+    "YearGrowthPercent": "7.95"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "TEA",
+    "MarketSalesPercent": "5.72",
+    "YearGrowthPercent": "-4.31"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.23",
+    "YearGrowthPercent": "0.63"
+  },
+  {
+    "Distributor": "RBDC Central CA",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.17"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "CSD",
+    "MarketSalesPercent": "23.36",
+    "YearGrowthPercent": "2.09"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "29.64",
+    "YearGrowthPercent": "3.51"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "WATER",
+    "MarketSalesPercent": "14.86",
+    "YearGrowthPercent": "-7.52"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.04",
+    "YearGrowthPercent": "8.78"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.24",
+    "YearGrowthPercent": "-0.39"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.38",
+    "YearGrowthPercent": "-9.47"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "JUICE",
+    "MarketSalesPercent": "11.48",
+    "YearGrowthPercent": "10.24"
+  },
+  {
+    "Distributor": "RBDC Central Florida",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.79"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "CSD",
+    "MarketSalesPercent": "29.61",
+    "YearGrowthPercent": "-0.39"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "32.12",
+    "YearGrowthPercent": "5.02"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "WATER",
+    "MarketSalesPercent": "10.01",
+    "YearGrowthPercent": "-4.18"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.82",
+    "YearGrowthPercent": "2.79"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.84",
+    "YearGrowthPercent": "12.18"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "TEA",
+    "MarketSalesPercent": "5.14",
+    "YearGrowthPercent": "-6.70"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.46",
+    "YearGrowthPercent": "-6.04"
+  },
+  {
+    "Distributor": "RBDC Central Ohio",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.40"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "CSD",
+    "MarketSalesPercent": "24.88",
+    "YearGrowthPercent": "-2.83"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "26.01",
+    "YearGrowthPercent": "7.26"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.90",
+    "YearGrowthPercent": "-10.85"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "7.67",
+    "YearGrowthPercent": "-2.98"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.30",
+    "YearGrowthPercent": "5.83"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "TEA",
+    "MarketSalesPercent": "17.12",
+    "YearGrowthPercent": "-7.68"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.12",
+    "YearGrowthPercent": "-5.16"
+  },
+  {
+    "Distributor": "RBDC Central PA",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-1.89"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "CSD",
+    "MarketSalesPercent": "23.36",
+    "YearGrowthPercent": "4.70"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "35.43",
+    "YearGrowthPercent": "2.30"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "WATER",
+    "MarketSalesPercent": "12.76",
+    "YearGrowthPercent": "-4.37"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.96",
+    "YearGrowthPercent": "5.31"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.13",
+    "YearGrowthPercent": "1.94"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.58",
+    "YearGrowthPercent": "-8.67"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "JUICE",
+    "MarketSalesPercent": "6.79",
+    "YearGrowthPercent": "-3.53"
+  },
+  {
+    "Distributor": "RBDC Colorado",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.26"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "CSD",
+    "MarketSalesPercent": "21.77",
+    "YearGrowthPercent": "0.04"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.28",
+    "YearGrowthPercent": "7.75"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "WATER",
+    "MarketSalesPercent": "18.24",
+    "YearGrowthPercent": "-12.24"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.86",
+    "YearGrowthPercent": "-0.63"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.95",
+    "YearGrowthPercent": "14.72"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "TEA",
+    "MarketSalesPercent": "6.22",
+    "YearGrowthPercent": "-6.01"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "JUICE",
+    "MarketSalesPercent": "9.67",
+    "YearGrowthPercent": "-3.47"
+  },
+  {
+    "Distributor": "RBDC Connecticut",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.67"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "CSD",
+    "MarketSalesPercent": "18.44",
+    "YearGrowthPercent": "7.50"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "34.96",
+    "YearGrowthPercent": "0.22"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "WATER",
+    "MarketSalesPercent": "15.17",
+    "YearGrowthPercent": "-3.65"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.97",
+    "YearGrowthPercent": "12.26"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.23",
+    "YearGrowthPercent": "10.07"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "TEA",
+    "MarketSalesPercent": "7.30",
+    "YearGrowthPercent": "2.36"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.92",
+    "YearGrowthPercent": "-2.77"
+  },
+  {
+    "Distributor": "RBDC East Bay",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.45"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "CSD",
+    "MarketSalesPercent": "21.45",
+    "YearGrowthPercent": "-2.86"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "26.77",
+    "YearGrowthPercent": "5.05"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "WATER",
+    "MarketSalesPercent": "13.89",
+    "YearGrowthPercent": "-14.72"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.51",
+    "YearGrowthPercent": "-1.84"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.58",
+    "YearGrowthPercent": "2.93"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "TEA",
+    "MarketSalesPercent": "13.60",
+    "YearGrowthPercent": "-11.32"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "JUICE",
+    "MarketSalesPercent": "10.19",
+    "YearGrowthPercent": "-4.97"
+  },
+  {
+    "Distributor": "RBDC East PA",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-3.90"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "CSD",
+    "MarketSalesPercent": "25.88",
+    "YearGrowthPercent": "7.78"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "32.86",
+    "YearGrowthPercent": "8.67"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "WATER",
+    "MarketSalesPercent": "14.17",
+    "YearGrowthPercent": "-2.30"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.62",
+    "YearGrowthPercent": "12.24"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.55",
+    "YearGrowthPercent": "2.23"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "TEA",
+    "MarketSalesPercent": "2.98",
+    "YearGrowthPercent": "-1.44"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.94",
+    "YearGrowthPercent": "6.64"
+  },
+  {
+    "Distributor": "RBDC East Texas",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "6.35"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "CSD",
+    "MarketSalesPercent": "18.23",
+    "YearGrowthPercent": "17.00"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.51",
+    "YearGrowthPercent": "-0.21"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "WATER",
+    "MarketSalesPercent": "20.83",
+    "YearGrowthPercent": "-0.95"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.85",
+    "YearGrowthPercent": "18.09"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.99",
+    "YearGrowthPercent": "15.49"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "TEA",
+    "MarketSalesPercent": "5.15",
+    "YearGrowthPercent": "-1.35"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "JUICE",
+    "MarketSalesPercent": "9.44",
+    "YearGrowthPercent": "-0.75"
+  },
+  {
+    "Distributor": "RBDC Greater LA",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "5.12"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "CSD",
+    "MarketSalesPercent": "28.79",
+    "YearGrowthPercent": "1.00"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "32.40",
+    "YearGrowthPercent": "5.65"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.90",
+    "YearGrowthPercent": "-7.27"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.12",
+    "YearGrowthPercent": "1.84"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "9.04",
+    "YearGrowthPercent": "5.32"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.82",
+    "YearGrowthPercent": "-4.14"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.93",
+    "YearGrowthPercent": "-8.66"
+  },
+  {
+    "Distributor": "RBDC Indiana",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "1.10"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "CSD",
+    "MarketSalesPercent": "37.79",
+    "YearGrowthPercent": "-2.14"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "30.63",
+    "YearGrowthPercent": "7.35"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "WATER",
+    "MarketSalesPercent": "8.17",
+    "YearGrowthPercent": "-13.18"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "7.96",
+    "YearGrowthPercent": "-2.69"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.17",
+    "YearGrowthPercent": "10.32"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.05",
+    "YearGrowthPercent": "-5.61"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.22",
+    "YearGrowthPercent": "-7.77"
+  },
+  {
+    "Distributor": "RBDC Kentucky",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.14"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "CSD",
+    "MarketSalesPercent": "31.98",
+    "YearGrowthPercent": "-1.74"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "31.72",
+    "YearGrowthPercent": "-0.86"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "WATER",
+    "MarketSalesPercent": "10.98",
+    "YearGrowthPercent": "-5.64"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "8.95",
+    "YearGrowthPercent": "2.36"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.26",
+    "YearGrowthPercent": "0.66"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.25",
+    "YearGrowthPercent": "-11.96"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "JUICE",
+    "MarketSalesPercent": "6.86",
+    "YearGrowthPercent": "-8.11"
+  },
+  {
+    "Distributor": "RBDC Minnesota",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-2.24"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "CSD",
+    "MarketSalesPercent": "33.79",
+    "YearGrowthPercent": "-2.63"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.45",
+    "YearGrowthPercent": "3.88"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.82",
+    "YearGrowthPercent": "-6.48"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.93",
+    "YearGrowthPercent": "3.12"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.71",
+    "YearGrowthPercent": "8.23"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "TEA",
+    "MarketSalesPercent": "2.46",
+    "YearGrowthPercent": "-3.68"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.84",
+    "YearGrowthPercent": "-5.51"
+  },
+  {
+    "Distributor": "RBDC North Carolina",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.33"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "CSD",
+    "MarketSalesPercent": "20.21",
+    "YearGrowthPercent": "22.21"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "34.65",
+    "YearGrowthPercent": "3.52"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "WATER",
+    "MarketSalesPercent": "15.87",
+    "YearGrowthPercent": "-12.19"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.92",
+    "YearGrowthPercent": "21.28"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.99",
+    "YearGrowthPercent": "17.72"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.18",
+    "YearGrowthPercent": "-32.86"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.18",
+    "YearGrowthPercent": "-6.31"
+  },
+  {
+    "Distributor": "RBDC North LA",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.22"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "CSD",
+    "MarketSalesPercent": "25.18",
+    "YearGrowthPercent": "-0.65"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "35.43",
+    "YearGrowthPercent": "4.50"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "WATER",
+    "MarketSalesPercent": "10.29",
+    "YearGrowthPercent": "-5.25"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.11",
+    "YearGrowthPercent": "6.90"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.16",
+    "YearGrowthPercent": "9.56"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "TEA",
+    "MarketSalesPercent": "6.58",
+    "YearGrowthPercent": "-7.43"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "JUICE",
+    "MarketSalesPercent": "6.25",
+    "YearGrowthPercent": "-7.62"
+  },
+  {
+    "Distributor": "RBDC North Ohio",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "0.97"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "CSD",
+    "MarketSalesPercent": "31.42",
+    "YearGrowthPercent": "0.77"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "31.81",
+    "YearGrowthPercent": "6.98"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "WATER",
+    "MarketSalesPercent": "10.88",
+    "YearGrowthPercent": "-2.49"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.41",
+    "YearGrowthPercent": "7.59"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.72",
+    "YearGrowthPercent": "9.30"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.80",
+    "YearGrowthPercent": "1.27"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.97",
+    "YearGrowthPercent": "1.69"
+  },
+  {
+    "Distributor": "RBDC Oklahoma",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.53"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "CSD",
+    "MarketSalesPercent": "18.23",
+    "YearGrowthPercent": "10.97"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "37.94",
+    "YearGrowthPercent": "0.19"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "WATER",
+    "MarketSalesPercent": "14.48",
+    "YearGrowthPercent": "2.02"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.31",
+    "YearGrowthPercent": "15.80"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.34",
+    "YearGrowthPercent": "10.14"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "TEA",
+    "MarketSalesPercent": "5.56",
+    "YearGrowthPercent": "-0.52"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.13",
+    "YearGrowthPercent": "0.93"
+  },
+  {
+    "Distributor": "RBDC Sierras",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "4.37"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "CSD",
+    "MarketSalesPercent": "19.96",
+    "YearGrowthPercent": "1.80"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "28.63",
+    "YearGrowthPercent": "-0.92"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "WATER",
+    "MarketSalesPercent": "19.08",
+    "YearGrowthPercent": "-1.24"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "11.33",
+    "YearGrowthPercent": "1.52"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.33",
+    "YearGrowthPercent": "-8.55"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.28",
+    "YearGrowthPercent": "-12.74"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "JUICE",
+    "MarketSalesPercent": "12.40",
+    "YearGrowthPercent": "1.38"
+  },
+  {
+    "Distributor": "Distributor",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.84"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "CSD",
+    "MarketSalesPercent": "19.33",
+    "YearGrowthPercent": "10.86"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "32.97",
+    "YearGrowthPercent": "1.16"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "WATER",
+    "MarketSalesPercent": "17.32",
+    "YearGrowthPercent": "-7.21"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.08",
+    "YearGrowthPercent": "7.90"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.74",
+    "YearGrowthPercent": "9.60"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.68",
+    "YearGrowthPercent": "2.77"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "JUICE",
+    "MarketSalesPercent": "8.88",
+    "YearGrowthPercent": "-4.02"
+  },
+  {
+    "Distributor": "RBDC South Bay",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.05"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "CSD",
+    "MarketSalesPercent": "30.78",
+    "YearGrowthPercent": "2.22"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "32.03",
+    "YearGrowthPercent": "4.90"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.86",
+    "YearGrowthPercent": "-2.59"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.59",
+    "YearGrowthPercent": "4.33"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.86",
+    "YearGrowthPercent": "10.93"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.22",
+    "YearGrowthPercent": "-5.67"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.66",
+    "YearGrowthPercent": "-2.30"
+  },
+  {
+    "Distributor": "RBDC South Ohio",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "2.76"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "CSD",
+    "MarketSalesPercent": "23.60",
+    "YearGrowthPercent": "5.10"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "29.31",
+    "YearGrowthPercent": "5.29"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "WATER",
+    "MarketSalesPercent": "15.57",
+    "YearGrowthPercent": "-0.67"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "12.55",
+    "YearGrowthPercent": "7.00"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.79",
+    "YearGrowthPercent": "6.64"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.42",
+    "YearGrowthPercent": "-5.66"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "JUICE",
+    "MarketSalesPercent": "9.75",
+    "YearGrowthPercent": "-0.32"
+  },
+  {
+    "Distributor": "RBDC Southwest Florida",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.45"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "CSD",
+    "MarketSalesPercent": "27.55",
+    "YearGrowthPercent": "8.16"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "35.84",
+    "YearGrowthPercent": "0.83"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.23",
+    "YearGrowthPercent": "1.20"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.92",
+    "YearGrowthPercent": "12.03"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.11",
+    "YearGrowthPercent": "14.49"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.09",
+    "YearGrowthPercent": "-4.17"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.26",
+    "YearGrowthPercent": "-5.48"
+  },
+  {
+    "Distributor": "RBDC Utah",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.80"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "CSD",
+    "MarketSalesPercent": "23.89",
+    "YearGrowthPercent": "1.63"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "30.15",
+    "YearGrowthPercent": "9.35"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "WATER",
+    "MarketSalesPercent": "15.60",
+    "YearGrowthPercent": "-1.17"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "10.92",
+    "YearGrowthPercent": "9.55"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.69",
+    "YearGrowthPercent": "-1.86"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.46",
+    "YearGrowthPercent": "-9.58"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "JUICE",
+    "MarketSalesPercent": "9.29",
+    "YearGrowthPercent": "-0.12"
+  },
+  {
+    "Distributor": "RBDC West Florida",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.24"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "CSD",
+    "MarketSalesPercent": "29.99",
+    "YearGrowthPercent": "-2.29"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "34.99",
+    "YearGrowthPercent": "2.61"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "WATER",
+    "MarketSalesPercent": "11.04",
+    "YearGrowthPercent": "-3.79"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "8.64",
+    "YearGrowthPercent": "5.13"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "5.66",
+    "YearGrowthPercent": "5.91"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.37",
+    "YearGrowthPercent": "-8.26"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.32",
+    "YearGrowthPercent": "-8.21"
+  },
+  {
+    "Distributor": "RBDC West Michigan",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.38"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "CSD",
+    "MarketSalesPercent": "32.91",
+    "YearGrowthPercent": "-1.6"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "29.64",
+    "YearGrowthPercent": "1.2"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "WATER",
+    "MarketSalesPercent": "10.55",
+    "YearGrowthPercent": "-2.9"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "8.86",
+    "YearGrowthPercent": "4.4"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "7.37",
+    "YearGrowthPercent": "9.0"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "TEA",
+    "MarketSalesPercent": "3.87",
+    "YearGrowthPercent": "-7.5"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "JUICE",
+    "MarketSalesPercent": "6.80",
+    "YearGrowthPercent": "-4.2"
+  },
+  {
+    "Distributor": "RBDC Wisconsin",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-0.1"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "CSD",
+    "MarketSalesPercent": "20.86",
+    "YearGrowthPercent": "3.8"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "38.52",
+    "YearGrowthPercent": "2.6"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "WATER",
+    "MarketSalesPercent": "12.31",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.89",
+    "YearGrowthPercent": "12.4"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "6.19",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.92",
+    "YearGrowthPercent": "3.3"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "JUICE",
+    "MarketSalesPercent": "7.31",
+    "YearGrowthPercent": "-4.3"
+  },
+  {
+    "Distributor": "Redding Distributing",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "3.5"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "CSD",
+    "MarketSalesPercent": "32.19",
+    "YearGrowthPercent": "-4.3"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "30.26",
+    "YearGrowthPercent": "17.0"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "WATER",
+    "MarketSalesPercent": "9.43",
+    "YearGrowthPercent": "-4.1"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.10",
+    "YearGrowthPercent": "12.9"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "8.67",
+    "YearGrowthPercent": "22.2"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "TEA",
+    "MarketSalesPercent": "4.48",
+    "YearGrowthPercent": "7.8"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "JUICE",
+    "MarketSalesPercent": "5.86",
+    "YearGrowthPercent": "4.3"
+  },
+  {
+    "Distributor": "Royal Crown Bottling Corp.",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "6.1"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "CSD",
+    "MarketSalesPercent": "18.98",
+    "YearGrowthPercent": "-3.7"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "ENERGY",
+    "MarketSalesPercent": "26.01",
+    "YearGrowthPercent": "-3.2"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "WATER",
+    "MarketSalesPercent": "21.62",
+    "YearGrowthPercent": "-14.6"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "ISOTONICS",
+    "MarketSalesPercent": "9.40",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "COFFEE",
+    "MarketSalesPercent": "4.37",
+    "YearGrowthPercent": "-1.3"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "TEA",
+    "MarketSalesPercent": "8.84",
+    "YearGrowthPercent": "-14.5"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "JUICE",
+    "MarketSalesPercent": "10.77",
+    "YearGrowthPercent": "-6.5"
+  },
+  {
+    "Distributor": "The Beverage Works",
+    "Type": "TOTAL",
+    "MarketSalesPercent": "100.00",
+    "YearGrowthPercent": "-7.2"
+  }
+]

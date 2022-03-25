@@ -1,0 +1,12 @@
+@import '@redbull/common/style/styles.scss';
+
+.disabled {
+  color: $c-white !important;
+  font-family: $font-bull-bold;
+  font-size: rem(18px);
+  opacity: 1 !important;
+}
+
+.inverted {
+  color: $c-black !important;
+}

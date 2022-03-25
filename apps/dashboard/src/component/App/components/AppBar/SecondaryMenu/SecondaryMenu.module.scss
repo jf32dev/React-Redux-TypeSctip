@@ -1,0 +1,103 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  display: flex;
+  .search {
+    color: $c-white;
+    cursor: pointer;
+    // margin: rem(3px) rem(12px) 0; // commenting out this because we're disabling the "more dropdown - dots" on the right-hand side
+    margin-top: rem(3px);
+    @include media('<md') {
+      margin-left: rem(-8px);
+      // margin-right: rem(32px); // commenting out this because we're disabling the "more dropdown - dots" on the right-hand side
+    }
+  }
+
+  .dots {
+    align-self: center;
+    &:after {
+      color: $c-white;
+      content: '\2807';
+      display: block;
+      font-size: rem(32px);
+      height: 18px;
+      margin-right: rem(30px);
+      width: 15px;
+    }
+    @include media('>=md') {
+      display: none;
+    }
+  }
+
+  .icons {
+    cursor: pointer;
+    display: flex;
+    .icon {
+      display: flex;
+      margin: rem(12px);
+      svg {
+        fill: $c-red;
+      }
+      span {
+        font-family: $font-bull-text-bold;
+        margin-left: rem(20px);
+      }
+      &:hover {
+        span {
+          text-decoration: underline;
+        }
+      }
+      @include media('>=md') {
+        margin: rem(3px) rem(12px) 0;
+        svg {
+          fill: $c-white;
+        }
+        span {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .dropdown {
+    @include media('<=md') {
+      background: $c-white;
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      right: rem(20px);
+      top: calc(100% + 10px);
+      width: rem(270px);
+
+      &:after {
+        border-bottom: 8px solid $c-white;
+        border-left: 9px solid transparent;
+        border-right: 9px solid transparent;
+        content: '';
+        height: 0;
+        position: absolute;
+        right: 10px;
+        top: -6px;
+        width: 0;
+      }
+
+      &.open {
+        display: flex;
+      }
+    }
+    @include media('<=sm') {
+      right: rem(9px);
+    }
+  }
+
+  .overlay {
+    @include media('<=md') {
+      background-color: rgba($c-black, 0.3);
+      height: 100%;
+      left: 0;
+      position: fixed;
+      top: rem(60px);
+      width: 100%;
+    }
+  }
+}

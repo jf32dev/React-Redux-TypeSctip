@@ -1,0 +1,43 @@
+@import '@redbull/common/style/styles.scss';
+
+.item {
+  background: $c-white;
+  font-size: rem(14px);
+  min-width: rem(110px);
+  outline: none;
+  transition: background-color 0.2s ease;
+  width: 100%;
+
+  > * {
+    color: $c-black;
+    display: block;
+    height: 100%;
+    padding: rem(12px);
+    text-transform: capitalize;
+    white-space: nowrap;
+    width: 100%;
+  }
+
+  a:link,
+  a:focus,
+  a:visited {
+    text-decoration: none;
+  }
+
+  &:hover {
+    background-color: $c-grey--1;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+
+  &:active {
+    opacity: 0.5;
+  }
+
+  &.disabled {
+    pointer-events: none;
+    > * {
+      color: $c-grey--4;
+    }
+  }
+}

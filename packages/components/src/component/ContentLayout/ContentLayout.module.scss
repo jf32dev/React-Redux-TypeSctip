@@ -1,0 +1,78 @@
+@import '@redbull/common/style/styles.scss';
+
+.container {
+  background-color: $c-grey--1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 0 rem(20px);
+
+  &.withSideMenu {
+    margin-left: rem(300px);
+    padding: 0 0 0 rem(20px);
+
+    @include media('<md') {
+      margin-left: 0;
+      padding: 0;
+    }
+  }
+
+  .banner {
+    display: flex;
+    flex: 0 0 75px;
+    .heading {
+      align-items: flex-end;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin-bottom: rem(12px);
+      margin-top: 0;
+      width: 100%;
+      .left {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: space-between;
+        .title {
+          color: $c-white;
+          line-height: 1;
+          margin: 0;
+          text-transform: uppercase;
+
+          @include media('<=sm') {
+            font-size: rem(24px);
+          }
+        }
+      }
+      &.withBreadcrumbs {
+        height: 100%;
+        margin-bottom: 0;
+        padding-top: rem(20px);
+      }
+      &.noBackground {
+        .title {
+          color: $c-black;
+        }
+      }
+      .flag {
+        display: flex;
+        .country {
+          color: $c-white;
+          display: block;
+          font-size: rem(18px);
+          line-height: 1.3;
+          margin-left: rem(8px);
+        }
+      }
+    }
+
+    @include media('>sm') {
+      flex: 0 0 12%;
+    }
+    @include media('>=md') {
+      flex: 0 0 20%;
+    }
+  }
+}

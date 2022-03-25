@@ -1,0 +1,32 @@
+@import '@redbull/common/style/styles.scss';
+
+.card {
+  flex: 1;
+  padding: rem(25px);
+  @include media('>=sm') {
+    margin-left: rem(20px);
+    margin-right: rem(20px);
+    margin-top: rem(20px);
+  }
+  .content {
+    figure {
+      flex-basis: calc(50% - 1.8rem);
+      margin: rem(9px);
+    }
+    @include media('>=sm') {
+      figure {
+        flex-basis: calc(20% - 1.8rem);
+      }
+    }
+    @include media('>=lg') {
+      figure {
+        flex-basis: calc(14% - 1.8rem);
+      }
+    }
+    @include media('>=xl') {
+      figure {
+        flex-basis: calc(12% - 1.8rem);
+      }
+    }
+  }
+}

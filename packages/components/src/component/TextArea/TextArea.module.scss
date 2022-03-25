@@ -1,0 +1,97 @@
+@import '@redbull/common/style/styles.scss';
+
+.textarea {
+  width: 100%;
+  label {
+    display: block;
+    font-size: rem(14px);
+    margin-bottom: rem(5px);
+    &.required:after {
+      color: $c-red;
+      content: '*';
+      padding-left: 3px;
+    }
+    @include media('>=md') {
+      font-size: rem(12px);
+    }
+  }
+  .message {
+    background: $c-red--lightest;
+    border-top: 2px solid $c-red;
+    color: $c-grey--8;
+    font-size: rem(14px);
+    padding: rem(6px) rem(10px);
+  }
+  .customtextarea {
+    display: flex;
+    > * {
+      &:first-child {
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+      }
+      &:last-child {
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 0;
+        margin-left: -1px;
+      }
+      &:not(:first-child):not(:last-child) {
+        border-radius: 0;
+        margin-left: -1px;
+      }
+    }
+    textarea {
+      align-items: center;
+      appearance: none;
+      background: $c-white;
+      border: 1px solid $c-grey--3;
+      border-radius: 2px;
+      color: $c-grey--8;
+      display: flex;
+      flex: 1;
+      font-family: $font-bull-regular;
+      font-size: rem(16px);
+      line-height: rem(18px);
+      min-height: rem(36px);
+      padding: rem(6px) rem(9px);
+      resize: none;
+      vertical-align: middle;
+      width: 100%;
+      &:disabled {
+        background-color: inherit;
+        border-color: $c-grey--2;
+        box-shadow: inherit;
+        color: rgba(0, 0, 0, 0.38);
+      }
+      &:focus {
+        background: $c-white;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+        outline: none;
+      }
+      &:read-only {
+        border-color: $c-grey--2;
+      }
+      &[type='number'],
+      [type='text'],
+      [type='time'] {
+        appearance: none;
+      }
+      @include media('>=md') {
+        font-size: rem(14px);
+        min-height: rem(32px);
+      }
+    }
+    &.resizable {
+      textarea {
+        resize: both;
+      }
+    }
+    &.disabled {
+      pointer-events: none;
+    }
+    &.error {
+      textarea {
+        color: $c-red;
+      }
+    }
+  }
+}

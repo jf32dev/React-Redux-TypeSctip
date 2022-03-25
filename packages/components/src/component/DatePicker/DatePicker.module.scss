@@ -1,0 +1,33 @@
+@import '@redbull/common/style/styles.scss';
+
+.datepicker {
+  width: 100%;
+  &.error {
+    input {
+      color: $c-red;
+    }
+  }
+  label {
+    display: block;
+    font-size: rem(14px);
+    margin-bottom: rem(5px);
+
+    @include media('>=md') {
+      font-size: rem(12px);
+    }
+  }
+  .next {
+    transform: rotate(-90deg);
+  }
+
+  .prev {
+    transform: rotate(90deg);
+  }
+  .message {
+    background: $c-red--lightest;
+    border-top: 2px solid $c-red;
+    color: $c-grey--8;
+    font-size: rem(14px);
+    padding: rem(6px) rem(10px);
+  }
+}

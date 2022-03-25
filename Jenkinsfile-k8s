@@ -1,0 +1,110 @@
+pipeline {
+    agent any
+
+    options {
+        timeout(time: 15, unit: 'MINUTES')
+        buildDiscarder(
+            logRotator(
+                artifactDaysToKeepStr: '',
+                artifactNumToKeepStr: '10',
+                daysToKeepStr: '',
+                numToKeepStr: '10'
+            )
+        )
+    }
+
+    stages {
+        stage('Setup Environment') {
+            steps {
+                script {
+                    btc.initEnvironment()
+                }
+            }
+        }
+
+        stage('Tests') {
+            agent {
+                kubernetes {
+                    yamlFile 'cicd-scripts/testPod.yaml'
+                }
+            }
+
+            steps {
+                container('node') {
+                    sh 'cicd-scripts/test.sh'
+                }
+            }
+        }
+
+        stage('Build and push image') {
+            when {
+                anyOf {
+                    changeset 'Jenkinsfile*'
+                    changeset 'Dockerfile*'
+                    changeset 'cicd-scripts/**'
+                    changeset 'packages/**'
+                    changeset 'apps/admin/**'
+                }
+            }
+
+            agent {
+                kubernetes {
+                    yamlFile 'cicd-scripts/KanikoPod.yaml'
+                }
+            }
+
+            steps {
+                container('kaniko') {
+                    sh "${WORKSPACE}/cicd-scripts/kaniko.sh redbulladmin"
+                }
+            }
+        }
+
+        stage('deploy') {
+            agent {
+                label 'k8s'
+            }
+
+            stages {
+                stage('Get info') {
+                    steps {
+                        echo 'Get node infomation'
+                        sh 'kubectl version'
+                        sh 'kustomize version'
+                        sh 'df'
+                    }
+                }
+
+                stage('Deploy k8s deployments') {
+                    when {
+                        anyOf {
+                            changeset 'Jenkinsfile*'
+                            changeset 'Dockerfile*'
+                            changeset 'cicd-scripts/**'
+                            changeset 'packages/**'
+                            changeset 'apps/admin/**'
+                        }
+                    }
+                    steps {
+                        echo 'Dockerize and push to ecr'
+                        sh "${WORKSPACE}/cicd-scripts/k8s_deploy.sh redbulladmin"
+                    }
+                }
+            }
+
+            post {
+                always {
+                    sh "kubectl config use-context ${SYD_DEV_CLUSTER}"
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            script {
+                btc.notifySlack()
+            }
+        }
+    }
+}

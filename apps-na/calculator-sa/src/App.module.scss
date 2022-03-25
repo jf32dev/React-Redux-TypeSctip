@@ -1,0 +1,20 @@
+@import '@redbull/common/style/styles.scss';
+@import '@redbull/common/style/variables.scss';
+body {
+  background: #f7f6f6;
+  margin: 0;
+}
+
+.container {
+  font-family: $font-bull-regular !important;
+  position: relative;
+  .content {
+    margin-left: rem(30px);
+    margin-right: rem(30px);
+    margin-top: rem(10px);
+    @include media('<sm') {
+      margin-left: rem(4px);
+      margin-right: rem(4px);
+    }
+  }
+}

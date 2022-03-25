@@ -1,0 +1,13 @@
+node_modules/
+packages/**/*.stories.tsx
+packages/**/*.d.ts
+packages/**/config/
+packages/**/scripts/
+apps/**/*.stories.tsx
+apps/**/*.d.ts
+apps/**/config/
+apps/**/scripts/
+apps-na/**/*.stories.tsx
+apps-na/**/*.d.ts
+apps-na/**/config/
+apps-na/**/scripts/

@@ -1,0 +1,7 @@
+apiVersion: web.bigtincan.com/v1
+kind: BTCWeb
+metadata:
+  name: NAME
+  namespace: redbull
+spec:
+  image: IMG

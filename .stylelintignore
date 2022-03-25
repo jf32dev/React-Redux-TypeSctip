@@ -1,0 +1,3 @@
+node_modules/
+packages/**/style/_includemedia.scss
+packages/**/style/grid/*.scss

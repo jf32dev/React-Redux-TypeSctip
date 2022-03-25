@@ -1,0 +1,51 @@
+@import '@redbull/common/style/styles.scss';
+
+.landing {
+  .row {
+    @include make-responsive-row();
+    height: auto;
+    padding-left: rem(3px);
+    padding-right: rem(20px);
+
+    @include media('<md') {
+      padding-left: rem(17px);
+    }
+    .tile {
+      flex-basis: calc(50% - 1.8rem);
+      margin: 0.9rem;
+      overflow: hidden;
+      position: relative;
+      .navigation {
+        height: auto;
+        overflow: hidden;
+        padding-top: 100%;
+        position: relative;
+        > * {
+          height: 100%;
+          left: 0;
+          position: absolute;
+          top: 0;
+          width: 100%;
+        }
+      }
+      @include media('>=sm') {
+        flex-basis: calc(33% - 1.8rem);
+      }
+      @include media('>=lg') {
+        flex-basis: calc(25% - 1.8rem);
+      }
+      @include media('>=xl') {
+        flex-basis: calc(20% - 1.8rem);
+      }
+    }
+  }
+  .no-result {
+    flex: 1;
+    padding: rem(25px);
+    @include media('>=sm') {
+      margin-left: rem(20px);
+      margin-right: rem(20px);
+      margin-top: rem(20px);
+    }
+  }
+}
