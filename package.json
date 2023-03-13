@@ -1,10 +1,7 @@
 {
-  "name": "redbull",
+  "name": "",
   "version": "0.1.0",
-  "collaborators": [
-    "Hans C Yustiawan (hans.yustiawan@bigtincan.com)",
-    "Michaela Hercogova (michaela.hercogova@bigtincan.com)"
-  ],
+  "collaborators": [],
   "private": true,
   "homepage": "./",
   "config": {
